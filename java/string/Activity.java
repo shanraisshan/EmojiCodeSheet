@@ -121,5 +121,5 @@ public enum Activity {
 
     //Row#: 8
     BOWLING("🎳"), //https://www.emojibase.com/emoji/1f3b3/bowling
-  OLYMPIC_RINGS("◯‍◯‍◯‍◯‍◯"); //http://emojipedia.org/olympic-rings/
+    OLYMPIC_RINGS("◯‍◯‍◯‍◯‍◯"); //http://emojipedia.org/olympic-rings/
 }
