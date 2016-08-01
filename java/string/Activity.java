@@ -32,7 +32,7 @@ public enum Activity {
     FISHING_POLE_AND_FISH("🎣"), //https://www.emojibase.com/emoji/1f3a3/fishingpoleandfish
     ROW_BOAT("🚣"), //https://www.emojibase.com/emoji/1f6a3/rowboat //http://emojipedia.org/rowboat/
         ROW_BOAT_TYPE_1_2("🚣🏻"),
-        ROW_BOAT_TYPE_3("🚣🏼"}),
+        ROW_BOAT_TYPE_3("🚣🏼"),
         ROW_BOAT_TYPE_4("🚣🏽"),
         ROW_BOAT_TYPE_5("🚣🏾"),
         ROW_BOAT_TYPE_6("🚣🏿"),
@@ -121,5 +121,5 @@ public enum Activity {
 
     //Row#: 8
     BOWLING("🎳"), //https://www.emojibase.com/emoji/1f3b3/bowling
-	OLYMPIC_RINGS("◯‍◯‍◯‍◯‍◯"); //http://emojipedia.org/olympic-rings/
+  OLYMPIC_RINGS("◯‍◯‍◯‍◯‍◯"); //http://emojipedia.org/olympic-rings/
 }
