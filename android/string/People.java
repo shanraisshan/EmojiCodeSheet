@@ -182,7 +182,7 @@ public class People {
         public static final String OPEN_HAND_TYPE_4 = "👐🏽";
         public static final String OPEN_HAND_TYPE_5 = "👐🏾";
         public static final String OPEN_HAND_TYPE_6 = "👐🏿";
-    public static final String FLEXED_BICEPS ="💪"; //https://www.emojibase.com/emoji/1f4aa/flexedbiceps //http://emojipedia.org/flexed-biceps/
+    public static final String FLEXED_BICEPS = "💪"; //https://www.emojibase.com/emoji/1f4aa/flexedbiceps //http://emojipedia.org/flexed-biceps/
         public static final String FLEXED_BICEPS_TYPE_1_2 = "💪🏻";
         public static final String FLEXED_BICEPS_TYPE_3 = "💪🏼";
         public static final String FLEXED_BICEPS_TYPE_4 = "💪🏽";
@@ -195,7 +195,7 @@ public class People {
         public static final String FOLDED_HANDS_TYPE_5 = "🙏🏾";
         public static final String FOLDED_HANDS_TYPE_6 = "🙏🏿";
     public static final String UP_POINTING_INDEX = "☝"; //https://www.emojibase.com/emoji/261d/whiteuppointingindex //http://emojipedia.org/white-up-pointing-index/
-        public static final String UP_POINTING_INDEX_TYPE_1_2 ="☝🏻";
+        public static final String UP_POINTING_INDEX_TYPE_1_2 = "☝🏻";
         public static final String UP_POINTING_INDEX_TYPE_3 = "☝🏼";
         public static final String UP_POINTING_INDEX_TYPE_4 = "☝🏽";
         public static final String UP_POINTING_INDEX_TYPE_5 = "☝🏾";
@@ -310,7 +310,7 @@ public class People {
         public static final String MAN_TYPE_5 = "👨🏾";
         public static final String MAN_TYPE_6 = "👨🏿";
     public static final String WOMEN = "👩"; //https://www.emojibase.com/emoji/1f469/woman //http://emojipedia.org/woman/
-        public static final String WOMEN_TYPE_1_2 ="👩🏻";
+        public static final String WOMEN_TYPE_1_2 = "👩🏻";
         public static final String WOMEN_TYPE_3 = "👩🏼";
         public static final String WOMEN_TYPE_4 = "👩🏽";
         public static final String WOMEN_TYPE_5 = "👩🏾";
