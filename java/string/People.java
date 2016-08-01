@@ -182,7 +182,7 @@ public enum People {
         OPEN_HAND_TYPE_4("👐🏽"),
         OPEN_HAND_TYPE_5("👐🏾"),
         OPEN_HAND_TYPE_6("👐🏿"),
-    FLEXED_BICEPS ="💪"), //https://www.emojibase.com/emoji/1f4aa/flexedbiceps //http://emojipedia.org/flexed-biceps/
+    FLEXED_BICEPS("💪"), //https://www.emojibase.com/emoji/1f4aa/flexedbiceps //http://emojipedia.org/flexed-biceps/
         FLEXED_BICEPS_TYPE_1_2("💪🏻"),
         FLEXED_BICEPS_TYPE_3("💪🏼"),
         FLEXED_BICEPS_TYPE_4("💪🏽"),
@@ -195,7 +195,7 @@ public enum People {
         FOLDED_HANDS_TYPE_5("🙏🏾"),
         FOLDED_HANDS_TYPE_6("🙏🏿"),
     UP_POINTING_INDEX("☝"), //https://www.emojibase.com/emoji/261d/whiteuppointingindex //http://emojipedia.org/white-up-pointing-index/
-        UP_POINTING_INDEX_TYPE_1_2 ="☝🏻"),
+        UP_POINTING_INDEX_TYPE_1_2("☝🏻"),
         UP_POINTING_INDEX_TYPE_3("☝🏼"),
         UP_POINTING_INDEX_TYPE_4("☝🏽"),
         UP_POINTING_INDEX_TYPE_5("☝🏾"),
@@ -310,7 +310,7 @@ public enum People {
         MAN_TYPE_5("👨🏾"),
         MAN_TYPE_6("👨🏿"),
     WOMEN("👩"), //https://www.emojibase.com/emoji/1f469/woman //http://emojipedia.org/woman/
-        WOMEN_TYPE_1_2 ="👩🏻"),
+        WOMEN_TYPE_1_2("👩🏻"),
         WOMEN_TYPE_3("👩🏼"),
         WOMEN_TYPE_4("👩🏽"),
         WOMEN_TYPE_5("👩🏾"),
