@@ -32,7 +32,7 @@ public class Activity {
     public static final String FISHING_POLE_AND_FISH = "🎣"; //https://www.emojibase.com/emoji/1f3a3/fishingpoleandfish
     public static final String ROW_BOAT = "🚣"; //https://www.emojibase.com/emoji/1f6a3/rowboat //http://emojipedia.org/rowboat/
         public static final String ROW_BOAT_TYPE_1_2 = "🚣🏻";
-        public static final String ROW_BOAT_TYPE_3 = "🚣🏼"};
+        public static final String ROW_BOAT_TYPE_3 = "🚣🏼";
         public static final String ROW_BOAT_TYPE_4 = "🚣🏽";
         public static final String ROW_BOAT_TYPE_5 = "🚣🏾";
         public static final String ROW_BOAT_TYPE_6 = "🚣🏿";
