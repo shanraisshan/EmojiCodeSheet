@@ -66,7 +66,7 @@ public class Flags {
 
     //Row#: 7
     public static final int[] COCOS_KEELING_ISLAND = {0x1f1e8, 0x1f1e8}; //https://www.emojibase.com/emoji/1f1e8-1f1e8/flagforcocoskeelingislands
-    public static final int[] COLOMBIA =  {0x1f1e8, 0x1f1f4}; //https://www.emojibase.com/emoji/1f1e8-1f1f4/flagforcolombia
+    public static final int[] COLOMBIA = {0x1f1e8, 0x1f1f4}; //https://www.emojibase.com/emoji/1f1e8-1f1f4/flagforcolombia
     public static final int[] COMOROS = {0x1f1f0, 0x1f1f2}; //https://www.emojibase.com/emoji/1f1f0-1f1f2/flagforcomoros
     public static final int[] CONGO_BRAZZAVILLE = {0x1f1e8, 0x1f1ec}; //https://www.emojibase.com/emoji/1f1e8-1f1ec/flagforcongobrazzaville
     public static final int[] CONGO_KINGSHASA = {0x1f1e8, 0x1f1e9}; //https://www.emojibase.com/emoji/1f1e8-1f1e9/flagforcongokinshasa
