@@ -1,3 +1,5 @@
+package com.string;
+
 /**
  * Shayan Rais (http://shanraisshan.com)
  * created on 8/1/2016
@@ -227,4 +229,16 @@ public enum Objects {
     //Row#: 23
     LEFT_POINTING_MAGNIFYING_GLASS("🔍"), //https://www.emojibase.com/emoji/1f50d/leftpointingmagnifyingglass
     RIGHT_POINTING_MAGNIFYING_GLASS("🔎"); //https://www.emojibase.com/emoji/1f50e/rightpointingmagnifyingglass
+
+//__________________________________________________________________________________________________
+    private final String text;
+
+    Objects(String text) {
+        this.text = text;
+    }
+
+    @Override
+    public String toString() {
+        return text;
+    }
 }

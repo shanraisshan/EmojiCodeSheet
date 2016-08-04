@@ -1,3 +1,5 @@
+package com.string;
+
 /**
  * Shayan Rais (http://shanraisshan.com)
  * created on 8/1/2016
@@ -534,4 +536,16 @@ public enum People {
     DARK_SUN_GLASSES("🕶"), //https://www.emojibase.com/emoji/1f576/darksunglasses
     RING("💍"), //https://www.emojibase.com/emoji/1f48d/ring
     CLOSED_UMBRELLA("🌂"); //https://www.emojibase.com/emoji/1f302/closedumbrella
+
+//__________________________________________________________________________________________________
+    private final String text;
+
+    People(String text) {
+        this.text = text;
+    }
+
+    @Override
+    public String toString() {
+        return text;
+    }
 }

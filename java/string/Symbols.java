@@ -1,3 +1,5 @@
+package com.string;
+
 /**
  * Shayan Rais (http://shanraisshan.com)
  * created on 8/1/2016
@@ -340,4 +342,16 @@ public enum Symbols {
     CLOCK_FACE_TEN_THIRTY("🕥"), //http://www.emojibase.com/emoji/1f565/clockfacetenthirty
     CLOCK_FACE_ELEVEN_THIRTY("🕦"), //http://www.emojibase.com/emoji/1f566/clockfaceeleventhirty
     CLOCK_FACE_TWELVE_THIRTY("🕧"); //http://www.emojibase.com/emoji/1f567/clockfacetwelvethirty
+
+//__________________________________________________________________________________________________
+    private final String text;
+
+    Symbols(String text) {
+        this.text = text;
+    }
+
+    @Override
+    public String toString() {
+        return text;
+    }
 }

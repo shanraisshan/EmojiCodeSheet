@@ -1,3 +1,5 @@
+package com.string;
+
 /**
  * Shayan Rais (http://shanraisshan.com)
  * created on 8/1/2016
@@ -122,4 +124,17 @@ public enum Activity {
     //Row#: 8
     BOWLING("🎳"), //https://www.emojibase.com/emoji/1f3b3/bowling
     OLYMPIC_RINGS("◯‍◯‍◯‍◯‍◯"); //http://emojipedia.org/olympic-rings/
+
+
+//__________________________________________________________________________________________________
+    private final String text;
+
+    Activity(String text) {
+        this.text = text;
+    }
+
+    @Override
+    public String toString() {
+        return text;
+    }
 }

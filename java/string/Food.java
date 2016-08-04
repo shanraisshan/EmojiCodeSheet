@@ -1,3 +1,5 @@
+package com.string;
+
 /**
  * Shayan Rais (http://shanraisshan.com)
  * created on 8/1/2016
@@ -88,4 +90,16 @@ public enum Food {
     BABY_BOTTLE("🍼"), //https://www.emojibase.com/emoji/1f37c/babybottle
     FORK_AND_KNIFE("🍴"), //https://www.emojibase.com/emoji/1f374/forkandknife
     FORK_AND_KNIFE_WITH_PLATE("🍽"); //https://www.emojibase.com/emoji/1f37d/forkandknifewithplate
+
+    //__________________________________________________________________________________________________
+    private final String text;
+
+    Food(String text) {
+        this.text = text;
+    }
+
+    @Override
+    public String toString() {
+        return text;
+    }
 }

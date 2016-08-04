@@ -1,3 +1,5 @@
+package com.string;
+
 /**
  * Shayan Rais (http://shanraisshan.com)
  * created on 8/1/2016
@@ -148,4 +150,16 @@ public enum Travel {
    SYNAGOGUE("🕍"), //http://emojipedia.org/synagogue/
    KAABA("🕋"), //http://emojipedia.org/kaaba/
    SHINTO_SHRINE("⛩"); //http://emojipedia.org/shinto-shrine/
+
+   //__________________________________________________________________________________________________
+   private final String text;
+
+   Travel(String text) {
+      this.text = text;
+   }
+
+   @Override
+   public String toString() {
+      return text;
+   }
 }

@@ -1,3 +1,5 @@
+package com.string;
+
 /**
  * Shayan Rais (http://shanraisshan.com)
  * created on 8/1/2016
@@ -313,4 +315,16 @@ public enum Flags {
     ZAMBIA("🇿🇲"), //https://www.emojibase.com/emoji/1f1ff-1f1f2/flagforzambia
     ZIMBABWE("🇿🇼"), //https://www.emojibase.com/emoji/1f1ff-1f1fc/flagforzimbabwe
     ENGLAND("🇽🇪"); //http://emojipedia.org/flag-for-england/
+
+//__________________________________________________________________________________________________
+    private final String text;
+
+    Flags(String text) {
+        this.text = text;
+    }
+
+    @Override
+    public String toString() {
+        return text;
+    }
 }

@@ -1,3 +1,5 @@
+package com.string;
+
 /**
  * Shayan Rais (http://shanraisshan.com)
  * created on 8/1/2016
@@ -188,4 +190,16 @@ public enum Nature {
     DROPLET("💧"), //https://www.emojibase.com/emoji/1f4a7/droplet
     SPLASHING_SWEAT("💦"), //https://www.emojibase.com/emoji/1f4a6/splashingsweatsymbol
     WATER_WAVE("🌊"); //https://www.emojibase.com/emoji/1f30a/waterwave
+
+//__________________________________________________________________________________________________
+    private final String text;
+
+    Nature(String text) {
+        this.text = text;
+    }
+
+    @Override
+    public String toString() {
+        return text;
+    }
 }
