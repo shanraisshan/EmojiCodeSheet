@@ -15,6 +15,10 @@ Platform and Language
 ----
 Whether you are on iPhone, Android, Web or any other device, gadget, anywhere and you want to implement emoji keyboard just like WhatsApp or any other app. Emoji Code Sheet is your way to go. Just copy the emoji codes of language of your choice, either the **string symbol emojees** or **codepoints**, just do some coding to display the codepoints/symbols into textbox and your done.
 
+How to use this in your project?
+----
+The detail of each language (java, objective-C, php etc) is provided in [Emoji Code Sheet Wiki] (https://github.com/shanraisshan/EmojiCodeSheet/wiki)
+
 Guide
 ----
 Guide Document is available at [EmojiCodeSheet_Guide](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/EmojiCodeSheet_Guide.pdf)
