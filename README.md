@@ -23,7 +23,7 @@ Guide
 ----
 Guide Document is available at [EmojiCodeSheet_Guide](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/EmojiCodeSheet_Guide.pdf)
 
-Emojees are categorized in 8 different tabs just like WhatsApp Android version 2.16.139 as follows
+Emojees are categorized in 8 different tabs just like [WhatsApp Android version 2.16.139](https://github.com/shanraisshan/EmojiCodeSheet/tree/master/!Guide/WhatsApp%20Android%20v2.16.139%20Screenshots) as follows
 
 1. People
 2. Nature
