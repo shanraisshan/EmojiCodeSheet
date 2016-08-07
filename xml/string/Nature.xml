@@ -1,0 +1,803 @@
+<?xml version="1.0"?>
+
+<!-- Shayan Rais (http://shanraisshan.com) -->
+<!-- created on 8/7/2016 -->
+
+<natures>
+
+    <!-- row#: 1 -->
+    <nature>
+        <key>dog_face</key>
+        <value>🐶</value>
+    </nature>
+        <!-- https://www.emojibase.com/emoji/1f436/dogface -->
+    <nature>
+        <key>cat_face</key>
+        <value>🐱</value>
+    </nature>
+        <!-- https://www.emojibase.com/emoji/1f431/catface -->
+    <nature>
+        <key>mouse_face</key>
+        <value>🐭</value>
+    </nature>
+        <!-- https://www.emojibase.com/emoji/1f42d/mouseface -->
+    <nature>
+        <key>hamster_face</key>
+        <value>🐹</value>
+    </nature>
+        <!-- https://www.emojibase.com/emoji/1f439/hamsterface -->
+    <nature>
+        <key>rabbit_face</key>
+        <value>🐰</value>
+    </nature>
+        <!-- https://www.emojibase.com/emoji/1f430/rabbitface -->
+    <nature>
+        <key>bear_face</key>
+        <value>🐻</value>
+    </nature>
+        <!-- https://www.emojibase.com/emoji/1f43b/bearface -->
+    <nature>
+        <key>panda_face</key>
+        <value>🐼</value>
+    </nature>
+        <!-- https://www.emojibase.com/emoji/1f43c/pandaface -->
+    <nature>
+        <key>koala_face</key>
+        <value>🐨</value>
+    </nature>
+        <!-- https://www.emojibase.com/emoji/1f428/koala -->
+
+
+
+    <!-- row#: 2 -->
+    <nature>
+        <key>lion_face</key>
+        <value>🦁</value>
+    </nature>
+    <!-- http://emojipedia.org/lion-face/ -->
+    <nature>
+        <key>cow_face</key>
+        <value>🐮</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f42e/cowface -->
+    <nature>
+        <key>pig_face</key>
+        <value>🐷</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f437/pigface -->
+    <nature>
+        <key>pig_nose</key>
+        <value>🐽</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f43d/pignose -->
+    <nature>
+        <key>frog_face</key>
+        <value>🐸</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f438/frogface -->
+    <nature>
+        <key>octopus</key>
+        <value>🐙</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f419/octopus -->
+    <nature>
+        <key>monkey_face</key>
+        <value>🐵</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f435/monkeyface -->
+    <nature>
+        <key>tiger_face</key>
+        <value>🐯</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f42f/tigerface -->
+
+
+    <!-- row#: 3 -->
+    <nature>
+        <key>see_no_evil_monkey</key>
+        <value>🙈</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f648/seenoevilmonkey -->
+    <nature>
+        <key>hear_no_evil_monkey</key>
+        <value>🙉</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f649/hearnoevilmonkey -->
+    <nature>
+        <key>speak_no_evil_monkey</key>
+        <value>🙊</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f64a/speaknoevilmonkey -->
+    <nature>
+        <key>monkey</key>
+        <value>🐒</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f412/monkey -->
+    <nature>
+        <key>chicken</key>
+        <value>🐔</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f414/chicken -->
+    <nature>
+        <key>penguin</key>
+        <value>🐧</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f427/penguin -->
+    <nature>
+        <key>bird</key>
+        <value>🐦</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f426/bird -->
+    <nature>
+        <key>baby_chick</key>
+        <value>🐤</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f424/babychick -->
+
+
+    <!-- row#: 4 -->
+    <nature>
+        <key>hatching_chick</key>
+        <value>🐣</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f423/hatchingchick -->
+    <nature>
+        <key>front_face_chick</key>
+        <value>🐥</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f425/frontfacingbabychick -->
+    <nature>
+        <key>wolf_face</key>
+        <value>🐺</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f43a/wolfface -->
+    <nature>
+        <key>boar</key>
+        <value>🐗</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f417/boar -->
+    <nature>
+        <key>horse_face</key>
+        <value>🐴</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f434/horseface -->
+    <nature>
+        <key>unicorn_face</key>
+        <value>🦄</value>
+    </nature>
+    <!-- http://emojipedia.org/unicorn-face/ -->
+    <nature>
+        <key>honey_bee</key>
+        <value>🐝</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f41d/honeybee -->
+    <nature>
+        <key>bug</key>
+        <value>🐛</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f41b/bug -->
+
+
+    <!-- row#: 5 -->
+    <nature>
+        <key>snail</key>
+        <value>🐌</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f40c/snail -->
+    <nature>
+        <key>lady_beetle</key>
+        <value>🐞</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f41e/ladybeetle -->
+    <nature>
+        <key>ant</key>
+        <value>🐜</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f41c/ant -->
+    <nature>
+        <key>spider</key>
+        <value>🕷</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f577/spider -->
+    <nature>
+        <key>scorpion</key>
+        <value>🦂</value>
+    </nature>
+    <!-- http://emojipedia.org/scorpion/ -->
+    <nature>
+        <key>crab</key>
+        <value>🦀</value>
+    </nature>
+    <!-- http://emojipedia.org/crab/ -->
+    <nature>
+        <key>snake</key>
+        <value>🐍</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f40d/snake -->
+    <nature>
+        <key>turtle</key>
+        <value>🐢</value>
+    </nature>
+
+    <!-- https://www.emojibase.com/emoji/1f422/turtle -->
+
+
+    <!-- row#: 6 -->
+    <nature>
+        <key>tropical_fish</key>
+        <value>🐠</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f420/tropicalfish -->
+    <nature>
+        <key>fish</key>
+        <value>🐟</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f41f/fish -->
+    <nature>
+        <key>blow_fish</key>
+        <value>🐡</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f421/blowfish -->
+    <nature>
+        <key>dolphin</key>
+        <value>🐬</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f42c/dolphin -->
+    <nature>
+        <key>spouting_whale</key>
+        <value>🐳</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f433/spoutingwhale -->
+    <nature>
+        <key>whale</key>
+        <value>🐋</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f40b/whale -->
+    <nature>
+        <key>crocodile</key>
+        <value>🐊</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f40a/crocodile -->
+    <nature>
+        <key>leopard</key>
+        <value>🐆</value>
+    </nature>
+
+    <!-- https://www.emojibase.com/emoji/1f406/leopard -->
+
+
+    <!-- row#: 7 -->
+    <nature>
+        <key>tiger</key>
+        <value>🐅</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f405/tiger -->
+    <nature>
+        <key>water_buffalo</key>
+        <value>🐃</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f403/waterbuffalo -->
+    <nature>
+        <key>ox</key>
+        <value>🐂</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f402/ox -->
+    <nature>
+        <key>cow</key>
+        <value>🐄</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f404/cow -->
+    <nature>
+        <key>dromedary_camel</key>
+        <value>🐪</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f42a/dromedarycamel -->
+    <nature>
+        <key>bactrian_camel</key>
+        <value>🐫</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f42b/bactriancamel -->
+    <nature>
+        <key>elephant</key>
+        <value>🐘</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f418/elephant -->
+    <nature>
+        <key>goat</key>
+        <value>🐐</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f410/goat -->
+
+
+    <!-- row#: 8 -->
+    <nature>
+        <key>ram</key>
+        <value>🐏</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f40f/ram -->
+    <nature>
+        <key>sheep</key>
+        <value>🐑</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f411/sheep -->
+    <nature>
+        <key>horse</key>
+        <value>🐎</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f40e/horse -->
+    <nature>
+        <key>pig</key>
+        <value>🐖</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f416/pig -->
+    <nature>
+        <key>rat</key>
+        <value>🐀</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f400/rat -->
+    <nature>
+        <key>mouse</key>
+        <value>🐁</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f401/mouse -->
+    <nature>
+        <key>rooster</key>
+        <value>🐓</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f413/rooster -->
+    <nature>
+        <key>turkey</key>
+        <value>🦃</value>
+    </nature>
+    <!-- http://emojipedia.org/turkey/ -->
+
+
+    <!-- row#: 9 -->
+    <nature>
+        <key>dove</key>
+        <value>🕊</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f54a/doveofpeace -->
+    <nature>
+        <key>dog</key>
+        <value>🐕</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f415/dog -->
+    <nature>
+        <key>poodle</key>
+        <value>🐩</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f429/poodle -->
+    <nature>
+        <key>cat</key>
+        <value>🐈</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f408/cat -->
+    <nature>
+        <key>rabbit</key>
+        <value>🐇</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f407/rabbit -->
+    <nature>
+        <key>chipmunk</key>
+        <value>🐿</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f43f/chipmunk -->
+    <nature>
+        <key>paw_prints</key>
+        <value>🐾</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f43e/pawprints -->
+    <nature>
+        <key>dragon</key>
+        <value>🐉</value>
+    </nature>
+
+    <!-- https://www.emojibase.com/emoji/1f409/dragon -->
+
+
+    <!-- row#: 10 -->
+    <nature>
+        <key>dragon_face</key>
+        <value>🐲</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f432/dragonface -->
+    <nature>
+        <key>cactus</key>
+        <value>🌵</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f335/cactus -->
+    <nature>
+        <key>christmas_tree</key>
+        <value>🎄</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f384/christmastree -->
+    <nature>
+        <key>ever_green_tree</key>
+        <value>🌲</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f332/evergreentree -->
+    <nature>
+        <key>deciduous_tree</key>
+        <value>🌳</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f333/deciduoustree -->
+    <nature>
+        <key>palm_tree</key>
+        <value>🌴</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f334/palmtree -->
+    <nature>
+        <key>seedling</key>
+        <value>🌱</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f331/seedling -->
+    <nature>
+        <key>herb</key>
+        <value>🌿</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f33f/herb -->
+
+
+    <!-- row#: 11 -->
+    <nature>
+        <key>shamrock</key>
+        <value>☘</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/2618/shamrock -->
+    <nature>
+        <key>four_leaf</key>
+        <value>🍀</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f340/fourleafclover -->
+    <nature>
+        <key>pine_decoration</key>
+        <value>🎍</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f38d/pinedecoration -->
+    <nature>
+        <key>tanabata_tree</key>
+        <value>🎋</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f38b/tanabatatree -->
+    <nature>
+        <key>leaf_wind</key>
+        <value>🍃</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f343/leafflutteringinwind -->
+    <nature>
+        <key>fallen_leaf</key>
+        <value>🍂</value>
+    </nature> <!-- https://www.emojibase.com/emoji/1f342/fallenleaf -->
+    <nature>
+        <key>maple_leaf</key>
+        <value>🍁</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f341/mapleleaf -->
+    <nature>
+        <key>ear_of_rice</key>
+        <value>🌾</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f33e/earofrice -->
+
+
+    <!-- row#: 12 -->
+    <nature>
+        <key>hibiscus</key>
+        <value>🌺</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f33a/hibiscus -->
+    <nature>
+        <key>sunflower</key>
+        <value>🌻</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f33b/sunflower -->
+    <nature>
+        <key>rose</key>
+        <value>🌹</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f339/rose -->
+    <nature>
+        <key>tulip</key>
+        <value>🌷</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f337/tulip -->
+    <nature>
+        <key>blossom</key>
+        <value>🌼</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f33c/blossom -->
+    <nature>
+        <key>cherry_blossom</key>
+        <value>🌸</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f338/cherryblossom -->
+    <nature>
+        <key>bouquet</key>
+        <value>💐</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f490/bouquet -->
+    <nature>
+        <key>mushroom</key>
+        <value>🍄</value>
+    </nature>
+
+    <!-- https://www.emojibase.com/emoji/1f344/mushroom -->
+
+
+    <!-- row#: 13 -->
+    <nature>
+        <key>chestnut</key>
+        <value>🌰</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f330/chestnut -->
+    <nature>
+        <key>jack_o_lantern</key>
+        <value>🎃</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f383/jackolantern -->
+    <nature>
+        <key>spiral_shell</key>
+        <value>🐚</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f41a/spiralshell -->
+    <nature>
+        <key>spider_web</key>
+        <value>🕸</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f578/spiderweb -->
+    <nature>
+        <key>earth_america</key>
+        <value>🌎</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f30e/earthglobeamericas -->
+    <nature>
+        <key>earth_europe</key>
+        <value>🌍</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f30d/earthglobeeuropeafrica -->
+    <nature>
+        <key>earth_australia</key>
+        <value>🌏</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f30f/earthglobeasiaaustralia -->
+    <nature>
+        <key>full_moon</key>
+        <value>🌕</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f315/fullmoonsymbol -->
+
+
+    <!-- row#: 14 -->
+    <nature>
+        <key>waning_gibbous_moon</key>
+        <value>🌖</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f316/waninggibbousmoonsymbol -->
+    <nature>
+        <key>last_quarter_moon</key>
+        <value>🌗</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f317/lastquartermoonsymbol -->
+    <nature>
+        <key>waning_crescent_moon</key>
+        <value>🌘</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f318/waningcrescentmoonsymbol -->
+    <nature>
+        <key>new_moon_symbol</key>
+        <value>🌑</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f311/newmoonsymbol -->
+    <nature>
+        <key>waxing_crescent_moon</key>
+        <value>🌒</value>
+    </nature> 
+    <!-- https://www.emojibase.com/emoji/1f312/waxingcrescentmoonsymbol -->
+    <nature>
+        <key>first_quarter_moon</key>
+        <value>🌓</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f313/firstquartermoonsymbol -->
+    <nature>
+        <key>waxing_gibbous_moon</key>
+        <value>🌔</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f314/waxinggibbousmoonsymbol -->
+    <nature>
+        <key>new_moon_with_face</key>
+        <value>🌚</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f31a/newmoonwithface -->
+
+
+    <!-- row#: 15 -->
+    <nature>
+        <key>full_moon_face</key>
+        <value>🌝</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f31d/fullmoonwithface -->
+    <nature>
+        <key>first_quarter_moon_face</key>
+        <value>🌛</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f31b/firstquartermoonwithface -->
+    <nature>
+        <key>last_quarter_moon_face</key>
+        <value>🌜</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f31c/lastquartermoonwithface -->
+    <nature>
+        <key>sun_face</key>
+        <value>🌞</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f31e/sunwithface -->
+    <nature>
+        <key>crescent_moon</key>
+        <value>🌙</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f319/crescentmoon -->
+    <nature>
+        <key>white_star</key>
+        <value>⭐</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/2b50/whitemediumstar -->
+    <nature>
+        <key>glowing_star</key>
+        <value>🌟</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f31f/glowingstar -->
+    <nature>
+        <key>dizzy_symbol</key>
+        <value>💫</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f4ab/dizzysymbol -->
+
+
+    <!-- row#: 16 -->
+    <nature>
+        <key>sparkles</key>
+        <value>✨</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/2728/sparkles -->
+    <nature>
+        <key>comet</key>
+        <value>☄</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/2604/comet -->
+    <nature>
+        <key>black_sun_with_rays</key>
+        <value>☀</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/2600/blacksunwithrays -->
+    <nature>
+        <key>white_sun_small_cloud</key>
+        <value>🌤</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f324/whitesunwithsmallcloud -->
+    <nature>
+        <key>sun_behind_cloud</key>
+        <value>⛅</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/26c5/sunbehindcloud -->
+    <nature>
+        <key>white_sun_behind_cloud</key>
+        <value>🌥</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f325/whitesunbehindcloud -->
+    <nature>
+        <key>white_sun_behind_cloud_rain</key>
+        <value>🌦</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f326/whitesunbehindcloudwithrain -->
+    <nature>
+        <key>cloud</key>
+        <value>☁</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/2601/cloud -->
+
+
+    <!-- row#: 17 -->
+    <nature>
+        <key>cloud_with_rain</key>
+        <value>🌧</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f327/cloudwithrain -->
+    <nature>
+        <key>thunder_cloud_rain</key>
+        <value>⛈</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/26c8/thundercloudandrain -->
+    <nature>
+        <key>cloud_lightening</key>
+        <value>🌩</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f329/cloudwithlightning -->
+    <nature>
+        <key>high_voltage</key>
+        <value>⚡</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/26a1/highvoltagesign -->
+    <nature>
+        <key>fire</key>
+        <value>🔥</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f525/fire -->
+    <nature>
+        <key>collision</key>
+        <value>💥</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f4a5/collisionsymbol -->
+    <nature>
+        <key>snow_flake</key>
+        <value>❄</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/2744/snowflake -->
+    <nature>
+        <key>cloud_with_snow</key>
+        <value>🌨</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f328/cloudwithsnow -->
+
+
+    <!-- row#: 18 -->
+    <nature>
+        <key>snowman</key>
+        <value>☃</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/2603/snowman -->
+    <nature>
+        <key>snowman_without_snow</key>
+        <value>⛄</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/26c4/snowmanwithoutsnow -->
+    <nature>
+        <key>wind_blowing_face</key>
+        <value>🌬</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f32c/windblowingface -->
+    <nature>
+        <key>dash_symbol</key>
+        <value>💨</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f4a8/dashsymbol -->
+    <nature>
+        <key>cloud_with_tornado</key>
+        <value>🌪</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f32a/cloudwithtornado -->
+    <nature>
+        <key>fog</key>
+        <value>🌫</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f32b/fog -->
+    <nature>
+        <key>umbrella</key>
+        <value>☂</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/2602/umbrella -->
+    <nature>
+        <key>umbrella_with_rain_drops</key>
+        <value>☔</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/2614/umbrellawithraindrops -->
+
+
+    <!-- row#: 19 -->
+    <nature>
+        <key>droplet</key>
+        <value>💧</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f4a7/droplet -->
+    <nature>
+        <key>splashing_sweat</key>
+        <value>💦</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f4a6/splashingsweatsymbol -->
+    <nature>
+        <key>water_wave</key>
+        <value>🌊</value>
+    </nature>
+    <!-- https://www.emojibase.com/emoji/1f30a/waterwave -->
+
+</natures>
