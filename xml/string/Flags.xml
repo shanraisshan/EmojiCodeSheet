@@ -1,0 +1,1310 @@
+<?xml version="1.0"?>
+
+<!-- Shayan Rais (http://shanraisshan.com) -->
+<!-- created on 8/7/2016 -->
+
+<flags>
+
+    <!-- row: 1 -->
+    <flag>
+        <key>afghanistan</key>
+        <value>🇦🇫</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1eb/flagforafghanistan -->
+    <flag>
+        <key>land_island</key>
+        <value>🇦🇽</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1fd/flagforlandislands -->
+    <flag>
+        <key>albania</key>
+        <value>🇦🇱</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1f1/flagforalbania -->
+    <flag>
+        <key>algeria</key>
+        <value>🇩🇿</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e9-1f1ff/flagforalgeria -->
+    <flag>
+        <key>american_samoa</key>
+        <value>🇦🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1f8/flagforamericansamoa -->
+    <flag>
+        <key>andorra</key>
+        <value>🇦🇩</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1e9/flagforandorra -->
+    <flag>
+        <key>angola</key>
+        <value>🇦🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1f4/flagforangola -->
+    <flag>
+        <key>anguilla</key>
+        <value>🇦🇮</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1ee/flagforanguilla -->
+
+    <!-- row: 2 -->
+    <flag>
+        <key>antarctica</key>
+        <value>🇦🇶</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1f6/flagforantarctica -->
+    <flag>
+        <key>antigua_and_barbuda</key>
+        <value>🇦🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1ec/flagforantiguaandbarbuda -->
+    <flag>
+        <key>argentina</key>
+        <value>🇦🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1f7/flagforargentina -->
+    <flag>
+        <key>armenia</key>
+        <value>🇦🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1f2/flagforarmenia -->
+    <flag>
+        <key>aruba</key>
+        <value>🇦🇼</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1fc/flagforaruba -->
+    <flag>
+        <key>australia</key>
+        <value>🇦🇺</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1fa/flagforaustralia -->
+    <flag>
+        <key>austria</key>
+        <value>🇦🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1f9/flagforaustria -->
+    <flag>
+        <key>azerbaijan</key>
+        <value>🇦🇿</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1ff/flagforazerbaijan -->
+
+    <!-- row: 3 -->
+    <flag>
+        <key>bahamas</key>
+        <value>🇧🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1f8/flagforbahamas -->
+    <flag>
+        <key>bahrain</key>
+        <value>🇧🇭</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1ed/flagforbahrain -->
+    <flag>
+        <key>bangladesh</key>
+        <value>🇧🇩</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1e9/flagforbangladesh -->
+    <flag>
+        <key>barbados</key>
+        <value>🇧🇧</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1e7/flagforbarbados -->
+    <flag>
+        <key>belarus</key>
+        <value>🇧🇾</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1fe/flagforbelarus -->
+    <flag>
+        <key>belgium</key>
+        <value>🇧🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1ea/flagforbelgium -->
+    <flag>
+        <key>belize</key>
+        <value>🇧🇿</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1ff/flagforbelize -->
+    <flag>
+        <key>benin</key>
+        <value>🇧🇯</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1ef/flagforbenin -->
+
+    <!-- row: 4 -->
+    <flag>
+        <key>bermuda</key>
+        <value>🇧🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1f2/flagforbermuda -->
+    <flag>
+        <key>bhutan</key>
+        <value>🇧🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1f9/flagforbhutan -->
+    <flag>
+        <key>bolivia</key>
+        <value>🇧🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1f4/flagforbolivia -->
+    <flag>
+        <key>caribbean_netherlands</key>
+        <value>🇧🇶</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1f6/flagforcaribbeannetherlands -->
+    <flag>
+        <key>bosnia_and_herzegovina</key>
+        <value>🇧🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1e6/flagforbosniaandherzegovina -->
+    <flag>
+        <key>botswana</key>
+        <value>🇧🇼</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1fc/flagforbotswana -->
+    <flag>
+        <key>brazil</key>
+        <value>🇧🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1f7/flagforbrazil -->
+    <flag>
+        <key>british_indian_ocean_territory</key>
+        <value>🇮🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1f4/flagforbritishindianoceanterritory -->
+
+    <!-- row: 5 -->
+    <flag>
+        <key>british_virgin_islands</key>
+        <value>🇻🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fb-1f1ec/flagforbritishvirginislands -->
+    <flag>
+        <key>brunei</key>
+        <value>🇧🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1f3/flagforbrunei -->
+    <flag>
+        <key>bulgaria</key>
+        <value>🇧🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1ec/flagforbulgaria -->
+    <flag>
+        <key>burkina_faso</key>
+        <value>🇧🇫</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1eb/flagforburkinafaso -->
+    <flag>
+        <key>burundi</key>
+        <value>🇧🇮</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1ee/flagforburundi -->
+    <flag>
+        <key>cape_verde</key>
+        <value>🇨🇻</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1fb/flagforcapeverde -->
+    <flag>
+        <key>cambodia</key>
+        <value>🇰🇭</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1ed/flagforcambodia -->
+    <flag>
+        <key>cameroon</key>
+        <value>🇨🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1f2/flagforcameroon -->
+
+    <!-- row: 6 -->
+    <flag>
+        <key>canada</key>
+        <value>🇨🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1e6/flagforcanada -->
+    <flag>
+        <key>canary_islands</key>
+        <value>🇮🇨</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1e8/flagforcanaryislands -->
+    <flag>
+        <key>cayman_islands</key>
+        <value>🇰🇾</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1fe/flagforcaymanislands -->
+    <flag>
+        <key>central_african_republic</key>
+        <value>🇨🇫</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1eb/flagforcentralafricanrepublic -->
+    <flag>
+        <key>chad</key>
+        <value>🇹🇩</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1e9/flagforchad -->
+    <flag>
+        <key>chile</key>
+        <value>🇨🇱</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1f1/flagforchile -->
+    <flag>
+        <key>china</key>
+        <value>🇨🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1f3/flagforchina -->
+    <flag>
+        <key>christmas_island</key>
+        <value>🇨🇽</value>
+    </flag>
+    <!-- http://emojipedia.org/flag-for-christmas-island/ -->
+
+    <!-- row: 7 -->
+    <flag>
+        <key>cocos_keeling_island</key>
+        <value>🇨🇨</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1e8/flagforcocoskeelingislands -->
+    <flag>
+        <key>colombia</key>
+        <value>🇨🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1f4/flagforcolombia -->
+    <flag>
+        <key>comoros</key>
+        <value>🇰🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1f2/flagforcomoros -->
+    <flag>
+        <key>congo_brazzaville</key>
+        <value>🇨🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1ec/flagforcongobrazzaville -->
+    <flag>
+        <key>congo_kingshasa</key>
+        <value>🇨🇩</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1e9/flagforcongokinshasa -->
+    <flag>
+        <key>cook_islands</key>
+        <value>🇨🇰</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1f0/flagforcookislands -->
+    <flag>
+        <key>costa_rica</key>
+        <value>🇨🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1f7/flagforcostarica -->
+    <flag>
+        <key>croatia</key>
+        <value>🇭🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ed-1f1f7/flagforcroatia -->
+
+    <!-- row: 8 -->
+    <flag>
+        <key>cuba</key>
+        <value>🇨🇺</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1fa/flagforcuba -->
+    <flag>
+        <key>curaao</key>
+        <value>🇨🇼</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1fc/flagforcuraao -->
+    <flag>
+        <key>cyprus</key>
+        <value>🇨🇾</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1fe/flagforcyprus -->
+    <flag>
+        <key>czech_republic</key>
+        <value>🇨🇿</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1ff/flagforczechrepublic -->
+    <flag>
+        <key>denmark</key>
+        <value>🇩🇰</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e9-1f1f0/flagfordenmark -->
+    <flag>
+        <key>djibouti</key>
+        <value>🇩🇯</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e9-1f1ef/flagfordjibouti -->
+    <flag>
+        <key>dominica</key>
+        <value>🇩🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e9-1f1f2/flagfordominica -->
+    <flag>
+        <key>dominican_republic</key>
+        <value>🇩🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e9-1f1f4/flagfordominicanrepublic -->
+
+    <!-- row: 9 -->
+    <flag>
+        <key>ecuador</key>
+        <value>🇪🇨</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ea-1f1e8/flagforecuador -->
+    <flag>
+        <key>egypt</key>
+        <value>🇪🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ea-1f1ec/flagforegypt -->
+    <flag>
+        <key>el_salvador</key>
+        <value>🇸🇻</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1fb/flagforelsalvador -->
+    <flag>
+        <key>equatorial_guinea</key>
+        <value>🇬🇶</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1f6/flagforequatorialguinea -->
+    <flag>
+        <key>eritrea</key>
+        <value>🇪🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ea-1f1f7/flagforeritrea -->
+    <flag>
+        <key>estonia</key>
+        <value>🇪🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ea-1f1ea/flagforestonia -->
+    <flag>
+        <key>ethiopia</key>
+        <value>🇪🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ea-1f1f9/flagforethiopia -->
+    <flag>
+        <key>european_union</key>
+        <value>🇪🇺</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ea-1f1fa/flagforeuropeanunion -->
+
+    <!-- row: 10 -->
+    <flag>
+        <key>falkland_islands</key>
+        <value>🇫🇰</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1eb-1f1f0/flagforfalklandislands -->
+    <flag>
+        <key>faroe_islands</key>
+        <value>🇫🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1eb-1f1f4/flagforfaroeislands -->
+    <flag>
+        <key>fiji</key>
+        <value>🇫🇯</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1eb-1f1ef/flagforfiji -->
+    <flag>
+        <key>finland</key>
+        <value>🇫🇮</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1eb-1f1ee/flagforfinland -->
+    <flag>
+        <key>france</key>
+        <value>🇫🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1eb-1f1f7/flagforfrance -->
+    <flag>
+        <key>french_guiana</key>
+        <value>🇬🇫</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1eb/flagforfrenchguiana -->
+    <flag>
+        <key>french_polynesia</key>
+        <value>🇵🇫</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1eb/flagforfrenchpolynesia -->
+    <flag>
+        <key>french_southern_territories</key>
+        <value>🇹🇫</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1eb/flagforfrenchsouthernterritories -->
+
+    <!-- row: 11 -->
+    <flag>
+        <key>gabon</key>
+        <value>🇬🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1e6/flagforgabon -->
+    <flag>
+        <key>gambia</key>
+        <value>🇬🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1f2/flagforgambia -->
+    <flag>
+        <key>georgia</key>
+        <value>🇬🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1ea/flagforgeorgia -->
+    <flag>
+        <key>germany</key>
+        <value>🇩🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e9-1f1ea/flagforgermany -->
+    <flag>
+        <key>ghana</key>
+        <value>🇬🇭</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1ed/flagforghana -->
+    <flag>
+        <key>gibraltar</key>
+        <value>🇬🇮</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1ee/flagforgibraltar -->
+    <flag>
+        <key>greece</key>
+        <value>🇬🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1f7/flagforgreece -->
+    <flag>
+        <key>greenland</key>
+        <value>🇬🇱</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1f1/flagforgreenland -->
+
+    <!-- row: 12 -->
+    <flag>
+        <key>grenada</key>
+        <value>🇬🇩</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1e9/flagforgrenada -->
+    <flag>
+        <key>guadeloupe</key>
+        <value>🇬🇵</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1f5/flagforguadeloupe -->
+    <flag>
+        <key>guam</key>
+        <value>🇬🇺</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1fa/flagforguam -->
+    <flag>
+        <key>guatemala</key>
+        <value>🇬🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1f9/flagforguatemala -->
+    <flag>
+        <key>guernsey</key>
+        <value>🇬🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1ec/flagforguernsey -->
+    <flag>
+        <key>guinea</key>
+        <value>🇬🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1f3/flagforguinea -->
+    <flag>
+        <key>guinea_bissau</key>
+        <value>🇬🇼</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1fc/flagforguineabissau -->
+    <flag>
+        <key>guyana</key>
+        <value>🇬🇾</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1fe/flagforguyana -->
+
+    <!-- row: 13 -->
+    <flag>
+        <key>haiti</key>
+        <value>🇭🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ed-1f1f9/flagforhaiti -->
+    <flag>
+        <key>honduras</key>
+        <value>🇭🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ed-1f1f3/flagforhonduras -->
+    <flag>
+        <key>hong_kong</key>
+        <value>🇭🇰</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ed-1f1f0/flagforhongkong -->
+    <flag>
+        <key>hungary</key>
+        <value>🇭🇺</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ed-1f1fa/flagforhungary -->
+    <flag>
+        <key>iceland</key>
+        <value>🇮🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1f8/flagforiceland -->
+    <flag>
+        <key>india</key>
+        <value>🇮🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1f3/flagforindia -->
+    <flag>
+        <key>indonesia</key>
+        <value>🇮🇩</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1e9/flagforindonesia -->
+    <flag>
+        <key>iran</key>
+        <value>🇮🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1f7/flagforiran -->
+
+    <!-- row: 14 -->
+    <flag>
+        <key>iraq</key>
+        <value>🇮🇶</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1f6/flagforiraq -->
+    <flag>
+        <key>ireland</key>
+        <value>🇮🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1ea/flagforireland -->
+    <flag>
+        <key>isle_of_man</key>
+        <value>🇮🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1f2/flagforisleofman -->
+    <flag>
+        <key>israel</key>
+        <value>🇮🇱</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1f1/flagforisrael -->
+    <flag>
+        <key>italy</key>
+        <value>🇮🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ee-1f1f9/flagforitaly -->
+    <flag>
+        <key>ctedivoire</key>
+        <value>🇨🇮</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1ee/flagforctedivoire -->
+    <flag>
+        <key>jamaica</key>
+        <value>🇯🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ef-1f1f2/flagforjamaica -->
+    <flag>
+        <key>japan</key>
+        <value>🇯🇵</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ef-1f1f5/flagforjapan -->
+
+    <!-- row: 15 -->
+    <flag>
+        <key>jersey</key>
+        <value>🇯🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ef-1f1ea/flagforjersey -->
+    <flag>
+        <key>jordan</key>
+        <value>🇯🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ef-1f1f4/flagforjordan -->
+    <flag>
+        <key>kazakhstan</key>
+        <value>🇰🇿</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1ff/flagforkazakhstan -->
+    <flag>
+        <key>kenya</key>
+        <value>🇰🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1ea/flagforkenya -->
+    <flag>
+        <key>kiribati</key>
+        <value>🇰🇮</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1ee/flagforkiribati -->
+    <flag>
+        <key>kosovo</key>
+        <value>🇽🇰</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fd-1f1f0/flagforkosovo -->
+    <flag>
+        <key>kuwait</key>
+        <value>🇰🇼</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1fc/flagforkuwait -->
+    <flag>
+        <key>kyrgyzstan</key>
+        <value>🇰🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1ec/flagforkyrgyzstan -->
+
+    <!-- row: 16 -->
+    <flag>
+        <key>laos</key>
+        <value>🇱🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1e6/flagforlaos -->
+    <flag>
+        <key>latvia</key>
+        <value>🇱🇻</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1fb/flagforlatvia -->
+    <flag>
+        <key>lebanon</key>
+        <value>🇱🇧</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1e7/flagforlebanon -->
+    <flag>
+        <key>lesotho</key>
+        <value>🇱🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1f8/flagforlesotho -->
+    <flag>
+        <key>liberia</key>
+        <value>🇱🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1f7/flagforliberia -->
+    <flag>
+        <key>libya</key>
+        <value>🇱🇾</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1fe/flagforlibya -->
+    <flag>
+        <key>liechtenstein</key>
+        <value>🇱🇮</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1ee/flagforliechtenstein -->
+    <flag>
+        <key>lithuania</key>
+        <value>🇱🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1f9/flagforlithuania -->
+
+    <!-- row: 17 -->
+    <flag>
+        <key>luxembourg</key>
+        <value>🇱🇺</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1fa/flagforluxembourg -->
+    <flag>
+        <key>macau</key>
+        <value>🇲🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1f4/flagformacau -->
+    <flag>
+        <key>macedonia</key>
+        <value>🇲🇰</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1f0/flagformacedonia -->
+    <flag>
+        <key>madagascar</key>
+        <value>🇲🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1ec/flagformadagascar -->
+    <flag>
+        <key>malawi</key>
+        <value>🇲🇼</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1fc/flagformalawi -->
+    <flag>
+        <key>malaysia</key>
+        <value>🇲🇾</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1fe/flagformalaysia -->
+    <flag>
+        <key>maldives</key>
+        <value>🇲🇻</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1fb/flagformaldives -->
+    <flag>
+        <key>mali</key>
+        <value>🇲🇱</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1f1/flagformali -->
+
+    <!-- row: 18 -->
+    <flag>
+        <key>malta</key>
+        <value>🇲🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1f9/flagformalta -->
+    <flag>
+        <key>marshall_islands</key>
+        <value>🇲🇭</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1ed/flagformarshallislands -->
+    <flag>
+        <key>martinique</key>
+        <value>🇲🇶</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1f6/flagformartinique -->
+    <flag>
+        <key>mauritania</key>
+        <value>🇲🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1f7/flagformauritania -->
+    <flag>
+        <key>mauritius</key>
+        <value>🇲🇺</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1fa/flagformauritius -->
+    <flag>
+        <key>mayotte</key>
+        <value>🇾🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fe-1f1f9/flagformayotte -->
+    <flag>
+        <key>mexico</key>
+        <value>🇲🇽</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1fd/flagformexico -->
+    <flag>
+        <key>micronesia</key>
+        <value>🇫🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1eb-1f1f2/flagformicronesia -->
+
+    <!-- row: 19 -->
+    <flag>
+        <key>moldova</key>
+        <value>🇲🇩</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1e9/flagformoldova -->
+    <flag>
+        <key>monaco</key>
+        <value>🇲🇨</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1e8/flagformonaco -->
+    <flag>
+        <key>mongolia</key>
+        <value>🇲🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1f3/flagformongolia -->
+    <flag>
+        <key>montenegro</key>
+        <value>🇲🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1ea/flagformontenegro -->
+    <flag>
+        <key>montserrat</key>
+        <value>🇲🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1f8/flagformontserrat -->
+    <flag>
+        <key>morocco</key>
+        <value>🇲🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1e6/flagformorocco -->
+    <flag>
+        <key>mozambique</key>
+        <value>🇲🇿</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1ff/flagformozambique -->
+    <flag>
+        <key>myanmar_burma</key>
+        <value>🇲🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1f2/flagformyanmarburma -->
+
+    <!-- row: 20 -->
+    <flag>
+        <key>namibia</key>
+        <value>🇳🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1e6/flagfornamibia -->
+    <flag>
+        <key>nauru</key>
+        <value>🇳🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1f7/flagfornauru -->
+    <flag>
+        <key>nepal</key>
+        <value>🇳🇵</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1f5/flagfornepal -->
+    <flag>
+        <key>netherlands</key>
+        <value>🇳🇱</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1f1/flagfornetherlands -->
+    <flag>
+        <key>new_caledonia</key>
+        <value>🇳🇨</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1e8/flagfornewcaledonia -->
+    <flag>
+        <key>new_zealand</key>
+        <value>🇳🇿</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1ff/flagfornewzealand -->
+    <flag>
+        <key>nicaragua</key>
+        <value>🇳🇮</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1ee/flagfornicaragua -->
+    <flag>
+        <key>niger</key>
+        <value>🇳🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1ea/flagforniger -->
+
+    <!-- row: 21 -->
+    <flag>
+        <key>nigeria</key>
+        <value>🇳🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1ec/flagfornigeria -->
+    <flag>
+        <key>niue</key>
+        <value>🇳🇺</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1fa/flagforniue -->
+    <flag>
+        <key>norfolk_island</key>
+        <value>🇳🇫</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1eb/flagfornorfolkisland -->
+    <flag>
+        <key>northern_mariana_islands</key>
+        <value>🇲🇵</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f2-1f1f5/flagfornorthernmarianaislands -->
+    <flag>
+        <key>north_korea</key>
+        <value>🇰🇵</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1f5/flagfornorthkorea -->
+    <flag>
+        <key>norway</key>
+        <value>🇳🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f3-1f1f4/flagfornorway -->
+    <flag>
+        <key>oman</key>
+        <value>🇴🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f4-1f1f2/flagforoman -->
+    <flag>
+        <key>pakistan</key>
+        <value>🇵🇰</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1f0/flagforpakistan -->
+
+    <!-- row: 22 -->
+    <flag>
+        <key>palau</key>
+        <value>🇵🇼</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1fc/flagforpalau -->
+    <flag>
+        <key>palestinian_territories</key>
+        <value>🇵🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1f8/flagforpalestinianterritories -->
+    <flag>
+        <key>panama</key>
+        <value>🇵🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1e6/flagforpanama -->
+    <flag>
+        <key>papua_new_guinea</key>
+        <value>🇵🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1ec/flagforpapuanewguinea -->
+    <flag>
+        <key>paraguay</key>
+        <value>🇵🇾</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1fe/flagforparaguay -->
+    <flag>
+        <key>peru</key>
+        <value>🇵🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1ea/flagforperu -->
+    <flag>
+        <key>philippines</key>
+        <value>🇵🇭</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1ed/flagforphilippines -->
+    <flag>
+        <key>pitcairn_islands</key>
+        <value>🇵🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1f3/flagforpitcairnislands -->
+
+    <!-- row: 23 -->
+    <flag>
+        <key>poland</key>
+        <value>🇵🇱</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1f1/flagforpoland -->
+    <flag>
+        <key>portugal</key>
+        <value>🇵🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1f9/flagforportugal -->
+    <flag>
+        <key>puerto_rico</key>
+        <value>🇵🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1f7/flagforpuertorico -->
+    <flag>
+        <key>qatar</key>
+        <value>🇶🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f6-1f1e6/flagforqatar -->
+    <flag>
+        <key>reunion</key>
+        <value>🇷🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f7-1f1ea/flagforrunion -->
+    <flag>
+        <key>romania</key>
+        <value>🇷🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f7-1f1f4/flagforromania -->
+    <flag>
+        <key>russia</key>
+        <value>🇷🇺</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f7-1f1fa/flagforrussia -->
+    <flag>
+        <key>rwanda</key>
+        <value>🇷🇼</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f7-1f1fc/flagforrwanda -->
+
+    <!-- row: 24 -->
+    <flag>
+        <key>saint_barthlemy</key>
+        <value>🇧🇱</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e7-1f1f1/flagforsaintbarthlemy -->
+    <flag>
+        <key>saint_helena</key>
+        <value>🇸🇭</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1ed/flagforsainthelena -->
+    <flag>
+        <key>saint_kitts_and_nevis</key>
+        <value>🇰🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1f3/flagforsaintkittsandnevis -->
+    <flag>
+        <key>saint_lucia</key>
+        <value>🇱🇨</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1e8/flagforsaintlucia -->
+    <flag>
+        <key>saint_pierre_and_miquelon</key>
+        <value>🇵🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f5-1f1f2/flagforsaintpierreandmiquelon -->
+    <flag>
+        <key>st_vincent_grenadines</key>
+        <value>🇻🇨</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fb-1f1e8/flagforstvincentgrenadines -->
+    <flag>
+        <key>samoa</key>
+        <value>🇼🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fc-1f1f8/flagforsamoa -->
+    <flag>
+        <key>san_marino</key>
+        <value>🇸🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1f2/flagforsanmarino -->
+
+    <!-- row: 25 -->
+    <flag>
+        <key>sotom_and_prncipe</key>
+        <value>🇸🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1f9/flagforsotomandprncipe -->
+    <flag>
+        <key>saudi_arabia</key>
+        <value>🇸🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1e6/flagforsaudiarabia -->
+    <flag>
+        <key>senegal</key>
+        <value>🇸🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1f3/flagforsenegal -->
+    <flag>
+        <key>serbia</key>
+        <value>🇷🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f7-1f1f8/flagforserbia -->
+    <flag>
+        <key>seychelles</key>
+        <value>🇸🇨</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1e8/flagforseychelles -->
+    <flag>
+        <key>sierra_leone</key>
+        <value>🇸🇱</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1f1/flagforsierraleone -->
+    <flag>
+        <key>singapore</key>
+        <value>🇸🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1ec/flagforsingapore -->
+    <flag>
+        <key>sint_maarten</key>
+        <value>🇸🇽</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1fd/flagforsintmaarten -->
+
+    <!-- row: 26 -->
+    <flag>
+        <key>slovakia</key>
+        <value>🇸🇰</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1f0/flagforslovakia -->
+    <flag>
+        <key>slovenia</key>
+        <value>🇸🇮</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1ee/flagforslovenia -->
+    <flag>
+        <key>solomon_islands</key>
+        <value>🇸🇧</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1e7/flagforsolomonislands -->
+    <flag>
+        <key>somalia</key>
+        <value>🇸🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1f4/flagforsomalia -->
+    <flag>
+        <key>south_africa</key>
+        <value>🇿🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ff-1f1e6/flagforsouthafrica -->
+    <flag>
+        <key>south_georgia_south_sandwich_islands</key>
+        <value>🇬🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1f8/flagforsouthgeorgiasouthsandwichislands -->
+    <flag>
+        <key>south_korea</key>
+        <value>🇰🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f0-1f1f7/flagforsouthkorea -->
+    <flag>
+        <key>south_sudan</key>
+        <value>🇸🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1f8/flagforsouthsudan -->
+
+    <!-- row: 27 -->
+    <flag>
+        <key>spain</key>
+        <value>🇪🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ea-1f1f8/flagforspain -->
+    <flag>
+        <key>sri_lanka</key>
+        <value>🇱🇰</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f1-1f1f0/flagforsrilanka -->
+    <flag>
+        <key>sudan</key>
+        <value>🇸🇩</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1e9/flagforsudan -->
+    <flag>
+        <key>suriname</key>
+        <value>🇸🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1f7/flagforsuriname -->
+    <flag>
+        <key>swaziland</key>
+        <value>🇸🇿</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1ff/flagforswaziland -->
+    <flag>
+        <key>sweden</key>
+        <value>🇸🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1ea/flagforsweden -->
+    <flag>
+        <key>switzerland</key>
+        <value>🇨🇭</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e8-1f1ed/flagforswitzerland -->
+    <flag>
+        <key>syria</key>
+        <value>🇸🇾</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f8-1f1fe/flagforsyria -->
+
+    <!-- row: 28 -->
+    <flag>
+        <key>taiwan</key>
+        <value>🇹🇼</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1fc/flagfortaiwan -->
+    <flag>
+        <key>tajikistan</key>
+        <value>🇹🇯</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1ef/flagfortajikistan -->
+    <flag>
+        <key>tanzania</key>
+        <value>🇹🇿</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1ff/flagfortanzania -->
+    <flag>
+        <key>thailand</key>
+        <value>🇹🇭</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1ed/flagforthailand -->
+    <flag>
+        <key>timorleste</key>
+        <value>🇹🇱</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1f1/flagfortimorleste -->
+    <flag>
+        <key>togo</key>
+        <value>🇹🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1ec/flagfortogo -->
+    <flag>
+        <key>tokelau</key>
+        <value>🇹🇰</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1f0/flagfortokelau -->
+    <flag>
+        <key>tonga</key>
+        <value>🇹🇴</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1f4/flagfortonga -->
+
+    <!-- row: 29 -->
+    <flag>
+        <key>trinidad_and_tobago</key>
+        <value>🇹🇹</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1f9/flagfortrinidadandtobago -->
+    <flag>
+        <key>tunisia</key>
+        <value>🇹🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1f3/flagfortunisia -->
+    <flag>
+        <key>turkey</key>
+        <value>🇹🇷</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1f7/flagforturkey -->
+    <flag>
+        <key>turkmenistan</key>
+        <value>🇹🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1f2/flagforturkmenistan -->
+    <flag>
+        <key>turks_and_caicos_islands</key>
+        <value>🇹🇨</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1e8/flagforturksandcaicosislands -->
+    <flag>
+        <key>tuvalu</key>
+        <value>🇹🇻</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1f9-1f1fb/flagfortuvalu -->
+    <flag>
+        <key>uganda</key>
+        <value>🇺🇬</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fa-1f1ec/flagforuganda -->
+    <flag>
+        <key>ukraine</key>
+        <value>🇺🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fa-1f1e6/flagforukraine -->
+
+    <!-- row: 30 -->
+    <flag>
+        <key>united_arab_emirates</key>
+        <value>🇦🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1e6-1f1ea/flagforunitedarabemirates -->
+    <flag>
+        <key>united_kingdom</key>
+        <value>🇬🇧</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ec-1f1e7/flagforunitedkingdom -->
+    <flag>
+        <key>united_states</key>
+        <value>🇺🇸</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fa-1f1f8/flagforunitedstates -->
+    <flag>
+        <key>us_virgin_islands</key>
+        <value>🇻🇮</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fb-1f1ee/flagforusvirginislands -->
+    <flag>
+        <key>uruguay</key>
+        <value>🇺🇾</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fa-1f1fe/flagforuruguay -->
+    <flag>
+        <key>uzbekistan</key>
+        <value>🇺🇿</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fa-1f1ff/flagforuzbekistan -->
+    <flag>
+        <key>vanuatu</key>
+        <value>🇻🇺</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fb-1f1fa/flagforvanuatu -->
+    <flag>
+        <key>vatican_city</key>
+        <value>🇻🇦</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fb-1f1e6/flagforvaticancity -->
+
+    <!-- row: 31 -->
+    <flag>
+        <key>venezuela</key>
+        <value>🇻🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fb-1f1ea/flagforvenezuela -->
+    <flag>
+        <key>vietnam</key>
+        <value>🇻🇳</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fb-1f1f3/flagforvietnam -->
+    <flag>
+        <key>wallis_and_futuna</key>
+        <value>🇼🇫</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fc-1f1eb/flagforwallisandfutuna -->
+    <flag>
+        <key>western_sahara</key>
+        <value>🇪🇭</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ea-1f1ed/flagforwesternsahara -->
+    <flag>
+        <key>yemen</key>
+        <value>🇾🇪</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1fe-1f1ea/flagforyemen -->
+    <flag>
+        <key>zambia</key>
+        <value>🇿🇲</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ff-1f1f2/flagforzambia -->
+    <flag>
+        <key>zimbabwe</key>
+        <value>🇿🇼</value>
+    </flag>
+    <!-- https://www.emojibase.com/emoji/1f1ff-1f1fc/flagforzimbabwe -->
+    <flag>
+        <key>england</key>
+        <value>🇽🇪</value>
+    </flag>
+    <!-- http://emojipedia.org/flag-for-england/  -->
+
+</flags>
