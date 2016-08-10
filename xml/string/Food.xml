@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+
+<!-- Shayan Rais (http://shanraisshan.com) -->
+<!-- created on 8/10/2016 -->
+
+<foods>
+
+    <!-- row#: 1 -->
+    <food>
+        <key>green_apple</key>
+        <value>🍏"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f34f/greenapple -->
+    <food>
+        <key>red_apple</key>
+        <value>🍎"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f34e/redapple -->
+    <food>
+        <key>pear</key>
+        <value>🍐"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f350/pear -->
+    <food>
+        <key>tangerine</key>
+        <value>🍊"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f34a/tangerine -->
+    <food>
+        <key>lemon</key>
+        <value>🍋"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f34b/lemon -->
+    <food>
+        <key>banana</key>
+        <value>🍌"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f34c/banana -->
+    <food>
+        <key>watermelon</key>
+        <value>🍉"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f349/watermelon -->
+    <food>
+        <key>grapes</key>
+        <value>🍇"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f347/grapes -->
+
+    <!-- row#: 2 -->
+    <food>
+        <key>strawberry</key>
+        <value>🍓"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f353/strawberry -->
+    <food>
+        <key>melon</key>
+        <value>🍈"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f348/melon -->
+    <food>
+        <key>cherry</key>
+        <value>🍒"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f352/cherries -->
+    <food>
+        <key>peach</key>
+        <value>🍑"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f351/peach -->
+    <food>
+        <key>pineapple</key>
+        <value>🍍"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f34d/pineapple -->
+    <food>
+        <key>tomato</key>
+        <value>🍅"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f345/tomato -->
+    <food>
+        <key>egg_plant</key>
+        <value>🍆"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f346/eggplant -->
+    <food>
+        <key>hot_pepper</key>
+        <value>🌶"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f336/hotpepper -->
+
+    <!-- row#: 3 -->
+    <food>
+        <key>ear_of_maize</key>
+        <value>🌽"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f33d/earofmaize -->
+    <food>
+        <key>roasted_sweet_potato</key>
+        <value>🍠"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f360/roastedsweetpotato -->
+    <food>
+        <key>honey_pot</key>
+        <value>🍯"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f36f/honeypot -->
+    <food>
+        <key>bread</key>
+        <value>🍞"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f35e/bread -->
+    <food>
+        <key>cheese</key>
+        <value>🧀"</value>
+    </food>
+    <!-- http://emojipedia.org/cheese-wedge/ -->
+    <food>
+        <key>poultry_leg</key>
+        <value>🍗"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f357/poultryleg -->
+    <food>
+        <key>meat_on_bone</key>
+        <value>🍖"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f356/meatonbone -->
+    <food>
+        <key>fried_shrimp</key>
+        <value>🍤"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f364/friedshrimp -->
+
+    <!-- row#: 4 -->
+    <food>
+        <key>cooking</key>
+        <value>🍳"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f373/cooking -->
+    <food>
+        <key>hamburger</key>
+        <value>🍔"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f354/hamburger -->
+    <food>
+        <key>french_fries</key>
+        <value>🍟"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f35f/frenchfries -->
+    <food>
+        <key>hot_dog</key>
+        <value>🌭"</value>
+    </food>
+    <!-- http://emojipedia.org/hot-dog/ -->
+    <food>
+        <key>slice_of_pizza</key>
+        <value>🍕"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f355/sliceofpizza -->
+    <food>
+        <key>spaghetti</key>
+        <value>🍝"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f35d/spaghetti -->
+    <food>
+        <key>taco</key>
+        <value>🌮"</value>
+    </food>
+    <!-- http://emojipedia.org/taco/ -->
+    <food>
+        <key>burrito</key>
+        <value>🌯"</value>
+    </food>
+    <!-- http://emojipedia.org/burrito/ -->
+
+    <!-- row#: 5 -->
+    <food>
+        <key>steaming_bowl</key>
+        <value>🍜"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f35c/steamingbowl -->
+    <food>
+        <key>pot_of_food</key>
+        <value>🍲"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f372/potoffood -->
+    <food>
+        <key>fish_cake</key>
+        <value>🍥"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f365/fishcakewithswirldesign -->
+    <food>
+        <key>sushi</key>
+        <value>🍣"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f363/sushi -->
+    <food>
+        <key>bento_box</key>
+        <value>🍱"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f371/bentobox -->
+    <food>
+        <key>curry_and_rice</key>
+        <value>🍛"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f35b/curryandrice -->
+    <food>
+        <key>rice_ball</key>
+        <value>🍙"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f359/riceball -->
+    <food>
+        <key>cooked_rice</key>
+        <value>🍚"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f35a/cookedrice -->
+
+    <!-- row#: 6 -->
+    <food>
+        <key>rice_cracker</key>
+        <value>🍘"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f358/ricecracker -->
+    <food>
+        <key>oden</key>
+        <value>🍢"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f362/oden -->
+    <food>
+        <key>dango</key>
+        <value>🍡"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f361/dango -->
+    <food>
+        <key>shaved_ice</key>
+        <value>🍧"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f367/shavedice -->
+    <food>
+        <key>ice_cream</key>
+        <value>🍨"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f368/icecream -->
+    <food>
+        <key>soft_ice_cream</key>
+        <value>🍦"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f366/softicecream -->
+    <food>
+        <key>short_cake</key>
+        <value>🍰"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f370/shortcake -->
+    <food>
+        <key>birthday_cake</key>
+        <value>🎂"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f382/birthdaycake -->
+
+    <!-- row#: 7 -->
+    <food>
+        <key>custard</key>
+        <value>🍮"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f36e/custard -->
+    <food>
+        <key>candy</key>
+        <value>🍬"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f36c/candy -->
+    <food>
+        <key>lollipop</key>
+        <value>🍭"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f36d/lollipop -->
+    <food>
+        <key>chocolate_bar</key>
+        <value>🍫"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f36b/chocolatebar -->
+    <food>
+        <key>popcorn</key>
+        <value>🍿"</value>
+    </food>
+    <!-- http://emojipedia.org/popcorn/ -->
+    <food>
+        <key>doughnut</key>
+        <value>🍩"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f369/doughnut -->
+    <food>
+        <key>cookie</key>
+        <value>🍪"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f36a/cookie -->
+    <food>
+        <key>bear_mug</key>
+        <value>🍺"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f37a/beermug -->
+
+    <!-- row#: 8 -->
+    <food>
+        <key>clinking_beer_mugs</key>
+        <value>🍻"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f37b/clinkingbeermugs -->
+    <food>
+        <key>wine_glass</key>
+        <value>🍷"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f377/wineglass -->
+    <food>
+        <key>cocktail_glass</key>
+        <value>🍸"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f378/cocktailglass -->
+    <food>
+        <key>tropical_drink</key>
+        <value>🍹"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f379/tropicaldrink -->
+    <food>
+        <key>bottle_with_popping_cork</key>
+        <value>🍾"</value>
+    </food>
+    <!-- http://emojipedia.org/bottle-with-popping-cork/ -->
+    <food>
+        <key>sake_bottle_and_cup</key>
+        <value>🍶"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f376/sakebottleandcup -->
+    <food>
+        <key>tea_cup_without_handle</key>
+        <value>🍵"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f375/teacupwithouthandle -->
+    <food>
+        <key>hot_beverage</key>
+        <value>☕"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/2615/hotbeverage -->
+
+    <!-- row#: 9 -->
+    <food>
+        <key>baby_bottle</key>
+        <value>🍼"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f37c/babybottle -->
+    <food>
+        <key>fork_and_knife</key>
+        <value>🍴"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f374/forkandknife -->
+    <food>
+        <key>fork_and_knife_with_plate</key>
+        <value>🍽"</value>
+    </food>
+    <!-- https://www.emojibase.com/emoji/1f37d/forkandknifewithplate -->
+
+</foods>
