@@ -1,0 +1,944 @@
+<?xml version="1.0"?>
+
+<!-- Shayan Rais (http://shanraisshan.com) -->
+<!-- created on 8/11/2016 -->
+
+<objects>
+
+    <!-- row#: 1 -->
+    <object>
+        <key>watch</key>
+        <value>⌚</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/231a/watch -->
+    <object>
+        <key>mobile_phone</key>
+        <value>📱</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4f1/mobilephone -->
+    <object>
+        <key>mobile_phone_with_right_arrow</key>
+        <value>📲</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4f2/mobilephonewithrightwardsarrowatleft -->
+    <object>
+        <key>personal_computer</key>
+        <value>💻</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4bb/personalcomputer -->
+    <object>
+        <key>keyboard</key>
+        <value>⌨</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/2328/keyboard -->
+    <object>
+        <key>desktop_computer</key>
+        <value>🖥</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5a5/desktopcomputer -->
+    <object>
+        <key>printer</key>
+        <value>🖨</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5a8/printer -->
+    <object>
+        <key>three_button_mouse</key>
+        <value>🖱</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5b1/threebuttonmouse -->
+
+    <!-- row#: 2 -->
+    <object>
+        <key>track_ball</key>
+        <value>🖲</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5b2/trackball -->
+    <object>
+        <key>joystick</key>
+        <value>🕹</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f579/joystick -->
+    <object>
+        <key>compression</key>
+        <value>🗜</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5dc/compression -->
+    <object>
+        <key>mini_disc</key>
+        <value>💽</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4bd/minidisc -->
+    <object>
+        <key>floppy_disk</key>
+        <value>💾</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4be/floppydisk -->
+    <object>
+        <key>optical_disc</key>
+        <value>💿</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4bf/opticaldisc -->
+    <object>
+        <key>dvd</key>
+        <value>📀</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4c0/dvd -->
+    <object>
+        <key>video_cassette</key>
+        <value>📼</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4fc/videocassette -->
+
+    <!-- row#: 3 -->
+    <object>
+        <key>camera</key>
+        <value>📷</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4f7/camera -->
+    <object>
+        <key>camera_with_flash</key>
+        <value>📸</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4f8/camerawithflash -->
+    <object>
+        <key>video_camera</key>
+        <value>📹</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4f9/videocamera -->
+    <object>
+        <key>movie_camera</key>
+        <value>🎥</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f3a5/moviecamera -->
+    <object>
+        <key>film_projector</key>
+        <value>📽</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4fd/filmprojector -->
+    <object>
+        <key>film_frames</key>
+        <value>🎞</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f39e/filmframes -->
+    <object>
+        <key>telephone_receiver</key>
+        <value>📞</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4de/telephonereceiver -->
+    <object>
+        <key>black_telephone</key>
+        <value>☎</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/260e/blacktelephone -->
+
+    <!-- row#: 4 -->
+    <object>
+        <key>pager</key>
+        <value>📟</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4df/pager -->
+    <object>
+        <key>fax_machine</key>
+        <value>📠</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4e0/faxmachine -->
+    <object>
+        <key>television</key>
+        <value>📺</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4fa/television -->
+    <object>
+        <key>radio</key>
+        <value>📻</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4fb/radio -->
+    <object>
+        <key>studio_microphone</key>
+        <value>🎙</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f399/studiomicrophone -->
+    <object>
+        <key>level_slider</key>
+        <value>🎚</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f39a/levelslider -->
+    <object>
+        <key>control_knobs</key>
+        <value>🎛</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f39b/controlknobs -->
+    <object>
+        <key>stop_watch</key>
+        <value>⏱</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/23f1/stopwatch -->
+
+    <!-- row#: 5 -->
+    <object>
+        <key>timer_clock</key>
+        <value>⏲</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/23f2/timerclock -->
+    <object>
+        <key>alarm_clock</key>
+        <value>⏰</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/23f0/alarmclock -->
+    <object>
+        <key>mantel_piece_clock</key>
+        <value>🕰</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f570/mantelpiececlock -->
+    <object>
+        <key>hour_glass_with_flowing_stand</key>
+        <value>⏳</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/23f3/hourglasswithflowingsand -->
+    <object>
+        <key>hour_glass</key>
+        <value>⌛</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/231b/hourglass -->
+    <object>
+        <key>satellite_antenna</key>
+        <value>📡</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4e1/satelliteantenna -->
+    <object>
+        <key>battery</key>
+        <value>🔋</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f50b/battery -->
+    <object>
+        <key>electric_plug</key>
+        <value>🔌</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f50c/electricplug -->
+
+    <!-- row#: 6 -->
+    <object>
+        <key>electric_light_bulb</key>
+        <value>💡</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4a1/electriclightbulb -->
+    <object>
+        <key>electric_torch</key>
+        <value>🔦</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f526/electrictorch -->
+    <object>
+        <key>candle</key>
+        <value>🕯</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f56f/candle -->
+    <object>
+        <key>waste_basket</key>
+        <value>🗑</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5d1/wastebasket -->
+    <object>
+        <key>oil_drum</key>
+        <value>🛢</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6e2/oildrum -->
+    <object>
+        <key>money_with_wings</key>
+        <value>💸</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4b8/moneywithwings -->
+    <object>
+        <key>bank_note_with_dollar_sign</key>
+        <value>💵</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4b5/banknotewithdollarsign -->
+    <object>
+        <key>bank_note_with_yen_sign</key>
+        <value>💴</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4b4/banknotewithyensign -->
+
+    <!-- row#: 7 -->
+    <object>
+        <key>bank_note_with_euro_sign</key>
+        <value>💶</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4b6/banknotewitheurosign -->
+    <object>
+        <key>bank_note_with_pounds_sign</key>
+        <value>💷</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4b7/banknotewithpoundsign -->
+    <object>
+        <key>money_bag</key>
+        <value>💰</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4b0/moneybag -->
+    <object>
+        <key>credit_card</key>
+        <value>💳</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4b3/creditcard -->
+    <object>
+        <key>gem_stone</key>
+        <value>💎</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f48e/gemstone -->
+    <object>
+        <key>scales</key>
+        <value>⚖</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/2696/scales -->
+    <object>
+        <key>wrench</key>
+        <value>🔧</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f527/wrench -->
+    <object>
+        <key>hammer</key>
+        <value>🔨</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f528/hammer -->
+
+    <!-- row#: 8 -->
+    <object>
+        <key>hammer_and_pick</key>
+        <value>⚒</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/2692/hammerandpick -->
+    <object>
+        <key>hammer_and_wrench</key>
+        <value>🛠</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6e0/hammerandwrench -->
+    <object>
+        <key>pick</key>
+        <value>⛏</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/26cf/pick -->
+    <object>
+        <key>nut_and_bolt</key>
+        <value>🔩</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f529/nutandbolt -->
+    <object>
+        <key>gear</key>
+        <value>⚙</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/2699/gear -->
+    <object>
+        <key>chains</key>
+        <value>⛓</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/26d3/chains -->
+    <object>
+        <key>pistol</key>
+        <value>🔫</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f52b/pistol -->
+    <object>
+        <key>bomb</key>
+        <value>💣</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4a3/bomb -->
+
+    <!-- row#: 9 -->
+    <object>
+        <key>hocho</key>
+        <value>🔪</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f52a/hocho -->
+    <object>
+        <key>dagger_knife</key>
+        <value>🗡</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5e1/daggerknife -->
+    <object>
+        <key>crossed_words</key>
+        <value>⚔</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/2694/crossedswords -->
+    <object>
+        <key>shield</key>
+        <value>🛡</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6e1/shield -->
+    <object>
+        <key>smoking_symbol</key>
+        <value>🚬</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6ac/smokingsymbol -->
+    <object>
+        <key>skull_and_cross_bones</key>
+        <value>☠</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/2620/skullandcrossbones -->
+    <object>
+        <key>coffin</key>
+        <value>⚰</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/26b0/coffin -->
+    <object>
+        <key>funeral_urn</key>
+        <value>⚱</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/26b1/funeralurn -->
+
+    <!-- row#: 10 -->
+    <object>
+        <key>amphora</key>
+        <value>🏺</value>
+    </object>
+    <!-- http://emojipedia.org/amphora/ -->
+    <object>
+        <key>crystal_ball</key>
+        <value>🔮</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f52e/crystalball -->
+    <object>
+        <key>prayer_beads</key>
+        <value>📿</value>
+    </object>
+    <!-- http://emojipedia.org/prayer-beads/ -->
+    <object>
+        <key>barber_pole</key>
+        <value>💈</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f488/barberpole -->
+    <object>
+        <key>alembic</key>
+        <value>⚗</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/2697/alembic -->
+    <object>
+        <key>telescope</key>
+        <value>🔭</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f52d/telescope -->
+    <object>
+        <key>microscope</key>
+        <value>🔬</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f52c/microscope -->
+    <object>
+        <key>hole</key>
+        <value>🕳</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f573/hole -->
+
+    <!-- row#: 11 -->
+    <object>
+        <key>pill</key>
+        <value>💊</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f48a/pill -->
+    <object>
+        <key>syringe</key>
+        <value>💉</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f489/syringe -->
+    <object>
+        <key>thermometer</key>
+        <value>🌡</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f321/thermometer -->
+    <object>
+        <key>label</key>
+        <value>🏷</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f3f7/label -->
+    <object>
+        <key>bookmark</key>
+        <value>🔖</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f516/bookmark -->
+    <object>
+        <key>toilet</key>
+        <value>🚽</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6bd/toilet -->
+    <object>
+        <key>shower</key>
+        <value>🚿</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6bf/shower -->
+    <object>
+        <key>bath_tub</key>
+        <value>🛁</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6c1/bathtub -->
+
+    <!-- row#: 12 -->
+    <object>
+        <key>key</key>
+        <value>🔑</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f511/key -->
+    <object>
+        <key>old_key</key>
+        <value>🗝</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5dd/oldkey -->
+    <object>
+        <key>couch_and_lamp</key>
+        <value>🛋</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6cb/couchandlamp -->
+    <object>
+        <key>sleeping_accommodation</key>
+        <value>🛌</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6cc/sleepingaccommodation -->
+    <object>
+        <key>bed</key>
+        <value>🛏</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6cf/bed -->
+    <object>
+        <key>door</key>
+        <value>🚪</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6aa/door -->
+    <object>
+        <key>bell_hop_bell</key>
+        <value>🛎</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6ce/bellhopbell -->
+    <object>
+        <key>frame_with_picture</key>
+        <value>🖼</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5bc/framewithpicture -->
+
+    <!-- row#: 13 -->
+    <object>
+        <key>world_map</key>
+        <value>🗺</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5fa/worldmap -->
+    <object>
+        <key>umbrella_on_ground</key>
+        <value>⛱</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/26f1/umbrellaonground -->
+    <object>
+        <key>moyai</key>
+        <value>🗿</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5ff/moyai -->
+    <object>
+        <key>shopping_bags</key>
+        <value>🛍</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6cd/shoppingbags -->
+    <object>
+        <key>balloon</key>
+        <value>🎈</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f388/balloon -->
+    <object>
+        <key>carp_streamer</key>
+        <value>🎏</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f38f/carpstreamer -->
+    <object>
+        <key>ribbon</key>
+        <value>🎀</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f380/ribbon -->
+    <object>
+        <key>wrapped_present</key>
+        <value>🎁</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f381/wrappedpresent -->
+
+    <!-- row#: 14 -->
+    <object>
+        <key>confetti_ball</key>
+        <value>🎊</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f38a/confettiball -->
+    <object>
+        <key>party_popper</key>
+        <value>🎉</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f389/partypopper -->
+    <object>
+        <key>japanese_dolls</key>
+        <value>🎎</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f38e/japanesedolls -->
+    <object>
+        <key>wind_chime</key>
+        <value>🎐</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f390/windchime -->
+    <object>
+        <key>crossed_flags</key>
+        <value>🎌</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f38c/crossedflags -->
+    <object>
+        <key>izakaya_lantern</key>
+        <value>🏮</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f3ee/izakayalantern -->
+    <object>
+        <key>envelope</key>
+        <value>✉</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/2709/envelope -->
+    <object>
+        <key>envelope_with_down_arrow</key>
+        <value>📩</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4e9/envelopewithdownwardsarrowabove -->
+
+    <!-- row#: 15 -->
+    <object>
+        <key>incoming_envelope</key>
+        <value>📨</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4e8/incomingenvelope -->
+    <object>
+        <key>email_symbol</key>
+        <value>📧</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4e7/emailsymbol -->
+    <object>
+        <key>love_letter</key>
+        <value>💌</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f48c/loveletter -->
+    <object>
+        <key>post_box</key>
+        <value>📮</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4ee/postbox -->
+    <object>
+        <key>closed_mail_box_with_lowered_flag</key>
+        <value>📪</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4ea/closedmailboxwithloweredflag -->
+    <object>
+        <key>closed_mail_box_with_raised_flag</key>
+        <value>📫</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4eb/closedmailboxwithraisedflag -->
+    <object>
+        <key>open_mail_box_with_raised_flag</key>
+        <value>📬</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4ec/openmailboxwithraisedflag -->
+    <object>
+        <key>open_mail_box_with_lowered_flag</key>
+        <value>📭</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4ed/openmailboxwithloweredflag -->
+
+    <!-- row#: 16 -->
+    <object>
+        <key>package</key>
+        <value>📦</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4e6/package -->
+    <object>
+        <key>postal_horn</key>
+        <value>📯</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4ef/postalhorn -->
+    <object>
+        <key>inbox_tray</key>
+        <value>📥</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4e5/inboxtray -->
+    <object>
+        <key>outbox_tray</key>
+        <value>📤</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4e4/outboxtray -->
+    <object>
+        <key>scroll</key>
+        <value>📜</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4dc/scroll -->
+    <object>
+        <key>page_with_curl</key>
+        <value>📃</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4c3/pagewithcurl -->
+    <object>
+        <key>bookmark_tabs</key>
+        <value>📑</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4d1/bookmarktabs -->
+    <object>
+        <key>bar_chart</key>
+        <value>📊</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4ca/barchart -->
+
+    <!-- row#: 17 -->
+    <object>
+        <key>chart_with_upwards_trend</key>
+        <value>📈</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4c8/chartwithupwardstrend -->
+    <object>
+        <key>chart_with_downwards_trend</key>
+        <value>📉</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4c9/chartwithdownwardstrend -->
+    <object>
+        <key>page_facing_up</key>
+        <value>📄</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4c4/pagefacingup -->
+    <object>
+        <key>calender</key>
+        <value>📅</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4c5/calendar -->
+    <object>
+        <key>tear_off_calendar</key>
+        <value>📆</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4c6/tearoffcalendar -->
+    <object>
+        <key>spiral_calendar_pad</key>
+        <value>🗓</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5d3/spiralcalendarpad -->
+    <object>
+        <key>card_index</key>
+        <value>📇</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4c7/cardindex -->
+    <object>
+        <key>card_file_box</key>
+        <value>🗃</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5c3/cardfilebox -->
+
+    <!-- row#: 18 -->
+    <object>
+        <key>ballot_box_with_ballot</key>
+        <value>🗳</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5f3/ballotboxwithballot -->
+    <object>
+        <key>file_cabinet</key>
+        <value>🗄</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5c4/filecabinet -->
+    <object>
+        <key>clip_board</key>
+        <value>📋</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4cb/clipboard -->
+    <object>
+        <key>spiral_notepad</key>
+        <value>🗒</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5d2/spiralnotepad -->
+    <object>
+        <key>file_folder</key>
+        <value>📁</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4c1/filefolder -->
+    <object>
+        <key>open_file_folder</key>
+        <value>📂</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4c2/openfilefolder -->
+    <object>
+        <key>card_index_dividers</key>
+        <value>🗂</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5c2/cardindexdividers -->
+    <object>
+        <key>rolled_up_newspaper</key>
+        <value>🗞</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f5de/rolledupnewspaper -->
+
+    <!-- row#: 19 -->
+    <object>
+        <key>newspaper</key>
+        <value>📰</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4f0/newspaper -->
+    <object>
+        <key>notebook</key>
+        <value>📓</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4d3/notebook -->
+    <object>
+        <key>closed_book</key>
+        <value>📕</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4d5/closedbook -->
+    <object>
+        <key>green_book</key>
+        <value>📗</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4d7/greenbook -->
+    <object>
+        <key>blue_book</key>
+        <value>📘</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4d8/bluebook -->
+    <object>
+        <key>orange_book</key>
+        <value>📙</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4d9/orangebook -->
+    <object>
+        <key>notebook_with_decorative_cover</key>
+        <value>📔</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4d4/notebookwithdecorativecover -->
+    <object>
+        <key>ledger</key>
+        <value>📒</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4d2/ledger -->
+
+    <!-- row#: 20 -->
+    <object>
+        <key>books</key>
+        <value>📚</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4da/books -->
+    <object>
+        <key>open_book</key>
+        <value>📖</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4d6/openbook -->
+    <object>
+        <key>link_symbol</key>
+        <value>🔗</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f517/linksymbol -->
+    <object>
+        <key>paper_clip</key>
+        <value>📎</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4ce/paperclip -->
+    <object>
+        <key>linked_paper_clips</key>
+        <value>🖇</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f587/linkedpaperclips -->
+    <object>
+        <key>black_scissors</key>
+        <value>✂</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/2702/blackscissors -->
+    <object>
+        <key>triangular_ruler</key>
+        <value>📐</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4d0/triangularruler -->
+    <object>
+        <key>straight_ruler</key>
+        <value>📏</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4cf/straightruler -->
+
+    <!-- row#: 21 -->
+    <object>
+        <key>pushpin</key>
+        <value>📌</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4cc/pushpin -->
+    <object>
+        <key>round_pushpin</key>
+        <value>📍</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4cd/roundpushpin -->
+    <object>
+        <key>triangular_flag_post</key>
+        <value>🚩</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f6a9/triangularflagonpost -->
+    <object>
+        <key>waving_white_flag</key>
+        <value>🏳</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f3f3/wavingwhiteflag -->
+    <object>
+        <key>waving_black_flag</key>
+        <value>🏴</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f3f4/wavingblackflag -->
+    <object>
+        <key>closed_lock_with_key</key>
+        <value>🔐</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f510/closedlockwithkey -->
+    <object>
+        <key>lock</key>
+        <value>🔒</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f512/lock -->
+    <object>
+        <key>open_lock</key>
+        <value>🔓</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f513/openlock -->
+
+    <!-- row#: 22 -->
+    <object>
+        <key>lock_with_ink_pen</key>
+        <value>🔏</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f50f/lockwithinkpen -->
+    <object>
+        <key>lower_left_ball_point_pen</key>
+        <value>🖊</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f58a/lowerleftballpointpen -->
+    <object>
+        <key>lower_left_fountain_pen</key>
+        <value>🖋</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f58b/lowerleftfountainpen -->
+    <object>
+        <key>black_nib</key>
+        <value>✒</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/2712/blacknib -->
+    <object>
+        <key>memo</key>
+        <value>📝</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f4dd/memo -->
+    <object>
+        <key>pencil</key>
+        <value>✏</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/270f/pencil -->
+    <object>
+        <key>lower_left_crayon</key>
+        <value>🖍</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f58d/lowerleftcrayon -->
+    <object>
+        <key>lower_left_paint_brush</key>
+        <value>🖌</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f58c/lowerleftpaintbrush -->
+
+    <!-- row#: 23 -->
+    <object>
+        <key>left_pointing_magnifying_glass</key>
+        <value>🔍</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f50d/leftpointingmagnifyingglass -->
+    <object>
+        <key>right_pointing_magnifying_glass</key>
+        <value>🔎</value>
+    </object>
+    <!-- https://www.emojibase.com/emoji/1f50e/rightpointingmagnifyingglass -->
+
+</objects>
