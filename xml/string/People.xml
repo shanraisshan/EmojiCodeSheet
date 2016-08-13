@@ -1,0 +1,2180 @@
+<?xml version="1.0"?>
+
+<!-- Shayan Rais (http://shanraisshan.com) -->
+<!-- created on 8/7/2016 -->
+
+<peoples>
+
+    <!-- row#: 1 -->
+    <people>
+        <key>grinning_face</key>
+        <value>😀</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f600/grinningface -->
+    <people>
+        <key>grimacing_face</key>
+        <value>😬</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f62c/grimacingface -->
+    <people>
+        <key>grimacing_face_with_smile_eyes</key>
+        <value>😁</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f601/grinningfacewithsmilingeyes -->
+    <people>
+        <key>face_with_tear_of_joy</key>
+        <value>😂</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f602/facewithtearsofjoy -->
+    <people>
+        <key>smiling_face_with_open_mouth</key>
+        <value>😃</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f603/smilingfacewithopenmouth -->
+    <people>
+        <key>smiling_face_with_open_mouth_eyes</key>
+        <value>😄</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f604/smilingfacewithopenmouthandsmilingeyes -->
+    <people>
+        <key>smiling_face_with_open_mouth_cold_sweat</key>
+        <value>😅</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f605/smilingfacewithopenmouthandcoldsweat -->
+    <people>
+        <key>smiling_face_with_open_mouth_hand_tight</key>
+        <value>😆</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f606/smilingfacewithopenmouthandtightlyclosedeyes -->
+
+    <!-- row#: 2 -->
+    <people>
+        <key>smiling_face_with_halo</key>
+        <value>😇</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f607/smilingfacewithhalo -->
+    <people>
+        <key>winking_face</key>
+        <value>😉</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f609/winkingface -->
+    <people>
+        <key>black_smiling_face</key>
+        <value>😊</value>
+    </people>
+    <!-- http://emojipedia.org/smiling-face-with-smiling-eyes/ -->
+    <people>
+        <key>slightly_smiling_face</key>
+        <value>🙂</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f642/slightlysmilingface -->
+    <people>
+        <key>upside_down_face</key>
+        <value>🙃</value>
+    </people>
+    <!-- http://emojipedia.org/upside-down-face/ -->
+    <people>
+        <key>white_smiling_face</key>
+        <value>☺</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/263a/whitesmilingface -->
+    <people>
+        <key>face_savouring_delicious_food</key>
+        <value>😋</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f60b/facesavouringdeliciousfood -->
+    <people>
+        <key>relieved_face</key>
+        <value>😌</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f60c/relievedface -->
+
+    <!-- row#: 3 -->
+    <people>
+        <key>smiling_face_heart_eyes</key>
+        <value>😍</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f60d/smilingfacewithheartshapedeyes -->
+    <people>
+        <key>face_throwing_kiss</key>
+        <value>😘</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f618/facethrowingakiss -->
+    <people>
+        <key>kissing_face</key>
+        <value>😗</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f617/kissingface -->
+    <people>
+        <key>kissing_face_with_smile_eyes</key>
+        <value>😙</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f619/kissingfacewithsmilingeyes -->
+    <people>
+        <key>kissing_face_with_closed_eyes</key>
+        <value>😚</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f61a/kissingfacewithclosedeyes -->
+    <people>
+        <key>face_with_tongue_wink_eye</key>
+        <value>😜</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f61c/facewithstuckouttongueandwinkingeye -->
+    <people>
+        <key>face_with_tongue_closed_eye</key>
+        <value>😝</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f61d/facewithstuckouttongueandtightlyclosedeyes -->
+    <people>
+        <key>face_with_stuck_out_tongue</key>
+        <value>😛</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f61b/facewithstuckouttongue -->
+
+    <!-- row#: 4 -->
+    <people>
+        <key>money_mouth_face</key>
+        <value>🤑</value>
+    </people>
+    <!-- http://emojipedia.org/money-mouth-face/ -->
+    <people>
+        <key>nerd_face</key>
+        <value>🤓</value>
+    </people>
+    <!-- http://emojipedia.org/nerd-face/ -->
+    <people>
+        <key>smiling_face_with_sun_glass</key>
+        <value>😎</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f60e/smilingfacewithsunglasses -->
+    <people>
+        <key>hugging_face</key>
+        <value>🤗</value>
+    </people>
+    <!-- http://emojipedia.org/hugging-face/ -->
+    <people>
+        <key>smirking_face</key>
+        <value>😏</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f60f/smirkingface -->
+    <people>
+        <key>face_without_mouth</key>
+        <value>😶</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f636/facewithoutmouth -->
+    <people>
+        <key>neutral_face</key>
+        <value>😐</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f610/neutralface -->
+    <people>
+        <key>expressionless_face</key>
+        <value>😑</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f611/expressionlessface -->
+
+    <!-- row#: 5 -->
+    <people>
+        <key>unamused_face</key>
+        <value>😒</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f612/unamusedface -->
+    <people>
+        <key>face_with_rolling_eyes</key>
+        <value>🙄</value>
+    </people>
+    <!-- http://emojipedia.org/face-with-rolling-eyes/ -->
+    <people>
+        <key>thinking_face</key>
+        <value>🤔</value>
+    </people>
+    <!-- http://emojipedia.org/thinking-face/ -->
+    <people>
+        <key>flushed_face</key>
+        <value>😳</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f633/flushedface -->
+    <people>
+        <key>disappointed_face</key>
+        <value>😞</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f61e/disappointedface -->
+    <people>
+        <key>worried_face</key>
+        <value>😟</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f61f/worriedface -->
+    <people>
+        <key>angry_face</key>
+        <value>😠</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f620/angryface -->
+    <people>
+        <key>pouting_face</key>
+        <value>😡</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f621/poutingface -->
+
+    <!-- row#: 6 -->
+    <people>
+        <key>pensive_face</key>
+        <value>😔</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f614/pensiveface -->
+    <people>
+        <key>confused_face</key>
+        <value>😕</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f615/confusedface -->
+    <people>
+        <key>slightly_frowning_face</key>
+        <value>🙁</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f641/slightlyfrowningface -->
+    <people>
+        <key>white_frowning_face</key>
+        <value>☹</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/2639/whitefrowningface -->
+    <people>
+        <key>persevering_face</key>
+        <value>😣</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f623/perseveringface -->
+    <people>
+        <key>confounded_face</key>
+        <value>😖</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f616/confoundedface -->
+    <people>
+        <key>tired_face</key>
+        <value>😫</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f62b/tiredface -->
+    <people>
+        <key>weary_face</key>
+        <value>😩</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f629/wearyface -->
+
+    <!-- row#: 7 -->
+    <people>
+        <key>face_with_look_of_triumph</key>
+        <value>😤</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f624/facewithlookoftriumph -->
+    <people>
+        <key>face_with_open_mouth</key>
+        <value>😮</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f62e/facewithopenmouth -->
+    <people>
+        <key>face_screaming_in_fear</key>
+        <value>😱</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f631/facescreaminginfear -->
+    <people>
+        <key>fearful_face</key>
+        <value>😨</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f628/fearfulface -->
+    <people>
+        <key>face_with_open_mouth_cold_sweat</key>
+        <value>😰</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f630/facewithopenmouthandcoldsweat -->
+    <people>
+        <key>hushed_face</key>
+        <value>😯</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f62f/hushedface -->
+    <people>
+        <key>frowning_face_with_open_mouth</key>
+        <value>😦</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f626/frowningfacewithopenmouth -->
+    <people>
+        <key>anguished_face</key>
+        <value>😧</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f627/anguishedface -->
+
+    <!-- row#: 8 -->
+    <people>
+        <key>crying_face</key>
+        <value>😢</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f622/cryingface -->
+    <people>
+        <key>disappointed_but_relieved_face</key>
+        <value>😥</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f625/disappointedbutrelievedface -->
+    <people>
+        <key>sleepy_face</key>
+        <value>😪</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f62a/sleepyface -->
+    <people>
+        <key>face_with_cold_sweat</key>
+        <value>😓</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f613/facewithcoldsweat -->
+    <people>
+        <key>loudly_crying_face</key>
+        <value>😭</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f62d/loudlycryingface -->
+    <people>
+        <key>dizzy_face</key>
+        <value>😵</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f635/dizzyface -->
+    <people>
+        <key>astonished_face</key>
+        <value>😲</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f632/astonishedface -->
+    <people>
+        <key>zipper_mouth_face</key>
+        <value>🤐</value>
+    </people>
+    <!-- http://emojipedia.org/zipper-mouth-face/ -->
+
+    <!-- row#: 9 -->
+    <people>
+        <key>face_with_medical_mask</key>
+        <value>😷</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f637/facewithmedicalmask -->
+    <people>
+        <key>face_with_thermometer</key>
+        <value>🤒</value>
+    </people>
+    <!-- http://emojipedia.org/face-with-thermometer/ -->
+    <people>
+        <key>face_with_head_bandage</key>
+        <value>🤕</value>
+    </people>
+    <!-- http://emojipedia.org/face-with-head-bandage/ -->
+    <people>
+        <key>sleeping_face</key>
+        <value>😴</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f634/sleepingface -->
+    <people>
+        <key>sleeping_symbol</key>
+        <value>💤</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f4a4/sleepingsymbol -->
+    <people>
+        <key>pile_of_poo</key>
+        <value>💩</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f4a9/pileofpoo -->
+    <people>
+        <key>smiling_face_with_horns</key>
+        <value>😈</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f608/smilingfacewithhorns -->
+    <people>
+        <key>imp</key>
+        <value>👿</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f47f/imp -->
+
+    <!-- row#: 10 -->
+    <people>
+        <key>japanese_ogre</key>
+        <value>👹</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f479/japaneseogre -->
+    <people>
+        <key>japanese_goblin</key>
+        <value>👺</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f47a/japanesegoblin -->
+    <people>
+        <key>skull</key>
+        <value>💀</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f480/skull -->
+    <people>
+        <key>ghost</key>
+        <value>👻</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f47b/ghost -->
+    <people>
+        <key>extra_terrestrial_alien</key>
+        <value>👽</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f47d/extraterrestrialalien -->
+    <people>
+        <key>robot_face</key>
+        <value>🤖</value>
+    </people>
+    <!-- http://emojipedia.org/robot-face/ -->
+    <people>
+        <key>smiling_cat_face_open_mouth</key>
+        <value>😺</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f63a/smilingcatfacewithopenmouth -->
+    <people>
+        <key>grinning_cat_face_smile_eyes</key>
+        <value>😸</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f638/grinningcatfacewithsmilingeyes -->
+
+    <!-- row#: 11 -->
+    <people>
+        <key>cat_face_tears_of_joy</key>
+        <value>😹</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f639/catfacewithtearsofjoy -->
+    <people>
+        <key>smiling_cat_face_heart_shaped_eyes</key>
+        <value>😻</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f63b/smilingcatfacewithheartshapedeyes -->
+    <people>
+        <key>cat_face_wry_smile</key>
+        <value>😼</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f63c/catfacewithwrysmile -->
+    <people>
+        <key>kissing_cat_face_closed_eyes</key>
+        <value>😽</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f63d/kissingcatfacewithclosedeyes -->
+    <people>
+        <key>weary_cat_face</key>
+        <value>🙀</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f640/wearycatface -->
+    <people>
+        <key>crying_cat_face</key>
+        <value>😿</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f63f/cryingcatface -->
+    <people>
+        <key>pouting_cat_face</key>
+        <value>😾</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f63e/poutingcatface -->
+    <people>
+        <key>person_both_hand_celebration</key>
+        <value>🙌</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f64c/personraisingbothhandsincelebration //http://emojipedia.org/person-raising-both-hands-in-celebration/ -->
+	    <people>
+	        <key>person_both_hand_celebration_type_1_2</key>
+	        <value>🙌🏻</value>
+	    </people>
+	    <people>
+	        <key>person_both_hand_celebration_type_3</key>
+	        <value>🙌🏼</value>
+	    </people>
+	    <people>
+	        <key>person_both_hand_celebration_type_4</key>
+	        <value>🙌🏽</value>
+	    </people>
+	    <people>
+	        <key>person_both_hand_celebration_type_5</key>
+	        <value>🙌🏾</value>
+	    </people>
+	    <people>
+	        <key>person_both_hand_celebration_type_6</key>
+	        <value>🙌🏿</value>
+    	</people>
+
+    <!-- row#: 12 -->
+    <people>
+        <key>clapping_hand</key>
+        <value>👏</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f44f/clappinghandssign //http://emojipedia.org/clapping-hands-sign/ -->
+        <people>
+	        <key>clapping_hand_type_1_2</key>
+	        <value>👏🏼</value>
+	    </people>
+	    <people>
+	        <key>clapping_hand_type_3</key>
+	        <value>👏🏼</value>
+	    </people>
+	    <people>
+	        <key>clapping_hand_type_4</key>
+	        <value>👏🏽</value>
+	    </people>
+	    <people>
+	        <key>clapping_hand_type_5</key>
+	        <value>👏🏾</value>
+	    </people>
+	    <people>
+	        <key>clapping_hand_type_6</key>
+	        <value>👏🏿</value>
+	    </people>
+    <people>
+        <key>waving_hands</key>
+        <value>👋</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f44b/wavinghandsign //http://emojipedia.org/waving-hand-sign/ -->
+        <people>
+	        <key>waving_hands_type_1_2</key>
+	        <value>👋🏻</value>
+	    </people>
+	    <people>
+	        <key>waving_hands_type_3</key>
+	        <value>👋🏼</value>
+	    </people>
+	    <people>
+	        <key>waving_hands_type_4</key>
+	        <value>👋🏽</value>
+	    </people>
+	    <people>
+	        <key>waving_hands_type_5</key>
+	        <value>👋🏾</value>
+	    </people>
+	    <people>
+	        <key>waving_hands_type_6</key>
+	        <value>👋🏿</value>
+	    </people>
+    <people>
+        <key>thumbs_up</key>
+        <value>👍</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f44d/thumbsupsign //http://emojipedia.org/thumbs-up-sign/ -->
+        <people>
+	        <key>thumbs_up_type_1_2</key>
+	        <value>👍🏻</value>
+	    </people>
+	    <people>
+	        <key>thumbs_up_type_3</key>
+	        <value>👍🏼</value>
+	    </people>
+	    <people>
+	        <key>thumbs_up_type_4</key>
+	        <value>👍🏽</value>
+	    </people>
+	    <people>
+	        <key>thumbs_up_type_5</key>
+	        <value>👍🏾</value>
+	    </people>
+	    <people>
+	        <key>thumbs_up_type_6</key>
+	        <value>👍🏿</value>
+	    </people>
+    <people>
+        <key>thumbs_down</key>
+        <value>👎</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f44e/thumbsdownsign //http://emojipedia.org/thumbs-down-sign/ -->
+        <people>
+	        <key>thumbs_down_type_1_2</key>
+	        <value>👎🏻</value>
+	    </people>
+	    <people>
+	        <key>thumbs_down_type_3</key>
+	        <value>👎🏼</value>
+	    </people>
+	    <people>
+	        <key>thumbs_down_type_4</key>
+	        <value>👎🏽</value>
+	    </people>
+	    <people>
+	        <key>thumbs_down_type_5</key>
+	        <value>👎🏾</value>
+	    </people>
+	    <people>
+	        <key>thumbs_down_type_6</key>
+	        <value>👎🏿</value>
+	    </people>
+    <people>
+        <key>fist_hand</key>
+        <value>👊</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f44a/fistedhandsign //http://emojipedia.org/fisted-hand-sign/ -->
+        <people>
+	        <key>fist_hand_type_1_2</key>
+	        <value>👊🏻</value>
+	    </people>
+	    <people>
+	        <key>fist_hand_type_3</key>
+	        <value>👊🏼</value>
+	    </people>
+	    <people>
+	        <key>fist_hand_type_4</key>
+	        <value>👊🏽</value>
+	    </people>
+	    <people>
+	        <key>fist_hand_type_5</key>
+	        <value>👊🏾</value>
+	    </people>
+	    <people>
+	        <key>fist_hand_type_6</key>
+	        <value>👊🏿</value>
+	    </people>
+    <people>
+        <key>raised_fist</key>
+        <value>✊</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/270a/raisedfist //http://emojipedia.org/raised-fist/ -->
+        <people>
+	        <key>raised_fist_type_1_2</key>
+	        <value>✊🏻</value>
+	    </people>
+	    <people>
+	        <key>raised_fist_type_3</key>
+	        <value>✊🏼</value>
+	    </people>
+	    <people>
+	        <key>raised_fist_type_4</key>
+	        <value>✊🏽</value>
+	    </people>
+	    <people>
+	        <key>raised_fist_type_5</key>
+	        <value>✊🏾</value>
+	    </people>
+	    <people>
+	        <key>raised_fist_type_6</key>
+	        <value>✊🏿</value>
+	    </people>
+    <people>
+        <key>victory_hand</key>
+        <value>✌</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/270c/victoryhand //http://emojipedia.org/victory-hand/ -->
+        <people>
+	        <key>victory_hand_type_1_2</key>
+	        <value>✌🏻</value>
+	    </people>
+	    <people>
+	        <key>victory_hand_type_3</key>
+	        <value>✌🏼</value>
+	    </people>
+	    <people>
+	        <key>victory_hand_type_4</key>
+	        <value>✌🏽</value>
+	    </people>
+	    <people>
+	        <key>victory_hand_type_5</key>
+	        <value>✌🏾</value>
+	    </people>
+	    <people>
+	        <key>victory_hand_type_6</key>
+	        <value>✌🏿</value>
+	    </people>
+    <people>
+        <key>ok_hand</key>
+        <value>👌</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f44c/okhandsign //http://emojipedia.org/ok-hand-sign/ -->
+        <people>
+	        <key>ok_hand_type_1_2</key>
+	        <value>👌🏻</value>
+	    </people>
+	    <people>
+	        <key>ok_hand_type_3</key>
+	        <value>👌🏼</value>
+	    </people>
+	    <people>
+	        <key>ok_hand_type_4</key>
+	        <value>👌🏽</value>
+	    </people>
+	    <people>
+	        <key>ok_hand_type_5</key>
+	        <value>👌🏾</value>
+	    </people>
+	    <people>
+	        <key>ok_hand_type_6</key>
+	        <value>👌🏿</value>
+	    </people>
+
+    <!-- row#: 13 -->
+    <people>
+        <key>raised_hand</key>
+        <value>✋</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/270b/raisedhand //http://emojipedia.org/raised-hand/ -->
+        <people>
+	        <key>raised_hand_type_1_2</key>
+	        <value>✋🏻</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_type_3</key>
+	        <value>✋🏼</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_type_4</key>
+	        <value>✋🏽</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_type_5</key>
+	        <value>✋🏾</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_type_6</key>
+	        <value>✋🏿</value>
+	    </people>
+    <people>
+        <key>open_hand</key>
+        <value>👐</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f450/openhandssign //http://emojipedia.org/open-hands-sign/ -->
+        <people>
+	        <key>open_hand_type_1_2</key>
+	        <value>👐🏻</value>
+	    </people>
+	    <people>
+	        <key>open_hand_type_3</key>
+	        <value>👐🏼</value>
+	    </people>
+	    <people>
+	        <key>open_hand_type_4</key>
+	        <value>👐🏽</value>
+	    </people>
+	    <people>
+	        <key>open_hand_type_5</key>
+	        <value>👐🏾</value>
+	    </people>
+	    <people>
+	        <key>open_hand_type_6</key>
+	        <value>👐🏿</value>
+	    </people>
+    <people>
+        <key>flexed_biceps</key>
+        <value>💪</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f4aa/flexedbiceps //http://emojipedia.org/flexed-biceps/ -->
+        <people>
+	        <key>flexed_biceps_type_1_2</key>
+	        <value>💪🏻</value>
+	    </people>
+	    <people>
+	        <key>flexed_biceps_type_3</key>
+	        <value>💪🏼</value>
+	    </people>
+	    <people>
+	        <key>flexed_biceps_type_4</key>
+	        <value>💪🏽</value>
+	    </people>
+	    <people>
+	        <key>flexed_biceps_type_5</key>
+	        <value>💪🏾</value>
+	    </people>
+	    <people>
+	        <key>flexed_biceps_type_6</key>
+	        <value>💪🏿</value>
+	    </people>
+    <people>
+        <key>folded_hands</key>
+        <value>🙏</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f64f/personwithfoldedhands //http://emojipedia.org/person-with-folded-hands/ -->
+        <people>
+	        <key>folded_hands_type_1_2</key>
+	        <value>🙏🏻</value>
+	    </people>
+	    <people>
+	        <key>folded_hands_type_3</key>
+	        <value>🙏🏼</value>
+	    </people>
+	    <people>
+	        <key>folded_hands_type_4</key>
+	        <value>🙏🏽</value>
+	    </people>
+	    <people>
+	        <key>folded_hands_type_5</key>
+	        <value>🙏🏾</value>
+	    </people>
+	    <people>
+	        <key>folded_hands_type_6</key>
+	        <value>🙏🏿</value>
+	    </people>
+    <people>
+        <key>up_pointing_index</key>
+        <value>☝</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/261d/whiteuppointingindex //http://emojipedia.org/white-up-pointing-index/ -->
+        <people>
+	        <key>up_pointing_index_type_1_2</key>
+	        <value>☝🏻</value>
+	    </people>
+	    <people>
+	        <key>up_pointing_index_type_3</key>
+	        <value>☝🏼</value>
+	    </people>
+	    <people>
+	        <key>up_pointing_index_type_4</key>
+	        <value>☝🏽</value>
+	    </people>
+	    <people>
+	        <key>up_pointing_index_type_5</key>
+	        <value>☝🏾</value>
+	    </people>
+	    <people>
+	        <key>up_pointing_index_type_6</key>
+	        <value>☝🏿</value>
+	    </people>
+    <people>
+        <key>up_pointing_backhand_index</key>
+        <value>👆</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f446/whiteuppointingbackhandindex //http://emojipedia.org/white-up-pointing-backhand-index/ -->
+        <people>
+	        <key>up_pointing_backhand_index_type_1_2</key>
+	        <value>👆🏻</value>
+	    </people>
+	    <people>
+	        <key>up_pointing_backhand_index_type_3</key>
+	        <value>👆🏼</value>
+	    </people>
+	    <people>
+	        <key>up_pointing_backhand_index_type_4</key>
+	        <value>👆🏽</value>
+	    </people>
+	    <people>
+	        <key>up_pointing_backhand_index_type_5</key>
+	        <value>👆🏾</value>
+	    </people>
+	    <people>
+	        <key>up_pointing_backhand_index_type_6</key>
+	        <value>👆🏿</value>
+	    </people>
+    <people>
+        <key>down_pointing_backhand_index</key>
+        <value>👇</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f447/whitedownpointingbackhandindex //http://emojipedia.org/white-down-pointing-backhand-index/ -->
+        <people>
+	        <key>down_pointing_backhand_index_type_1_2</key>
+	        <value>👇🏻</value>
+	    </people>
+	    <people>
+	        <key>down_pointing_backhand_index_type_3</key>
+	        <value>👇🏼</value>
+	    </people>
+	    <people>
+	        <key>down_pointing_backhand_index_type_4</key>
+	        <value>👇🏽</value>
+	    </people>
+	    <people>
+	        <key>down_pointing_backhand_index_type_5</key>
+	        <value>👇🏾</value>
+	    </people>
+	    <people>
+	        <key>down_pointing_backhand_index_type_6</key>
+	        <value>👇🏿</value>
+	    </people>
+    <people>
+        <key>left_pointing_backhand_index</key>
+        <value>👈</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f448/whiteleftpointingbackhandindex //http://emojipedia.org/white-left-pointing-backhand-index/ -->
+        <people>
+	        <key>left_pointing_backhand_index_type_1_2</key>
+	        <value>👈🏻</value>
+	    </people>
+	    <people>
+	        <key>left_pointing_backhand_index_type_3</key>
+	        <value>👈🏼</value>
+	    </people>
+	    <people>
+	        <key>left_pointing_backhand_index_type_4</key>
+	        <value>👈🏽</value>
+	    </people>
+	    <people>
+	        <key>left_pointing_backhand_index_type_5</key>
+	        <value>👈🏾</value>
+	    </people>
+	    <people>
+	        <key>left_pointing_backhand_index_type_6</key>
+	        <value>👈🏿</value>
+	    </people>
+
+    <!-- row#: 14 -->
+    <people>
+        <key>right_pointing_backhand_index</key>
+        <value>👉</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f449/whiterightpointingbackhandindex //http://emojipedia.org/white-right-pointing-backhand-index/ -->
+        <people>
+	        <key>right_pointing_backhand_index_type_1_2</key>
+	        <value>👉🏻</value>
+	    </people>
+	    <people>
+	        <key>right_pointing_backhand_index_type_3</key>
+	        <value>👉🏼</value>
+	    </people>
+	    <people>
+	        <key>right_pointing_backhand_index_type_4</key>
+	        <value>👉🏽</value>
+	    </people>
+	    <people>
+	        <key>right_pointing_backhand_index_type_5</key>
+	        <value>👉🏾</value>
+	    </people>
+	    <people>
+	        <key>right_pointing_backhand_index_type_6</key>
+	        <value>👉🏿</value>
+	    </people>
+    <people>
+        <key>reverse_middle_finger</key>
+        <value>🖕</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f595/reversedhandwithmiddlefingerextended //http://emojipedia.org/reversed-hand-with-middle-finger-extended/ -->
+        <people>
+	        <key>reverse_middle_finger_type_1_2</key>
+	        <value>🖕🏻</value>
+	    </people>
+	    <people>
+	        <key>reverse_middle_finger_type_3</key>
+	        <value>🖕🏼</value>
+	    </people>
+	    <people>
+	        <key>reverse_middle_finger_type_4</key>
+	        <value>🖕🏽</value>
+	    </people>
+	    <people>
+	        <key>reverse_middle_finger_type_5</key>
+	        <value>🖕🏾</value>
+	    </people>
+	    <people>
+	        <key>reverse_middle_finger_type_6</key>
+	        <value>🖕🏿</value>
+	    </people>
+    <people>
+        <key>raised_hand_fingers_splayed</key>
+        <value>🖐</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f590/raisedhandwithfingerssplayed //http://emojipedia.org/raised-hand-with-fingers-splayed/ -->
+        <people>
+	        <key>raised_hand_fingers_splayed_type_1_2</key>
+	        <value>🖐🏻</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_fingers_splayed_type_3</key>
+	        <value>🖐🏼</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_fingers_splayed_type_4</key>
+	        <value>🖐🏽</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_fingers_splayed_type_5</key>
+	        <value>🖐🏾</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_fingers_splayed_type_6</key>
+	        <value>🖐🏿</value>
+	    </people>
+    <people>
+        <key>sign_of_horn</key>
+        <value>🤘</value>
+    </people>
+    <!-- http://emojipedia.org/sign-of-the-horns/ -->
+        <people>
+	        <key>sign_of_horn_type_1_2</key>
+	        <value>🤘🏻</value>
+	    </people>
+	    <people>
+	        <key>sign_of_horn_type_3</key>
+	        <value>🤘🏼</value>
+	    </people>
+	    <people>
+	        <key>sign_of_horn_type_4</key>
+	        <value>🤘🏽</value>
+	    </people>
+	    <people>
+	        <key>sign_of_horn_type_5</key>
+	        <value>🤘🏾</value>
+	    </people>
+	    <people>
+	        <key>sign_of_horn_type_6</key>
+	        <value>🤘🏿</value>
+	    </people>
+    <people>
+        <key>raised_hand_part_between_middle_ring</key>
+        <value>🖖</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f596/raisedhandwithpartbetweenmiddleandringfingers //http://emojipedia.org/raised-hand-with-part-between-middle-and-ring-fingers/ -->
+        <people>
+	        <key>raised_hand_part_between_middle_ring_type_1_2</key>
+	        <value>🖖🏻</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_part_between_middle_ring_type_3</key>
+	        <value>🖖🏼</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_part_between_middle_ring_type_4</key>
+	        <value>🖖🏽</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_part_between_middle_ring_type_5</key>
+	        <value>🖖🏾</value>
+	    </people>
+	    <people>
+	        <key>raised_hand_part_between_middle_ring_type_6</key>
+	        <value>🖖🏿</value>
+	    </people>
+    <people>
+        <key>writing_hand</key>
+        <value>✍</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/270d/writinghand //http://emojipedia.org/writing-hand/ -->
+        <people>
+	        <key>writing_hand_type_1_2</key>
+	        <value>✍🏻</value>
+	    </people>
+	    <people>
+	        <key>writing_hand_type_3</key>
+	        <value>✍🏼</value>
+	    </people>
+	    <people>
+	        <key>writing_hand_type_4</key>
+	        <value>✍🏽</value>
+	    </people>
+	    <people>
+	        <key>writing_hand_type_5</key>
+	        <value>✍🏾</value>
+	    </people>
+	    <people>
+	        <key>writing_hand_type_6</key>
+	        <value>✍🏿</value>
+	    </people>
+    <people>
+        <key>nail_polish</key>
+        <value>💅</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f485/nailpolish //http://emojipedia.org/nail-polish/ -->
+        <people>
+	        <key>nail_polish_type_1_2</key>
+	        <value>💅🏻</value>
+	    </people>
+	    <people>
+	        <key>nail_polish_type_3</key>
+	        <value>💅🏼</value>
+	    </people>
+	    <people>
+	        <key>nail_polish_type_4</key>
+	        <value>💅🏽</value>
+	    </people>
+	    <people>
+	        <key>nail_polish_type_5</key>
+	        <value>💅🏾</value>
+	    </people>
+	    <people>
+	        <key>nail_polish_type_6</key>
+	        <value>💅🏿</value>
+	    </people>
+    <people>
+        <key>mouth</key>
+        <value>👄</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f444/mouth -->
+
+    <!-- row#: 15 -->
+    <people>
+        <key>tongue</key>
+        <value>👅</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f445/tongue -->
+    <people>
+        <key>ear</key>
+        <value>👂</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f442/ear //http://emojipedia.org/ear/ -->
+        <people>
+	        <key>ear_type_1_2</key>
+	        <value>👂🏻</value>
+	    </people>
+	    <people>
+	        <key>ear_type_3</key>
+	        <value>👂🏼</value>
+	    </people>
+	    <people>
+	        <key>ear_type_4</key>
+	        <value>👂🏽</value>
+	    </people>
+	    <people>
+	        <key>ear_type_5</key>
+	        <value>👂🏾</value>
+	    </people>
+	    <people>
+	        <key>ear_type_6</key>
+	        <value>👂🏿</value>
+	    </people>
+    <people>
+        <key>nose</key>
+        <value>👃</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f443/nose //http://emojipedia.org/nose/ -->
+        <people>
+	        <key>nose_type_1_2</key>
+	        <value>👃🏻</value>
+	    </people>
+	    <people>
+	        <key>nose_type_3</key>
+	        <value>👃🏼</value>
+	    </people>
+	    <people>
+	        <key>nose_type_4</key>
+	        <value>👃🏽</value>
+	    </people>
+	    <people>
+	        <key>nose_type_5</key>
+	        <value>👃🏾</value>
+	    </people>
+	    <people>
+	        <key>nose_type_6</key>
+	        <value>👃🏿</value>
+	    </people>
+    <people>
+        <key>eye</key>
+        <value>👁</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f441/eye -->
+    <people>
+        <key>eyes</key>
+        <value>👀</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f440/eyes -->
+    <people>
+        <key>bust_in_silhouette</key>
+        <value>👤</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f464/bustinsilhouette -->
+    <people>
+        <key>busts_in_silhouette</key>
+        <value>👥</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f465/bustsinsilhouette -->
+    <people>
+        <key>speaking_head_in_silhouette</key>
+        <value>🗣</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f5e3/speakingheadinsilhouette -->
+
+    <!-- row#: 16 -->
+    <people>
+        <key>baby</key>
+        <value>👶</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f476/baby //http://emojipedia.org/baby/ -->
+        <people>
+	        <key>baby_type_1_2</key>
+	        <value>👶🏻</value>
+	    </people>
+	    <people>
+	        <key>baby_type_3</key>
+	        <value>👶🏼</value>
+	    </people>
+	    <people>
+	        <key>baby_type_4</key>
+	        <value>👶🏽</value>
+	    </people>
+	    <people>
+	        <key>baby_type_5</key>
+	        <value>👶🏾</value>
+	    </people>
+	    <people>
+	        <key>baby_type_6</key>
+	        <value>👶🏿</value>
+	    </people>
+    <people>
+        <key>boy</key>
+        <value>👦</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f466/boy //http://emojipedia.org/boy/ -->
+        <people>
+	        <key>boy_type_1_2</key>
+	        <value>👦🏻</value>
+	    </people>
+	    <people>
+	        <key>boy_type_3</key>
+	        <value>👦🏼</value>
+	    </people>
+	    <people>
+	        <key>boy_type_4</key>
+	        <value>👦🏽</value>
+	    </people>
+	    <people>
+	        <key>boy_type_5</key>
+	        <value>👦🏾</value>
+	    </people>
+	    <people>
+	        <key>boy_type_6</key>
+	        <value>👦🏿</value>
+	    </people>
+    <people>
+        <key>girl</key>
+        <value>👧</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f467/girl //http://emojipedia.org/girl/ -->
+        <people>
+	        <key>girl_type_1_2</key>
+	        <value>👧🏻</value>
+	    </people>
+	    <people>
+	        <key>girl_type_3</key>
+	        <value>👧🏼</value>
+	    </people>
+	    <people>
+	        <key>girl_type_4</key>
+	        <value>👧🏽</value>
+	    </people>
+	    <people>
+	        <key>girl_type_5</key>
+	        <value>👧🏾</value>
+	    </people>
+	    <people>
+	        <key>girl_type_6</key>
+	        <value>👧🏿</value>
+	    </people>
+    <people>
+        <key>man</key>
+        <value>👨</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f468/man //http://emojipedia.org/man/ -->
+        <people>
+	        <key>man_type_1_2</key>
+	        <value>👨🏻</value>
+	    </people>
+	    <people>
+	        <key>man_type_3</key>
+	        <value>👨🏼</value>
+	    </people>
+	    <people>
+	        <key>man_type_4</key>
+	        <value>👨🏽</value>
+	    </people>
+	    <people>
+	        <key>man_type_5</key>
+	        <value>👨🏾</value>
+	    </people>
+	    <people>
+	        <key>man_type_6</key>
+	        <value>👨🏿</value>
+	    </people>
+    <people>
+        <key>women</key>
+        <value>👩</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f469/woman //http://emojipedia.org/woman/ -->
+        <people>
+	        <key>women_type_1_2</key>
+	        <value>👩🏻</value>
+	    </people>
+	    <people>
+	        <key>women_type_3</key>
+	        <value>👩🏼</value>
+	    </people>
+	    <people>
+	        <key>women_type_4</key>
+	        <value>👩🏽</value>
+	    </people>
+	    <people>
+	        <key>women_type_5</key>
+	        <value>👩🏾</value>
+	    </people>
+	    <people>
+	        <key>women_type_6</key>
+	        <value>👩🏿</value>
+	    </people>
+    <people>
+        <key>person_with_blond_hair</key>
+        <value>👱</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f471/personwithblondhair //http://emojipedia.org/person-with-blond-hair/ -->
+        <people>
+	        <key>person_with_blond_hair_type_1_2</key>
+	        <value>👱🏻</value>
+	    </people>
+	    <people>
+	        <key>person_with_blond_hair_type_3</key>
+	        <value>👱🏼</value>
+	    </people>
+	    <people>
+	        <key>person_with_blond_hair_type_4</key>
+	        <value>👱🏽</value>
+	    </people>
+	    <people>
+	        <key>person_with_blond_hair_type_5</key>
+	        <value>👱🏾</value>
+	    </people>
+	    <people>
+	        <key>person_with_blond_hair_type_6</key>
+	        <value>👱🏿</value>
+	    </people>
+    <people>
+        <key>older_man</key>
+        <value>👴</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f474/olderman //http://emojipedia.org/older-man/ -->
+        <people>
+	        <key>older_man_type_1_2</key>
+	        <value>👴🏻</value>
+	    </people>
+	    <people>
+	        <key>older_man_type_3</key>
+	        <value>👴🏼</value>
+	    </people>
+	    <people>
+	        <key>older_man_type_4</key>
+	        <value>👴🏽</value>
+	    </people>
+	    <people>
+	        <key>older_man_type_5</key>
+	        <value>👴🏾</value>
+	    </people>
+	    <people>
+	        <key>older_man_type_6</key>
+	        <value>👴🏿</value>
+	    </people>
+    <people>
+        <key>older_women</key>
+        <value>👵</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f475/olderwoman //http://emojipedia.org/older-woman/ -->
+        <people>
+	        <key>older_women_type_1_2</key>
+	        <value>👵🏻</value>
+	    </people>
+	    <people>
+	        <key>older_women_type_3</key>
+	        <value>👵🏼</value>
+	    </people>
+	    <people>
+	        <key>older_women_type_4</key>
+	        <value>👵🏽</value>
+	    </people>
+	    <people>
+	        <key>older_women_type_5</key>
+	        <value>👵🏾</value>
+	    </people>
+	    <people>
+	        <key>older_women_type_6</key>
+	        <value>👵🏿</value>
+	    </people>
+
+    <!-- row#: 17 -->
+    <people>
+        <key>man_with_gua_pi_mao</key>
+        <value>👲</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f472/manwithguapimao //http://emojipedia.org/man-with-gua-pi-mao/ -->
+        <people>
+	        <key>man_with_gua_pi_mao_type_1_2</key>
+	        <value>👲🏼</value>
+	    </people>
+	    <people>
+	        <key>man_with_gua_pi_mao_type_3</key>
+	        <value>👲🏼</value>
+	    </people>
+	    <people>
+	        <key>man_with_gua_pi_mao_type_4</key>
+	        <value>👲🏽</value>
+	    </people>
+	    <people>
+	        <key>man_with_gua_pi_mao_type_5</key>
+	        <value>👲🏾</value>
+	    </people>
+	    <people>
+	        <key>man_with_gua_pi_mao_type_6</key>
+	        <value>👲🏿</value>
+	    </people>
+    <people>
+        <key>man_with_turban</key>
+        <value>👳</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f473/manwithturban //http://emojipedia.org/man-with-turban/ -->
+        <people>
+	        <key>man_with_turban_type_1_2</key>
+	        <value>👳🏻</value>
+	    </people>
+	    <people>
+	        <key>man_with_turban_type_3</key>
+	        <value>👳🏼</value>
+	    </people>
+	    <people>
+	        <key>man_with_turban_type_4</key>
+	        <value>👳🏽</value>
+	    </people>
+	    <people>
+	        <key>man_with_turban_type_5</key>
+	        <value>👳🏾</value>
+	    </people>
+	    <people>
+	        <key>man_with_turban_type_6</key>
+	        <value>👳🏿</value>
+	    </people>
+    <people>
+        <key>police_officer</key>
+        <value>👮</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f46e/policeofficer //http://emojipedia.org/police-officer/ -->
+        <people>
+	        <key>police_officer_type_1_2</key>
+	        <value>👮🏻</value>
+	    </people>
+	    <people>
+	        <key>police_officer_type_3</key>
+	        <value>👮🏼</value>
+	    </people>
+	    <people>
+	        <key>police_officer_type_4</key>
+	        <value>👮🏽</value>
+	    </people>
+	    <people>
+	        <key>police_officer_type_5</key>
+	        <value>👮🏾</value>
+	    </people>
+	    <people>
+	        <key>police_officer_type_6</key>
+	        <value>👮🏿</value>
+	    </people>
+    <people>
+        <key>construction_worker</key>
+        <value>👷</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f477/constructionworker //http://emojipedia.org/construction-worker/ -->
+        <people>
+	        <key>construction_worker_type_1_2</key>
+	        <value>👷🏻</value>
+	    </people>
+	    <people>
+	        <key>construction_worker_type_3</key>
+	        <value>👷🏼</value>
+	    </people>
+	    <people>
+	        <key>construction_worker_type_4</key>
+	        <value>👷🏽</value>
+	    </people>
+	    <people>
+	        <key>construction_worker_type_5</key>
+	        <value>👷🏾</value>
+	    </people>
+	    <people>
+	        <key>construction_worker_type_6</key>
+	        <value>👷🏿</value>
+	    </people>
+    <people>
+        <key>guards_man</key>
+        <value>💂</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f482/guardsman //http://emojipedia.org/guardsman/ -->
+        <people>
+	        <key>guards_man_type_1_2</key>
+	        <value>💂🏻</value>
+	    </people>
+	    <people>
+	        <key>guards_man_type_3</key>
+	        <value>💂🏼</value>
+	    </people>
+	    <people>
+	        <key>guards_man_type_4</key>
+	        <value>💂🏽</value>
+	    </people>
+	    <people>
+	        <key>guards_man_type_5</key>
+	        <value>💂🏾</value>
+	    </people>
+	    <people>
+	        <key>guards_man_type_6</key>
+	        <value>💂🏿</value>
+	    </people>
+    <people>
+        <key>spy</key>
+        <value>🕵</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f575/sleuthorspy -->
+    <people>
+        <key>father_christmas</key>
+        <value>🎅</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f385/fatherchristmas //http://emojipedia.org/father-christmas/ -->
+        <people>
+	        <key>father_christmas_type_1_2</key>
+	        <value>🎅🏻</value>
+	    </people>
+	    <people>
+	        <key>father_christmas_type_3</key>
+	        <value>🎅🏼</value>
+	    </people>
+	    <people>
+	        <key>father_christmas_type_4</key>
+	        <value>🎅🏽</value>
+	    </people>
+	    <people>
+	        <key>father_christmas_type_5</key>
+	        <value>🎅🏾</value>
+	    </people>
+	    <people>
+	        <key>father_christmas_type_6</key>
+	        <value>🎅🏿</value>
+	    </people>
+    <people>
+        <key>baby_angel</key>
+        <value>👼</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f47c/babyangel //http://emojipedia.org/baby-angel/ -->
+        <people>
+	        <key>baby_angel_type_1_2</key>
+	        <value>👼🏻</value>
+	    </people>
+	    <people>
+	        <key>baby_angel_type_3</key>
+	        <value>👼🏼</value>
+	    </people>
+	    <people>
+	        <key>baby_angel_type_4</key>
+	        <value>👼🏽</value>
+	    </people>
+	    <people>
+	        <key>baby_angel_type_5</key>
+	        <value>👼🏾</value>
+	    </people>
+	    <people>
+	        <key>baby_angel_type_6</key>
+	        <value>👼🏿</value>
+	    </people>
+
+    <!-- row#: 18 -->
+    <people>
+        <key>princess</key>
+        <value>👸</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f478/princess //http://emojipedia.org/princess/ -->
+        <people>
+	        <key>princess_type_1_2</key>
+	        <value>👸🏻</value>
+	    </people>
+	    <people>
+	        <key>princess_type_3</key>
+	        <value>👸🏼</value>
+	    </people>
+	    <people>
+	        <key>princess_type_4</key>
+	        <value>👸🏽</value>
+	    </people>
+	    <people>
+	        <key>princess_type_5</key>
+	        <value>👸🏾</value>
+	    </people>
+	    <people>
+	        <key>princess_type_6</key>
+	        <value>👸🏿</value>
+	    </people>
+    <people>
+        <key>bride_with_veil</key>
+        <value>👰</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f470/bridewithveil //http://emojipedia.org/bride-with-veil/ -->
+        <people>
+	        <key>bride_with_veil_type_1_2</key>
+	        <value>👰🏻</value>
+	    </people>
+	    <people>
+	        <key>bride_with_veil_type_3</key>
+	        <value>👰🏼</value>
+	    </people>
+	    <people>
+	        <key>bride_with_veil_type_4</key>
+	        <value>👰🏽</value>
+	    </people>
+	    <people>
+	        <key>bride_with_veil_type_5</key>
+	        <value>👰🏾</value>
+	    </people>
+	    <people>
+	        <key>bride_with_veil_type_6</key>
+	        <value>👰🏿</value>
+	    </people>
+    <people>
+        <key>pedestrian</key>
+        <value>🚶</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f6b6/pedestrian //http://emojipedia.org/pedestrian/ -->
+        <people>
+	        <key>pedestrian_type_1_2</key>
+	        <value>🚶🏻</value>
+	    </people>
+	    <people>
+	        <key>pedestrian_type_3</key>
+	        <value>🚶🏼</value>
+	    </people>
+	    <people>
+	        <key>pedestrian_type_4</key>
+	        <value>🚶🏽</value>
+	    </people>
+	    <people>
+	        <key>pedestrian_type_5</key>
+	        <value>🚶🏾</value>
+	    </people>
+	    <people>
+	        <key>pedestrian_type_6</key>
+	        <value>🚶🏿</value>
+	    </people>
+    <people>
+        <key>runner</key>
+        <value>🏃</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f3c3/runner //http://emojipedia.org/runner/ -->
+        <people>
+	        <key>runner_type_1_2</key>
+	        <value>🏃🏻</value>
+	    </people>
+	    <people>
+	        <key>runner_type_3</key>
+	        <value>🏃🏼</value>
+	    </people>
+	    <people>
+	        <key>runner_type_4</key>
+	        <value>🏃🏽</value>
+	    </people>
+	    <people>
+	        <key>runner_type_5</key>
+	        <value>🏃🏾</value>
+	    </people>
+	    <people>
+	        <key>runner_type_6</key>
+	        <value>🏃🏿</value>
+	    </people>
+    <people>
+        <key>dancer</key>
+        <value>💃</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f483/dancer //http://emojipedia.org/dancer/ -->
+        <people>
+	        <key>dancer_type_1_2</key>
+	        <value>💃🏻</value>
+	    </people>
+	    <people>
+	        <key>dancer_type_3</key>
+	        <value>💃🏼</value>
+	    </people>
+	    <people>
+	        <key>dancer_type_4</key>
+	        <value>💃🏽</value>
+	    </people>
+	    <people>
+	        <key>dancer_type_5</key>
+	        <value>💃🏾</value>
+	    </people>
+	    <people>
+	        <key>dancer_type_6</key>
+	        <value>💃🏿</value>
+	    </people>
+    <people>
+        <key>women_with_bunny_years</key>
+        <value>👯</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f46f/womanwithbunnyears -->
+    <people>
+        <key>man_women_holding_hands</key>
+        <value>👫</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f46b/manandwomanholdinghands -->
+    <people>
+        <key>two_man_holding_hands</key>
+        <value>👬</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f46c/twomenholdinghands -->
+
+    <!-- row#: 19 -->
+    <people>
+        <key>two_women_holding_hands</key>
+        <value>👭</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f46d/twowomenholdinghands -->
+    <people>
+        <key>person_bowing_deeply</key>
+        <value>🙇</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f647/personbowingdeeply //http://emojipedia.org/person-bowing-deeply/ -->
+        <people>
+	        <key>person_bowing_deeply_type_1_2</key>
+	        <value>🙇🏻</value>
+	    </people>
+	    <people>
+	        <key>person_bowing_deeply_type_3</key>
+	        <value>🙇🏼</value>
+	    </people>
+	    <people>
+	        <key>person_bowing_deeply_type_4</key>
+	        <value>🙇🏽</value>
+	    </people>
+	    <people>
+	        <key>person_bowing_deeply_type_5</key>
+	        <value>🙇🏾</value>
+	    </people>
+	    <people>
+	        <key>person_bowing_deeply_type_6</key>
+	        <value>🙇🏿</value>
+    </people>
+    <people>
+        <key>information_desk_person</key>
+        <value>💁</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f481/informationdeskperson //http://emojipedia.org/information-desk-person/ -->
+        <people>
+	        <key>information_desk_person_type_1_2</key>
+	        <value>💁🏻</value>
+	    </people>
+	    <people>
+	        <key>information_desk_person_type_3</key>
+	        <value>💁🏼</value>
+	    </people>
+	    <people>
+	        <key>information_desk_person_type_4</key>
+	        <value>💁🏽</value>
+	    </people>
+	    <people>
+	        <key>information_desk_person_type_5</key>
+	        <value>💁🏾</value>
+	    </people>
+	    <people>
+	        <key>information_desk_person_type_6</key>
+	        <value>💁🏿</value>
+	    </people>
+    <people>
+        <key>face_with_no_good_gesture</key>
+        <value>🙅</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f645/facewithnogoodgesture //http://emojipedia.org/face-with-no-good-gesture/ -->
+        <people>
+	        <key>face_with_no_good_gesture_type_1_2</key>
+	        <value>🙅🏻</value>
+	    </people>
+	    <people>
+	        <key>face_with_no_good_gesture_type_3</key>
+	        <value>🙅🏼</value>
+	    </people>
+	    <people>
+	        <key>face_with_no_good_gesture_type_4</key>
+	        <value>🙅🏽</value>
+	    </people>
+	    <people>
+	        <key>face_with_no_good_gesture_type_5</key>
+	        <value>🙅🏾</value>
+	    </people>
+	    <people>
+	        <key>face_with_no_good_gesture_type_6</key>
+	        <value>🙅🏿</value>
+	    </people>
+    <people>
+        <key>face_with_ok_gesture</key>
+        <value>🙆</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f646/facewithokgesture //http://emojipedia.org/face-with-ok-gesture/ -->
+        <people>
+	        <key>face_with_ok_gesture_type_1_2</key>
+	        <value>🙆🏻</value>
+	    </people>
+	    <people>
+	        <key>face_with_ok_gesture_type_3</key>
+	        <value>🙆🏼</value>
+	    </people>
+	    <people>
+	        <key>face_with_ok_gesture_type_4</key>
+	        <value>🙆🏽</value>
+	    </people>
+	    <people>
+	        <key>face_with_ok_gesture_type_5</key>
+	        <value>🙆🏾</value>
+	    </people>
+	    <people>
+	        <key>face_with_ok_gesture_type_6</key>
+	        <value>🙆🏿</value>
+	    </people>
+    <people>
+        <key>happy_person_raise_one_hand</key>
+        <value>🙋</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f64b/happypersonraisingonehand //http://emojipedia.org/happy-person-raising-one-hand/ -->
+        <people>
+	        <key>happy_person_raise_one_hand_type_1_2</key>
+	        <value>🙋🏻</value>
+	    </people>
+	    <people>
+	        <key>happy_person_raise_one_hand_type_3</key>
+	        <value>🙋🏼</value>
+	    </people>
+	    <people>
+	        <key>happy_person_raise_one_hand_type_4</key>
+	        <value>🙋🏽</value>
+	    </people>
+	    <people>
+	        <key>happy_person_raise_one_hand_type_5</key>
+	        <value>🙋🏾</value>
+	    </people>
+	    <people>
+	        <key>happy_person_raise_one_hand_type_6</key>
+	        <value>🙋🏿</value>
+	    </people>
+    <people>
+        <key>person_with_pouting_face</key>
+        <value>🙎</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f64e/personwithpoutingface //http://emojipedia.org/person-with-pouting-face/ -->
+        <people>
+	        <key>person_with_pouting_face_type_1_2</key>
+	        <value>🙎🏻</value>
+	    </people>
+	    <people>
+	        <key>person_with_pouting_face_type_3</key>
+	        <value>🙎🏼</value>
+	    </people>
+	    <people>
+	        <key>person_with_pouting_face_type_4</key>
+	        <value>🙎🏽</value>
+	    </people>
+	    <people>
+	        <key>person_with_pouting_face_type_5</key>
+	        <value>🙎🏾</value>
+	    </people>
+	    <people>
+	        <key>person_with_pouting_face_type_6</key>
+	        <value>🙎🏿</value>
+	    </people>
+    <people>
+        <key>person_frowning</key>
+        <value>🙍</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f64d/personfrowning //http://emojipedia.org/person-frowning/ -->
+        <people>
+	        <key>person_frowning_type_1_2</key>
+	        <value>🙍🏻</value>
+	    </people>
+	    <people>
+	        <key>person_frowning_type_3</key>
+	        <value>🙍🏼</value>
+	    </people>
+	    <people>
+	        <key>person_frowning_type_4</key>
+	        <value>🙍🏽</value>
+	    </people>
+	    <people>
+	        <key>person_frowning_type_5</key>
+	        <value>🙍🏾</value>
+	    </people>
+	    <people>
+	        <key>person_frowning_type_6</key>
+	        <value>🙍🏿</value>
+	    </people>
+
+    <!-- row#: 20 -->
+    <people>
+        <key>haircut</key>
+        <value>💇</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f487/haircut //http://emojipedia.org/haircut/ -->
+        <people>
+	        <key>haircut_type_1_2</key>
+	        <value>💇🏻</value>
+	    </people>
+	    <people>
+	        <key>haircut_type_3</key>
+	        <value>💇🏼</value>
+	    </people>
+	    <people>
+	        <key>haircut_type_4</key>
+	        <value>💇🏽</value>
+	    </people>
+	    <people>
+	        <key>haircut_type_5</key>
+	        <value>💇🏾</value>
+	    </people>
+	    <people>
+	        <key>haircut_type_6</key>
+	        <value>💇🏿</value>
+	    </people>
+    <people>
+        <key>face_massage</key>
+        <value>💆</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f486/facemassage //http://emojipedia.org/face-massage/ -->
+        <people>
+	        <key>face_massage_type_1_2</key>
+	        <value>💆🏻</value>
+	    </people>
+	    <people>
+	        <key>face_massage_type_3</key>
+	        <value>💆🏻</value>
+	    </people>
+	    <people>
+	        <key>face_massage_type_4</key>
+	        <value>💆🏽</value>
+	    </people>
+	    <people>
+	        <key>face_massage_type_5</key>
+	        <value>💆🏾</value>
+	    </people>
+	    <people>
+	        <key>face_massage_type_6</key>
+	        <value>💆🏿</value>
+	    </people>
+    <people>
+        <key>couple_with_heart</key>
+        <value>💑</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f491/couplewithheart -->
+    <people>
+        <key>couple_with_heart_woman</key>
+        <value>👩‍❤️‍👩</value>
+    </people>
+    <!-- http://emojipedia.org/couple-with-heart-woman-woman/ -->
+    <people>
+        <key>couple_with_heart_man</key>
+        <value>👨‍❤️‍👨</value>
+    </people>
+    <!-- http://emojipedia.org/couple-with-heart-man-man/ -->
+    <people>
+        <key>kiss</key>
+        <value>💏</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f48f/kiss -->
+    <people>
+        <key>kiss_woman</key>
+        <value>👩‍❤️‍💋‍👩</value>
+    </people>
+    <!-- http://emojipedia.org/kiss-woman-woman/ -->
+    <people>
+        <key>kiss_man</key>
+        <value>👨‍❤️‍💋‍👨</value>
+    </people>
+    <!-- http://emojipedia.org/kiss-man-man/ -->
+
+    <!-- row#: 21 -->
+    <people>
+        <key>family</key>
+        <value>👪</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f46a/family -->
+    <people>
+        <key>family_man_women_girl</key>
+        <value>👨‍👩‍👧</value>
+    </people>
+    <!-- http://emojipedia.org/family-man-woman-girl/ -->
+    <people>
+        <key>family_man_women_girl_boy</key>
+        <value>👨‍👩‍👧‍👦</value>
+    </people>
+    <!-- http://emojipedia.org/family-man-woman-girl-boy/ -->
+    <people>
+        <key>family_man_women_boy_boy</key>
+        <value>👨‍👩‍👦‍👦</value>
+    </people>
+    <!-- http://emojipedia.org/family-man-woman-boy-boy/ -->
+    <people>
+        <key>family_man_women_girl_girl</key>
+        <value>👨‍👩‍👧‍👧</value>
+    </people>
+    <!-- http://emojipedia.org/family-man-woman-girl-girl/ -->
+    <people>
+        <key>family_woman_women_boy</key>
+        <value>👩‍👩‍👦</value>
+    </people>
+    <!-- http://emojipedia.org/family-woman-woman-boy/ -->
+    <people>
+        <key>family_woman_women_girl</key>
+        <value>👩‍👩‍👧</value>
+    </people>
+    <!-- http://emojipedia.org/family-woman-woman-girl/ -->
+    <people>
+        <key>family_woman_women_girl_boy</key>
+        <value>👩‍👩‍👧‍👦</value>
+    </people>
+    <!-- http://emojipedia.org/family-woman-woman-girl-boy/ -->
+
+    <!-- row#: 22 -->
+    <people>
+        <key>family_woman_women_boy_boy</key>
+        <value>👩‍👩‍👦‍👦</value>
+    </people>
+    <!-- http://emojipedia.org/family-woman-woman-boy-boy/ -->
+    <people>
+        <key>family_woman_women_girl_girl</key>
+        <value>👩‍👩‍👧‍👧</value>
+    </people>
+    <!-- http://emojipedia.org/family-woman-woman-girl-girl/ -->
+    <people>
+        <key>family_man_man_boy</key>
+        <value>👨‍👨‍👦</value>
+    </people>
+    <!-- http://emojipedia.org/family-man-man-boy/ -->
+    <people>
+        <key>family_man_man_girl</key>
+        <value>👨‍👨‍👧</value>
+    </people>
+    <!-- http://emojipedia.org/family-man-man-girl/ -->
+    <people>
+        <key>family_man_man_girl_boy</key>
+        <value>👨‍👨‍👧‍👦</value>
+    </people>
+    <!-- http://emojipedia.org/family-man-man-girl-boy/ -->
+    <people>
+        <key>family_man_man_boy_boy</key>
+        <value>👨‍👨‍👦‍👦</value>
+    </people>
+    <!-- http://emojipedia.org/family-man-man-boy-boy/ -->
+    <people>
+        <key>family_man_man_girl_girl</key>
+        <value>👨‍👨‍👧‍👧</value>
+    </people>
+    <!-- http://emojipedia.org/family-man-man-girl-girl/ -->
+    <people>
+        <key>woman_clothes</key>
+        <value>👚</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f45a/womansclothes -->
+
+    <!-- row#: 23 -->
+    <people>
+        <key>t_shirt</key>
+        <value>👕</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f455/tshirt -->
+    <people>
+        <key>jeans</key>
+        <value>👖</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f456/jeans -->
+    <people>
+        <key>necktie</key>
+        <value>👔</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f454/necktie -->
+    <people>
+        <key>dress</key>
+        <value>👗</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f457/dress -->
+    <people>
+        <key>bikini</key>
+        <value>👙</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f459/bikini -->
+    <people>
+        <key>kimono</key>
+        <value>👘</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f458/kimono -->
+    <people>
+        <key>lipstick</key>
+        <value>💄</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f484/lipstick -->
+    <people>
+        <key>kiss_mark</key>
+        <value>💋</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f48b/kissmark -->
+
+    <!-- row#: 24 -->
+    <people>
+        <key>footprints</key>
+        <value>👣</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f463/footprints -->
+    <people>
+        <key>high_heeled_shoe</key>
+        <value>👠</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f460/highheeledshoe -->
+    <people>
+        <key>woman_sandal</key>
+        <value>👡</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f461/womanssandal -->
+    <people>
+        <key>woman_boots</key>
+        <value>👢</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f462/womansboots -->
+    <people>
+        <key>man_shoe</key>
+        <value>👞</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f45e/mansshoe -->
+    <people>
+        <key>athletic_shoe</key>
+        <value>👟</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f45f/athleticshoe -->
+    <people>
+        <key>woman_hat</key>
+        <value>👒</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f452/womanshat -->
+    <people>
+        <key>top_hat</key>
+        <value>🎩</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f3a9/tophat -->
+
+    <!-- row#: 25 -->
+    <people>
+        <key>graduation_cap</key>
+        <value>🎓</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f393/graduationcap -->
+    <people>
+        <key>crown</key>
+        <value>👑</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f451/crown -->
+    <people>
+        <key>helmet_with_white_cross</key>
+        <value>⛑</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/26d1/helmetwithwhitecross -->
+    <people>
+        <key>school_satchel</key>
+        <value>🎒</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f392/schoolsatchel -->
+    <people>
+        <key>pouch</key>
+        <value>👝</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f45d/pouch -->
+    <people>
+        <key>purse</key>
+        <value>👛</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f45b/purse -->
+    <people>
+        <key>handbag</key>
+        <value>👜</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f45c/handbag -->
+    <people>
+        <key>briefcase</key>
+        <value>💼</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f4bc/briefcase -->
+
+    <!-- row#: 26 -->
+    <people>
+        <key>eye_glasses</key>
+        <value>👓</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f453/eyeglasses -->
+    <people>
+        <key>dark_sun_glasses</key>
+        <value>🕶</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f576/darksunglasses -->
+    <people>
+        <key>ring</key>
+        <value>💍</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f48d/ring -->
+    <people>
+        <key>closed_umbrella</key>
+        <value>🌂</value>
+    </people>
+    <!-- https://www.emojibase.com/emoji/1f302/closedumbrella -->
+
+</peoples>
