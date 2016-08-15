@@ -1,0 +1,1421 @@
+<?xml version="1.0"?>
+
+<!-- Shayan Rais (http://shanraisshan.com) -->
+<!-- created on 8/15/2016 -->
+
+<symbols>
+
+    <!-- row#: 1 -->
+    <symbol>
+        <key>heavy_black_heart</key>
+        <value>❤</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2764/heavyblackheart -->
+    <symbol>
+        <key>yellow_heart</key>
+        <value>💛</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f49b/yellowheart -->
+    <symbol>
+        <key>green_heart</key>
+        <value>💚</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f49a/greenheart -->
+    <symbol>
+        <key>blue_heart</key>
+        <value>💙</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f499/blueheart -->
+    <symbol>
+        <key>purple_heart</key>
+        <value>💜</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f49c/purpleheart -->
+    <symbol>
+        <key>broken_heart</key>
+        <value>💔</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f494/brokenheart -->
+    <symbol>
+        <key>heavy_heart_exclamation_mark_ornament</key>
+        <value>❣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2763/heavyheartexclamationmarkornament -->
+    <symbol>
+        <key>two_hearts</key>
+        <value>💕</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f495/twohearts -->
+
+    <!-- row#: 2 -->
+    <symbol>
+        <key>revolving_hearts</key>
+        <value>💞</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f49e/revolvinghearts -->
+    <symbol>
+        <key>beating_heart</key>
+        <value>💓</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f493/beatingheart -->
+    <symbol>
+        <key>growing_heart</key>
+        <value>💗</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f497/growingheart -->
+    <symbol>
+        <key>sparkling_heart</key>
+        <value>💖</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f496/sparklingheart -->
+    <symbol>
+        <key>heart_with_arrow</key>
+        <value>💘</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f498/heartwitharrow -->
+    <symbol>
+        <key>heart_with_ribbon</key>
+        <value>💝</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f49d/heartwithribbon -->
+    <symbol>
+        <key>heart_decoration</key>
+        <value>💟</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f49f/heartdecoration -->
+    <symbol>
+        <key>peace_symbol</key>
+        <value>☮</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/262e/peacesymbol -->
+
+    <!-- row#: 3 -->
+    <symbol>
+        <key>latin_cross</key>
+        <value>✝</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/latin-cross/ -->
+    <symbol>
+        <key>star_and_crescent</key>
+        <value>☪</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/star-and-crescent/ -->
+    <symbol>
+        <key>om_symbol</key>
+        <value>🕉</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/om-symbol/ -->
+    <symbol>
+        <key>wheel_of_dharma</key>
+        <value>☸</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/wheel-of-dharma/ -->
+    <symbol>
+        <key>star_of_david</key>
+        <value>✡</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/star-of-david/ -->
+    <symbol>
+        <key>six_pointed_star_with_middle_dot</key>
+        <value>🔯</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f52f/sixpointedstarwithmiddledot -->
+    <symbol>
+        <key>menorah_with_nine_branches</key>
+        <value>🕎</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/menorah-with-nine-branches/ -->
+    <symbol>
+        <key>yin_yang</key>
+        <value>☯</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/262f/yinyang -->
+
+    <!-- row#: 4 -->
+    <symbol>
+        <key>orthodox_cross</key>
+        <value>☦</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/orthodox-cross/ -->
+    <symbol>
+        <key>place_of_worship</key>
+        <value>🛐</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/place-of-worship/ -->
+    <symbol>
+        <key>ophiuchus</key>
+        <value>⛎</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/26ce/ophiuchus -->
+    <symbol>
+        <key>aries</key>
+        <value>♈</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2648/aries -->
+    <symbol>
+        <key>taurus</key>
+        <value>♉</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2649/taurus -->
+    <symbol>
+        <key>gemini</key>
+        <value>♊</value>
+    </symbol>
+    <!-- https://www.emojibase.com/emoji/264a/gemini -->
+    <symbol>
+        <key>cancer</key>
+        <value>♋</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/264b/cancer -->
+    <symbol>
+        <key>leo</key>
+        <value>♌</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/264c/leo -->
+
+    <!-- row#: 5 -->
+    <symbol>
+        <key>virgo</key>
+        <value>♍</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/264d/virgo -->
+    <symbol>
+        <key>libra</key>
+        <value>♎</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/264e/libra -->
+    <symbol>
+        <key>scorpius</key>
+        <value>♏</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/264f/scorpius -->
+    <symbol>
+        <key>sagittarius</key>
+        <value>♐</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2650/sagittarius -->
+    <symbol>
+        <key>capricorn</key>
+        <value>♑</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2651/capricorn -->
+    <symbol>
+        <key>aquarius</key>
+        <value>♒</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2652/aquarius -->
+    <symbol>
+        <key>pisces</key>
+        <value>♓</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2653/pisces -->
+    <symbol>
+        <key>squared_id</key>
+        <value>🆔</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f194/squaredid -->
+
+    <!-- row#: 6 -->
+    <symbol>
+        <key>atom_symbol</key>
+        <value>⚛</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/269b/atomsymbol -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_7a7a</key>
+        <value>🈳</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/squared-cjk-unified-ideograph-7a7a/ -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_5272</key>
+        <value>🈹</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f239/squaredcjkunifiedideograph5272 -->
+    <symbol>
+        <key>radioactive_sign</key>
+        <value>☢</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2622/radioactivesign -->
+    <symbol>
+        <key>biohazard_sign</key>
+        <value>☣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2623/biohazardsign -->
+    <symbol>
+        <key>mobile_phone_off</key>
+        <value>📴</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4f4/mobilephoneoff -->
+    <symbol>
+        <key>vibration_mode</key>
+        <value>📳</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4f3/vibrationmode -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_6709</key>
+        <value>🈶</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f236/squaredcjkunifiedideograph6709 -->
+
+    <!-- row#: 7 -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_7121</key>
+        <value>🈚</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/squared-cjk-unified-ideograph-7121/ -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_7533</key>
+        <value>🈸</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f238/squaredcjkunifiedideograph7533 -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_55b6</key>
+        <value>🈺</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f23a/squaredcjkunifiedideograph55b6 -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_6708</key>
+        <value>🈷</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f237/squaredcjkunifiedideograph6708 -->
+    <symbol>
+        <key>eight_pointed_black_star</key>
+        <value>✴</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2734/eightpointedblackstar -->
+    <symbol>
+        <key>squared_vs</key>
+        <value>🆚</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f19a/squaredvs -->
+    <symbol>
+        <key>circled_ideograph_accept</key>
+        <value>🉑</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f251/circledideographaccept -->
+    <symbol>
+        <key>white_flower</key>
+        <value>💮</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4ae/whiteflower -->
+
+    <!-- row#: 8 -->
+    <symbol>
+        <key>circled_ideograph_advantage</key>
+        <value>🉐</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f250/circledideographadvantage -->
+    <symbol>
+        <key>circled_ideograph_secret</key>
+        <value>㊙</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/3299/circledideographsecret -->
+    <symbol>
+        <key>circled_ideograph_congratulation</key>
+        <value>㊗</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/3297/circledideographcongratulation -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_5408</key>
+        <value>🈴</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f234/squaredcjkunifiedideograph5408 -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_6e80</key>
+        <value>🈵</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f235/squaredcjkunifiedideograph6e80 -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_7981</key>
+        <value>🈲</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f232/squaredcjkunifiedideograph7981 -->
+    <symbol>
+        <key>negative_squared_latin_capital_letter_a</key>
+        <value>🅰</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f170/negativesquaredlatincapitallettera -->
+    <symbol>
+        <key>negative_squared_latin_capital_letter_b</key>
+        <value>🅱</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f171/negativesquaredlatincapitalletterb -->
+
+    <!-- row#: 9 -->
+    <symbol>
+        <key>negative_squared_ab</key>
+        <value>🆎</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f18e/negativesquaredab -->
+    <symbol>
+        <key>squared_cl</key>
+        <value>🆑</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f191/squaredcl -->
+    <symbol>
+        <key>negative_squared_latin_capital_letter_o</key>
+        <value>🅾</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f17e/negativesquaredlatincapitallettero -->
+    <symbol>
+        <key>squared_sos</key>
+        <value>🆘</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f198/squaredsos -->
+    <symbol>
+        <key>no_entry</key>
+        <value>⛔</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/26d4/noentry -->
+    <symbol>
+        <key>name_badge</key>
+        <value>📛</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4db/namebadge -->
+    <symbol>
+        <key>no_entry_sign</key>
+        <value>🚫</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6ab/noentrysign -->
+    <symbol>
+        <key>cross_mark</key>
+        <value>❌</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/274c/crossmark -->
+
+    <!-- row#: 10 -->
+    <symbol>
+        <key>heavy_large_circle</key>
+        <value>⭕</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2b55/heavylargecircle -->
+    <symbol>
+        <key>anger_symbol</key>
+        <value>💢</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4a2/angersymbol -->
+    <symbol>
+        <key>hot_springs</key>
+        <value>♨</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2668/hotsprings -->
+    <symbol>
+        <key>no_pedestrians</key>
+        <value>🚷</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6b7/nopedestrians -->
+    <symbol>
+        <key>do_not_litter_symbol</key>
+        <value>🚯</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6af/donotlittersymbol -->
+    <symbol>
+        <key>no_bi_cycles</key>
+        <value>🚳</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6b3/nobicycles -->
+    <symbol>
+        <key>non_potable_water_symbol</key>
+        <value>🚱</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6b1/nonpotablewatersymbol -->
+    <symbol>
+        <key>no_one_under_eighteen_symbol</key>
+        <value>🔞</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f51e/nooneundereighteensymbol -->
+
+    <!-- row#: 11 -->
+    <symbol>
+        <key>no_mobile_phones</key>
+        <value>📵</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4f5/nomobilephones -->
+    <symbol>
+        <key>heavy_exclamation_mark_symbol</key>
+        <value>❗</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2757/heavyexclamationmarksymbol -->
+    <symbol>
+        <key>white_exclamation_mark_ornament</key>
+        <value>❕</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2755/whiteexclamationmarkornament -->
+    <symbol>
+        <key>black_question_mark_ornament</key>
+        <value>❓</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2753/blackquestionmarkornament -->
+    <symbol>
+        <key>white_question_mark_ornament</key>
+        <value>❔</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2754/whitequestionmarkornament -->
+    <symbol>
+        <key>double_exclamation_mark</key>
+        <value>‼</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/203c/doubleexclamationmark -->
+    <symbol>
+        <key>exclamation_question_mark</key>
+        <value>⁉</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2049/exclamationquestionmark -->
+    <symbol>
+        <key>hundred_points_symbol</key>
+        <value>💯</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4af/hundredpointssymbol -->
+
+    <!-- row#: 12 -->
+    <symbol>
+        <key>low_brightness_symbol</key>
+        <value>🔅</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f505/lowbrightnesssymbol -->
+    <symbol>
+        <key>high_brightness_symbol</key>
+        <value>🔆</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f506/highbrightnesssymbol -->
+    <symbol>
+        <key>trident_emblem</key>
+        <value>🔱</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f531/tridentemblem -->
+    <symbol>
+        <key>fleur_de_lis</key>
+        <value>⚜</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/269c/fleurdelis -->
+    <symbol>
+        <key>part_alternation_mark</key>
+        <value>〽</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/303d/partalternationmark -->
+    <symbol>
+        <key>warning_sign</key>
+        <value>⚠</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/26a0/warningsign -->
+    <symbol>
+        <key>children_crossing</key>
+        <value>🚸</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6b8/childrencrossing -->
+    <symbol>
+        <key>japanese_symbol_for_beginner</key>
+        <value>🔰</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f530/japanesesymbolforbeginner -->
+
+    <!-- row#: 13 -->
+    <symbol>
+        <key>black_universal_recycling_symbol</key>
+        <value>♻</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/267b/blackuniversalrecyclingsymbol -->
+    <symbol>
+        <key>squared_cjk_unified_ideograph_6307</key>
+        <value>🈯</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f22f/squaredcjkunifiedideograph6307 -->
+    <symbol>
+        <key>chart_with_upwards_trend_and_yen_sign</key>
+        <value>💹</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4b9/chartwithupwardstrendandyensign -->
+    <symbol>
+        <key>sparkle</key>
+        <value>❇</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2747/sparkle -->
+    <symbol>
+        <key>eight_spoked_asterisk</key>
+        <value>✳</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2733/eightspokedasterisk -->
+    <symbol>
+        <key>negative_squared_crossmark</key>
+        <value>❎</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/274e/negativesquaredcrossmark -->
+    <symbol>
+        <key>white_heavy_checkmark</key>
+        <value>✅</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2705/whiteheavycheckmark -->
+    <symbol>
+        <key>diamond_shape_with_a_dot_inside</key>
+        <value>💠</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4a0/diamondshapewithadotinside -->
+
+    <!-- row#: 14 -->
+    <symbol>
+        <key>cyclone</key>
+        <value>🌀</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f300/cyclone -->
+    <symbol>
+        <key>double_curly_loop</key>
+        <value>➿</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/27bf/doublecurlyloop -->
+    <symbol>
+        <key>globe_with_meridians</key>
+        <value>🌐</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f310/globewithmeridians -->
+    <symbol>
+        <key>circled_latin_capital_letter_m</key>
+        <value>ⓜ</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/24c2/circledlatincapitalletterm -->
+    <symbol>
+        <key>automated_teller_machine</key>
+        <value>🏧</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f3e7/automatedtellermachine -->
+    <symbol>
+        <key>squared_katakanasa</key>
+        <value>🈂</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f202/squaredkatakanasa -->
+    <symbol>
+        <key>passport_control</key>
+        <value>🛂</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6c2/passportcontrol -->
+    <symbol>
+        <key>customs</key>
+        <value>🛃</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6c3/customs -->
+
+    <!-- row#: 15 -->
+    <symbol>
+        <key>baggage_claim</key>
+        <value>🛄</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6c4/baggageclaim -->
+    <symbol>
+        <key>left_luggage</key>
+        <value>🛅</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6c5/leftluggage -->
+    <symbol>
+        <key>wheel_chair_symbol</key>
+        <value>♿</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/267f/wheelchairsymbol -->
+    <symbol>
+        <key>no_smoking_symbol</key>
+        <value>🚭</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6ad/nosmokingsymbol -->
+    <symbol>
+        <key>water_closet</key>
+        <value>🚾</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6be/watercloset -->
+    <symbol>
+        <key>negative_squared_letter_p</key>
+        <value>🅿</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f17f/negativesquaredlatincapitalletterp -->
+    <symbol>
+        <key>potable_water_symbol</key>
+        <value>🚰</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6b0/potablewatersymbol -->
+    <symbol>
+        <key>mens_symbol</key>
+        <value>🚹</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6b9/menssymbol -->
+
+    <!-- row#: 16 -->
+    <symbol>
+        <key>womens_symbol</key>
+        <value>🚺</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6ba/womenssymbol -->
+    <symbol>
+        <key>baby_symbol</key>
+        <value>🚼</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6bc/babysymbol -->
+    <symbol>
+        <key>restroom</key>
+        <value>🚻</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6bb/restroom -->
+    <symbol>
+        <key>put_litter_in_its_place</key>
+        <value>🚮</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f6ae/putlitterinitsplacesymbol -->
+    <symbol>
+        <key>cinema</key>
+        <value>🎦</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f3a6/cinema -->
+    <symbol>
+        <key>antenna_with_bars</key>
+        <value>📶</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4f6/antennawithbars -->
+    <symbol>
+        <key>squared_katakana_koko</key>
+        <value>🈁</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f201/squaredkatakanakoko -->
+    <symbol>
+        <key>squared_ng</key>
+        <value>🆖</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f196/squaredng -->
+
+    <!-- row#: 17 -->
+    <symbol>
+        <key>squared_ok</key>
+        <value>🆗</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f197/squaredok -->
+    <symbol>
+        <key>squared_exclamation_mark</key>
+        <value>🆙</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f199/squaredupwithexclamationmark -->
+    <symbol>
+        <key>squared_cool</key>
+        <value>🆒</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f192/squaredcool -->
+    <symbol>
+        <key>squared_new</key>
+        <value>🆕</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f195/squarednew -->
+    <symbol>
+        <key>squared_free</key>
+        <value>🆓</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f193/squaredfree -->
+    <symbol>
+        <key>keycap_digit_zero</key>
+        <value>0⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0030-20e3/keycapdigitzero -->
+    <symbol>
+        <key>keycap_digit_one</key>
+        <value>1⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0031-20e3/keycapdigitone -->
+    <symbol>
+        <key>keycap_digit_two</key>
+        <value>2⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0032-20e3/keycapdigittwo -->
+
+    <!-- row#: 18 -->
+    <symbol>
+        <key>keycap_digit_three</key>
+        <value>3⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0033-20e3/keycapdigitthree -->
+    <symbol>
+        <key>keycap_digit_four</key>
+        <value>4⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0034-20e3/keycapdigitfour -->
+    <symbol>
+        <key>keycap_digit_five</key>
+        <value>5⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0035-20e3/keycapdigitfive -->
+    <symbol>
+        <key>keycap_digit_six</key>
+        <value>6⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0036-20e3/keycapdigitsix -->
+    <symbol>
+        <key>keycap_digit_seven</key>
+        <value>7⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0037-20e3/keycapdigitseven -->
+    <symbol>
+        <key>keycap_digit_eight</key>
+        <value>8⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0038-20e3/keycapdigiteight -->
+    <symbol>
+        <key>keycap_digit_nine</key>
+        <value>9⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0039-20e3/keycapdigitnine -->
+    <symbol>
+        <key>keycap_ten</key>
+        <value>🔟</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f51f/keycapten -->
+
+    <!-- row#: 19 -->
+    <symbol>
+        <key>input_symbol_for_numbers</key>
+        <value>🔢</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f522/inputsymbolfornumbers -->
+    <symbol>
+        <key>black_right_pointing_triangle</key>
+        <value>▶</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/25b6/blackrightpointingtriangle -->
+    <symbol>
+        <key>double_vertical_bar</key>
+        <value>⏸</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/23f8/doubleverticalbar -->
+    <symbol>
+        <key>blk_rgt_point_triangle_dbl_vertical_bar</key>
+        <value>⏯</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/23ef/blackrightpointingtrianglewithdoubleverticalbar -->
+    <symbol>
+        <key>black_square_for_stop</key>
+        <value>⏹</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/23f9/blacksquareforstop -->
+    <symbol>
+        <key>black_circle_for_record</key>
+        <value>⏺</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/23fa/blackcircleforrecord -->
+    <symbol>
+        <key>blk_rgt_point_dbl_triangle_vertical_bar</key>
+        <value>⏭</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/23ed/blackrightpointingdoubletrianglewithverticalbar -->
+    <symbol>
+        <key>blk_lft_point_dbl_triangle_vertical_bar</key>
+        <value>⏮</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/23ee/blackleftpointingdoubletrianglewithverticalbar -->
+
+    <!-- row#: 20 -->
+    <symbol>
+        <key>blk_rgt_point_dbl_triangle</key>
+        <value>⏩</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/23e9/blackrightpointingdoubletriangle -->
+    <symbol>
+        <key>blk_lft_point_dbl_triangle</key>
+        <value>⏪</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/23ea/blackleftpointingdoubletriangle -->
+    <symbol>
+        <key>twisted_rightwards_arrows</key>
+        <value>🔀</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f500/twistedrightwardsarrows -->
+    <symbol>
+        <key>cwise_rgt_lft_open_circle_arrow</key>
+        <value>🔁</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f501/clockwiserightwardsandleftwardsopencirclearrows -->
+    <symbol>
+        <key>cwise_rgt_lft_open_circle_arrow_overlay</key>
+        <value>🔂</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f502/clockwiserightwardsandleftwardsopencirclearrowswithcircledoneoverlay -->
+    <symbol>
+        <key>blk_lft_point_triangle</key>
+        <value>◀</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/25c0/blackleftpointingtriangle -->
+    <symbol>
+        <key>up_point_small_red_triangle</key>
+        <value>🔼</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f53c/uppointingsmallredtriangle -->
+    <symbol>
+        <key>down_point_small_red_triangle</key>
+        <value>🔽</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f53d/downpointingsmallredtriangle -->
+
+    <!-- row#: 21 -->
+    <symbol>
+        <key>blk_up_point_double_triangle</key>
+        <value>⏫</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/23eb/blackuppointingdoubletriangle -->
+    <symbol>
+        <key>blk_down_point_double_triangle</key>
+        <value>⏬</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/23ec/blackdownpointingdoubletriangle -->
+    <symbol>
+        <key>black_rightwards_arrow</key>
+        <value>➡</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/27a1/blackrightwardsarrow -->
+    <symbol>
+        <key>leftwards_black_arrow</key>
+        <value>⬅</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2b05/leftwardsblackarrow -->
+    <symbol>
+        <key>upwards_black_arrow</key>
+        <value>⬆</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2b06/upwardsblackarrow -->
+    <symbol>
+        <key>downwards_black_arrow</key>
+        <value>⬇</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2b07/downwardsblackarrow -->
+    <symbol>
+        <key>northeast_arrow</key>
+        <value>↗</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2197/northeastarrow -->
+    <symbol>
+        <key>southeast_arrow</key>
+        <value>↘</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2198/southeastarrow -->
+
+    <!-- row#: 22 -->
+    <symbol>
+        <key>south_west_arrow</key>
+        <value>↙</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2199/southwestarrow -->
+    <symbol>
+        <key>north_west_arrow</key>
+        <value>↖</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2196/northwestarrow -->
+    <symbol>
+        <key>up_down_arrow</key>
+        <value>↕</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2195/updownarrow -->
+    <symbol>
+        <key>left_right_arrow</key>
+        <value>↔</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2194/leftrightarrow -->
+    <symbol>
+        <key>acwise_down_up_open_circle_arrow</key>
+        <value>🔄</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f504/anticlockwisedownwardsandupwardsopencirclearrows -->
+    <symbol>
+        <key>rightwards_arrow_with_hook</key>
+        <value>↪</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/21aa/rightwardsarrowwithhook -->
+    <symbol>
+        <key>leftwards_arrow_with_hook</key>
+        <value>↩</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/21a9/leftwardsarrowwithhook -->
+    <symbol>
+        <key>arrow_point_rgt_then_curving_up</key>
+        <value>⤴</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2934/arrowpointingrightwardsthencurvingupwards -->
+
+    <!-- row#: 23 -->
+    <symbol>
+        <key>arrow_point_rgt_then_curving_down</key>
+        <value>⤵</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2935/arrowpointingrightwardsthencurvingdownwards -->
+    <symbol>
+        <key>keycap_number_sign</key>
+        <value>#⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/0023-20e3/keycapnumbersign -->
+    <symbol>
+        <key>keycap_asterisk</key>
+        <value>*⃣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/002a-20e3/keycapasterisk -->
+    <symbol>
+        <key>information_source</key>
+        <value>ℹ</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2139/informationsource -->
+    <symbol>
+        <key>input_symbol_for_latin_letters</key>
+        <value>🔤</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f524/inputsymbolforlatinletters -->
+    <symbol>
+        <key>input_symbol_latin_small_letters</key>
+        <value>🔡</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f521/inputsymbolforlatinsmallletters -->
+    <symbol>
+        <key>input_symbol_latin_capital_letters</key>
+        <value>🔠</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f520/inputsymbolforlatincapitalletters -->
+    <symbol>
+        <key>input_symbol_symbols</key>
+        <value>🔣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f523/inputsymbolforsymbols -->
+
+    <!-- row#: 24 -->
+    <symbol>
+        <key>musical_note</key>
+        <value>🎵</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f3b5/musicalnote -->
+    <symbol>
+        <key>multiple_musical_notes</key>
+        <value>🎶</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f3b6/multiplemusicalnotes -->
+    <symbol>
+        <key>wavy_dash</key>
+        <value>〰</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/3030/wavydash -->
+    <symbol>
+        <key>curly_loop</key>
+        <value>➰</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/27b0/curlyloop -->
+    <symbol>
+        <key>heavy_check_mark</key>
+        <value>✔</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2714/heavycheckmark -->
+    <symbol>
+        <key>cwise_down_up_open_circle_arrows</key>
+        <value>🔃</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f503/clockwisedownwardsandupwardsopencirclearrows -->
+    <symbol>
+        <key>heavy_plus_sign</key>
+        <value>➕</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2795/heavyplussign -->
+    <symbol>
+        <key>heavy_minus_sign</key>
+        <value>➖</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2796/heavyminussign -->
+
+    <!-- row#: 25 -->
+    <symbol>
+        <key>heavy_division_sign</key>
+        <value>➗</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2797/heavydivisionsign -->
+    <symbol>
+        <key>heavy_multiplication_x</key>
+        <value>✖</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2716/heavymultiplicationx -->
+    <symbol>
+        <key>heavy_dollar_sign</key>
+        <value>💲</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4b2/heavydollarsign -->
+    <symbol>
+        <key>currency_exchange</key>
+        <value>💱</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4b1/currencyexchange -->
+    <symbol>
+        <key>copyright_sign</key>
+        <value>©</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/00a9/copyrightsign -->
+    <symbol>
+        <key>registered_sign</key>
+        <value>®</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/00ae/registeredsign -->
+    <symbol>
+        <key>trademark_sign</key>
+        <value>™</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2122/trademarksign -->
+    <symbol>
+        <key>end_with_lft_arrow_above</key>
+        <value>🔚</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f51a/endwithleftwardsarrowabove -->
+
+    <!-- row#: 26 -->
+    <symbol>
+        <key>back_with_lft_arrow_above</key>
+        <value>🔙</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f519/backwithleftwardsarrowabove -->
+    <symbol>
+        <key>on_exclamation_lft_rgt_arrow</key>
+        <value>🔛</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f51b/onwithexclamationmarkwithleftrightarrowabove -->
+    <symbol>
+        <key>top_with_up_arrow_above</key>
+        <value>🔝</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f51d/topwithupwardsarrowabove -->
+    <symbol>
+        <key>soon_right_arrow_above</key>
+        <value>🔜</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f51c/soonwithrightwardsarrowabove -->
+    <symbol>
+        <key>ballot_box_with_check</key>
+        <value>☑</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2611/ballotboxwithcheck -->
+    <symbol>
+        <key>radio_button</key>
+        <value>🔘</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f518/radiobutton -->
+    <symbol>
+        <key>medium_white_circle</key>
+        <value>⚪</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/26aa/mediumwhitecircle -->
+    <symbol>
+        <key>medium_black_circle</key>
+        <value>⚫</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/26ab/mediumblackcircle -->
+
+    <!-- row#: 27 -->
+    <symbol>
+        <key>large_red_circle</key>
+        <value>🔴</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f534/largeredcircle -->
+    <symbol>
+        <key>large_blue_circle</key>
+        <value>🔵</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f535/largebluecircle -->
+    <symbol>
+        <key>small_orange_diamond</key>
+        <value>🔸</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f538/smallorangediamond -->
+    <symbol>
+        <key>small_blue_diamond</key>
+        <value>🔹</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f539/smallbluediamond -->
+    <symbol>
+        <key>large_orange_diamond</key>
+        <value>🔶</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f536/largeorangediamond -->
+    <symbol>
+        <key>large_blue_diamond</key>
+        <value>🔷</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f537/largebluediamond -->
+    <symbol>
+        <key>up_point_red_triangle</key>
+        <value>🔺</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f53a/uppointingredtriangle -->
+    <symbol>
+        <key>black_small_square</key>
+        <value>▪</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/25aa/blacksmallsquare -->
+
+    <!-- row#: 28 -->
+    <symbol>
+        <key>white_small_square</key>
+        <value>▫</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/25ab/whitesmallsquare -->
+    <symbol>
+        <key>black_large_square</key>
+        <value>⬛</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2b1b/blacklargesquare -->
+    <symbol>
+        <key>white_large_square</key>
+        <value>⬜</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2b1c/whitelargesquare -->
+    <symbol>
+        <key>down_point_red_triangle</key>
+        <value>🔻</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f53b/downpointingredtriangle -->
+    <symbol>
+        <key>black_medium_square</key>
+        <value>◼</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/25fc/blackmediumsquare -->
+    <symbol>
+        <key>white_medium_square</key>
+        <value>◻</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/25fb/whitemediumsquare -->
+    <symbol>
+        <key>black_medium_small_square</key>
+        <value>◾</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/25fe/blackmediumsmallsquare -->
+    <symbol>
+        <key>white_medium_small_square</key>
+        <value>◽</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/25fd/whitemediumsmallsquare -->
+
+    <!-- row#: 29 -->
+    <symbol>
+        <key>black_square_button</key>
+        <value>🔲</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f532/blacksquarebutton -->
+    <symbol>
+        <key>white_square_button</key>
+        <value>🔳</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f533/whitesquarebutton -->
+    <symbol>
+        <key>speaker</key>
+        <value>🔈</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f508/speaker -->
+    <symbol>
+        <key>speaker_one_sound_wave</key>
+        <value>🔉</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f509/speakerwithonesoundwave -->
+    <symbol>
+        <key>speaker_three_sound_waves</key>
+        <value>🔊</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f50a/speakerwiththreesoundwaves -->
+    <symbol>
+        <key>speaker_cancellation_stroke</key>
+        <value>🔇</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f507/speakerwithcancellationstroke -->
+    <symbol>
+        <key>cheering_megaphone</key>
+        <value>📣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4e3/cheeringmegaphone -->
+    <symbol>
+        <key>public_address_loudspeaker</key>
+        <value>📢</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4e2/publicaddressloudspeaker -->
+
+    <!-- row#: 30 -->
+    <symbol>
+        <key>bell</key>
+        <value>🔔</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f514/bell -->
+    <symbol>
+        <key>bell_with_cancellation_stroke</key>
+        <value>🔕</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f515/bellwithcancellationstroke -->
+    <symbol>
+        <key>playing_card_black_joker</key>
+        <value>🃏</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f0cf/playingcardblackjoker -->
+    <symbol>
+        <key>mahjong_tile_red_dragon</key>
+        <value>🀄</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f004/mahjongtilereddragon -->
+    <symbol>
+        <key>black_spade_suit</key>
+        <value>♠</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2660/blackspadesuit -->
+    <symbol>
+        <key>black_club_suit</key>
+        <value>♣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2663/blackclubsuit -->
+    <symbol>
+        <key>black_heart_suit</key>
+        <value>♥</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2665/blackheartsuit -->
+    <symbol>
+        <key>black_diamond_suit</key>
+        <value>♦</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/2666/blackdiamondsuit -->
+
+    <!-- row#: 31 -->
+    <symbol>
+        <key>flower_playing_cards</key>
+        <value>🎴</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f3b4/flowerplayingcards -->
+    <symbol>
+        <key>eye_in_speech_bubble</key>
+        <value>👁‍🗨</value>
+    </symbol>
+    <!-- http://www.emojipedia.org/eye-in-speech-bubble/ -->
+    <symbol>
+        <key>thought_balloon</key>
+        <value>💭</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4ad/thoughtballoon -->
+    <symbol>
+        <key>right_anger_bubble</key>
+        <value>🗯</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f5ef/rightangerbubble -->
+    <symbol>
+        <key>speech_balloon</key>
+        <value>💬</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f4ac/speechballoon -->
+    <symbol>
+        <key>clock_face_one_o_clock</key>
+        <value>🕐</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f550/clockfaceoneoclock -->
+    <symbol>
+        <key>clock_face_two_o_clock</key>
+        <value>🕑</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f551/clockfacetwooclock -->
+    <symbol>
+        <key>clock_face_three_o_clock</key>
+        <value>🕒</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f552/clockfacethreeoclock -->
+
+    <!-- row#: 32 -->
+    <symbol>
+        <key>clock_face_four_o_clock</key>
+        <value>🕓</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f553/clockfacefouroclock -->
+    <symbol>
+        <key>clock_face_five_o_clock</key>
+        <value>🕔</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f554/clockfacefiveoclock -->
+    <symbol>
+        <key>clock_face_six_o_clock</key>
+        <value>🕕</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f555/clockfacesixoclock -->
+    <symbol>
+        <key>clock_face_seven_o_clock</key>
+        <value>🕖</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f556/clockfacesevenoclock -->
+    <symbol>
+        <key>clock_face_eight_o_clock</key>
+        <value>🕗</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f557/clockfaceeightoclock -->
+    <symbol>
+        <key>clock_face_nine_o_clock</key>
+        <value>🕘</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f558/clockfacenineoclock -->
+    <symbol>
+        <key>clock_face_ten_o_clock</key>
+        <value>🕙</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f559/clockfacetenoclock -->
+    <symbol>
+        <key>clock_face_eleven_o_clock</key>
+        <value>🕚</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f55a/clockfaceelevenoclock -->
+
+    <!-- row#: 33 -->
+    <symbol>
+        <key>clock_face_twelve_o_clock</key>
+        <value>🕛</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f55b/clockfacetwelveoclock -->
+    <symbol>
+        <key>clock_face_one_thirty</key>
+        <value>🕜</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f55c/clockfaceonethirty -->
+    <symbol>
+        <key>clock_face_two_thirty</key>
+        <value>🕝</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f55d/clockfacetwothirty -->
+    <symbol>
+        <key>clock_face_three_thirty</key>
+        <value>🕞</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f55e/clockfacethreethirty -->
+    <symbol>
+        <key>clock_face_four_thirty</key>
+        <value>🕟</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f55f/clockfacefourthirty -->
+    <symbol>
+        <key>clock_face_five_thirty</key>
+        <value>🕠</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f560/clockfacefivethirty -->
+    <symbol>
+        <key>clock_face_six_thirty</key>
+        <value>🕡</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f561/clockfacesixthirty -->
+    <symbol>
+        <key>clock_face_seven_thirty</key>
+        <value>🕢</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f562/clockfaceseventhirty -->
+
+    <!-- row#: 34 -->
+    <symbol>
+        <key>clock_face_eight_thirty</key>
+        <value>🕣</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f563/clockfaceeightthirty -->
+    <symbol>
+        <key>clock_face_nine_thirty</key>
+        <value>🕤</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f564/clockfaceninethirty -->
+    <symbol>
+        <key>clock_face_ten_thirty</key>
+        <value>🕥</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f565/clockfacetenthirty -->
+    <symbol>
+        <key>clock_face_eleven_thirty</key>
+        <value>🕦</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f566/clockfaceeleventhirty -->
+    <symbol>
+        <key>clock_face_twelve_thirty</key>
+        <value>🕧</value>
+    </symbol>
+    <!-- http://www.emojibase.com/emoji/1f567/clockfacetwelvethirty -->
+
+</symbols>
