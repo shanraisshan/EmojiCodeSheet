@@ -1,0 +1,613 @@
+<?xml version="1.0"?>
+
+<!-- Shayan Rais (http://shanraisshan.com) -->
+<!-- created on 8/20/2016 -->
+
+<travels>
+
+    <!-- row#: 1 -->
+    <travel>
+        <key>automobile</key>
+        <value>🚗</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f697/automobile -->
+    <travel>
+        <key>taxi</key>
+        <value>🚕</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f695/taxi -->
+    <travel>
+        <key>recreational_vehicle</key>
+        <value>🚙</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f699/recreationalvehicle -->
+    <travel>
+        <key>bus</key>
+        <value>🚌</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f68c/bus -->
+    <travel>
+        <key>trolley_bus</key>
+        <value>🚎</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f68e/trolleybus -->
+    <travel>
+        <key>racing_car</key>
+        <value>🏎</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3ce/racingcar -->
+    <travel>
+        <key>police_car</key>
+        <value>🚓</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f693/policecar -->
+    <travel>
+        <key>ambulance</key>
+        <value>🚑</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f691/ambulance -->
+
+    <!-- row#: 2 -->
+    <travel>
+        <key>fire_engine</key>
+        <value>🚒</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f692/fireengine -->
+    <travel>
+        <key>minibus</key>
+        <value>🚐</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f690/minibus -->
+    <travel>
+        <key>delivery_truck</key>
+        <value>🚚</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f69a/deliverytruck -->
+    <travel>
+        <key>articulated_lorry</key>
+        <value>🚛</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f69b/articulatedlorry -->
+    <travel>
+        <key>tractor</key>
+        <value>🚜</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f69c/tractor -->
+    <travel>
+        <key>racing_motorcycle</key>
+        <value>🏍</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3cd/racingmotorcycle -->
+    <travel>
+        <key>bicycle</key>
+        <value>🚲</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6b2/bicycle -->
+    <travel>
+        <key>police_light</key>
+        <value>🚨</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6a8/policecarsrevolvinglight -->
+
+    <!-- row#: 3 -->
+    <travel>
+        <key>on_coming_police_car</key>
+        <value>🚔</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f694/oncomingpolicecar -->
+    <travel>
+        <key>on_coming_bus</key>
+        <value>🚍</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f68d/oncomingbus -->
+    <travel>
+        <key>on_coming_automobile</key>
+        <value>🚘</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f698/oncomingautomobile -->
+    <travel>
+        <key>on_coming_taxi</key>
+        <value>🚖</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f696/oncomingtaxi -->
+    <travel>
+        <key>aerial_tramway</key>
+        <value>🚡</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6a1/aerialtramway -->
+    <travel>
+        <key>mountain_cableway</key>
+        <value>🚠</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6a0/mountaincableway -->
+    <travel>
+        <key>suspension_railway</key>
+        <value>🚟</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f69f/suspensionrailway -->
+    <travel>
+        <key>railway_car</key>
+        <value>🚃</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f683/railwaycar -->
+
+    <!-- row#: 4 -->
+    <travel>
+        <key>tramcar</key>
+        <value>🚋</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f68b/tramcar -->
+    <travel>
+        <key>monorail</key>
+        <value>🚝</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f69d/monorail -->
+    <travel>
+        <key>high_speed_train</key>
+        <value>🚄</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f684/highspeedtrain -->
+    <travel>
+        <key>high_speed_train_bullet_nose</key>
+        <value>🚅</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f685/highspeedtrainwithbulletnose -->
+    <travel>
+        <key>light_rail</key>
+        <value>🚈</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f688/lightrail -->
+    <travel>
+        <key>mountain_railway</key>
+        <value>🚞</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f69e/mountainrailway -->
+    <travel>
+        <key>steam_locomotive</key>
+        <value>🚂</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f682/steamlocomotive -->
+    <travel>
+        <key>train</key>
+        <value>🚆</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f686/train -->
+
+    <!-- row#: 5 -->
+    <travel>
+        <key>metro</key>
+        <value>🚇</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f687/metro -->
+    <travel>
+        <key>tram</key>
+        <value>🚊</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f68a/tram -->
+    <travel>
+        <key>station</key>
+        <value>🚉</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f689/station -->
+    <travel>
+        <key>helicopter</key>
+        <value>🚁</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f681/helicopter -->
+    <travel>
+        <key>small_airplane</key>
+        <value>🛩</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6e9/smallairplane -->
+    <travel>
+        <key>airplane</key>
+        <value>✈</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/2708/airplane -->
+    <travel>
+        <key>airplane_departure</key>
+        <value>🛫</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6eb/airplanedeparture -->
+    <travel>
+        <key>airplane_arriving</key>
+        <value>🛬</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6ec/airplanearriving -->
+
+    <!-- row#: 6 -->
+    <travel>
+        <key>sailbot</key>
+        <value>⛵</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/26f5/sailboat -->
+    <travel>
+        <key>motorboat</key>
+        <value>🛥</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6e5/motorboat -->
+    <travel>
+        <key>speedboat</key>
+        <value>🚤</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6a4/speedboat -->
+    <travel>
+        <key>ferry</key>
+        <value>⛴</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/26f4/ferry -->
+    <travel>
+        <key>passenger_ship</key>
+        <value>🛳</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6f3/passengership -->
+    <travel>
+        <key>rocket</key>
+        <value>🚀</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f680/rocket -->
+    <travel>
+        <key>satellite</key>
+        <value>🛰</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6f0/satellite -->
+    <travel>
+        <key>seat</key>
+        <value>💺</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f4ba/seat -->
+
+    <!-- row#: 7 -->
+    <travel>
+        <key>anchor</key>
+        <value>⚓</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/2693/anchor -->
+    <travel>
+        <key>construction_sign</key>
+        <value>🚧</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6a7/constructionsign -->
+    <travel>
+        <key>fuel_pump</key>
+        <value>⛽</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/26fd/fuelpump -->
+    <travel>
+        <key>bus_stop</key>
+        <value>🚏</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f68f/busstop -->
+    <travel>
+        <key>vertical_traffic_light</key>
+        <value>🚦</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6a6/verticaltrafficlight -->
+    <travel>
+        <key>horizontal_traffic_light</key>
+        <value>🚥</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6a5/horizontaltrafficlight -->
+    <travel>
+        <key>chequered_flag</key>
+        <value>🏁</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3c1/chequeredflag -->
+    <travel>
+        <key>ship</key>
+        <value>🚢</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6a2/ship -->
+
+    <!-- row#: 8 -->
+    <travel>
+        <key>ferris_wheel</key>
+        <value>🎡</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3a1/ferriswheel -->
+    <travel>
+        <key>roller_coaster</key>
+        <value>🎢</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3a2/rollercoaster -->
+    <travel>
+        <key>carousel_horse</key>
+        <value>🎠</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3a0/carouselhorse -->
+    <travel>
+        <key>building_construction</key>
+        <value>🏗</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3d7/buildingconstruction -->
+    <travel>
+        <key>foggy</key>
+        <value>🌁</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f301/foggy -->
+    <travel>
+        <key>tokyo_tower</key>
+        <value>🗼</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f5fc/tokyotower -->
+    <travel>
+        <key>factory</key>
+        <value>🏭</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3ed/factory -->
+    <travel>
+        <key>fountain</key>
+        <value>⛲</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/26f2/fountain -->
+
+    <!-- row#: 9 -->
+    <travel>
+        <key>moon_viewing_ceremony</key>
+        <value>🎑</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f391/moonviewingceremony -->
+    <travel>
+        <key>mountain</key>
+        <value>⛰</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/26f0/mountain -->
+    <travel>
+        <key>snow_capped_mountain</key>
+        <value>🏔</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3d4/snowcappedmountain -->
+    <travel>
+        <key>mount_fuji</key>
+        <value>🗻</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f5fb/mountfuji -->
+    <travel>
+        <key>volcano</key>
+        <value>🌋</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f30b/volcano -->
+    <travel>
+        <key>silhouette_of_japan</key>
+        <value>🗾</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f5fe/silhouetteofjapan -->
+    <travel>
+        <key>camping</key>
+        <value>🏕</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3d5/camping -->
+    <travel>
+        <key>tent</key>
+        <value>⛺</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/26fa/tent -->
+
+    <!-- row#: 10 -->
+    <travel>
+        <key>national_park</key>
+        <value>🏞</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3de/nationalpark -->
+    <travel>
+        <key>motorway</key>
+        <value>🛣</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6e3/motorway -->
+    <travel>
+        <key>railway_track</key>
+        <value>🛤</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f6e4/railwaytrack -->
+    <travel>
+        <key>sunrise</key>
+        <value>🌅</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f305/sunrise -->
+    <travel>
+        <key>sunrise_over_mountain</key>
+        <value>🌄</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f304/sunriseovermountains -->
+    <travel>
+        <key>desert</key>
+        <value>🏜</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3dc/desert -->
+    <travel>
+        <key>beach_with_umbrella</key>
+        <value>🏖</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3d6/beachwithumbrella -->
+    <travel>
+        <key>desert_island</key>
+        <value>🏝</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3dd/desertisland -->
+
+    <!-- row#: 11 -->
+    <travel>
+        <key>sunset_over_buildings</key>
+        <value>🌇</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f307/sunsetoverbuildings -->
+    <travel>
+        <key>city_scape_at_dusk</key>
+        <value>🌆</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f306/cityscapeatdusk -->
+    <travel>
+        <key>city_scape</key>
+        <value>🏙</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3d9/cityscape -->
+    <travel>
+        <key>night_with_stars</key>
+        <value>🌃</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f303/nightwithstars -->
+    <travel>
+        <key>bridge_at_night</key>
+        <value>🌉</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f309/bridgeatnight -->
+    <travel>
+        <key>milky_way</key>
+        <value>🌌</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f30c/milkyway -->
+    <travel>
+        <key>shooting_star</key>
+        <value>🌠</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f320/shootingstar -->
+    <travel>
+        <key>fire_work_sparkler</key>
+        <value>🎇</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f387/fireworksparkler -->
+
+    <!-- row#: 12 -->
+    <travel>
+        <key>fireworks</key>
+        <value>🎆</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f386/fireworks -->
+    <travel>
+        <key>rainbow</key>
+        <value>🌈</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f308/rainbow -->
+    <travel>
+        <key>house_buildings</key>
+        <value>🏘</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3d8/housebuildings -->
+    <travel>
+        <key>european_castle</key>
+        <value>🏰</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3f0/europeancastle -->
+    <travel>
+        <key>japanese_castle</key>
+        <value>🏯</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3ef/japanesecastle -->
+    <travel>
+        <key>stadium</key>
+        <value>🏟</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3df/stadium -->
+    <travel>
+        <key>statue_of_liberty</key>
+        <value>🗽</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f5fd/statueofliberty -->
+    <travel>
+        <key>house_building</key>
+        <value>🏠</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3e0/housebuilding -->
+
+    <!-- row#: 13 -->
+    <travel>
+        <key>house_with_garden</key>
+        <value>🏡</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3e1/housewithgarden -->
+    <travel>
+        <key>derelict_house_building</key>
+        <value>🏚</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3da/derelicthousebuilding -->
+    <travel>
+        <key>office_building</key>
+        <value>🏢</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3e2/officebuilding -->
+    <travel>
+        <key>department_store</key>
+        <value>🏬</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3ec/departmentstore -->
+    <travel>
+        <key>japanese_post_office</key>
+        <value>🏣</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3e3/japanesepostoffice -->
+    <travel>
+        <key>european_post_office</key>
+        <value>🏤</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3e4/europeanpostoffice -->
+    <travel>
+        <key>hospital</key>
+        <value>🏥</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3e5/hospital -->
+    <travel>
+        <key>bank</key>
+        <value>🏦</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3e6/bank -->
+
+    <!-- row#: 14 -->
+    <travel>
+        <key>hotel</key>
+        <value>🏨</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3e8/hotel -->
+    <travel>
+        <key>convenience_store</key>
+        <value>🏪</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3ea/conveniencestore -->
+    <travel>
+        <key>school</key>
+        <value>🏫</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3eb/school -->
+    <travel>
+        <key>love_hotel</key>
+        <value>🏩</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3e9/lovehotel -->
+    <travel>
+        <key>wedding</key>
+        <value>💒</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f492/wedding -->
+    <travel>
+        <key>classical_building</key>
+        <value>🏛</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/1f3db/classicalbuilding -->
+    <travel>
+        <key>church</key>
+        <value>⛪</value>
+    </travel>
+    <!-- https://www.emojibase.com/emoji/26ea/church -->
+    <travel>
+        <key>mosque</key>
+        <value>🕌</value>
+    </travel>
+    <!-- http://emojipedia.org/mosque/ -->
+
+    <!-- row#: 15 -->
+    <travel>
+        <key>synagogue</key>
+        <value>🕍</value>
+    </travel>
+    <!-- http://emojipedia.org/synagogue/ -->
+    <travel>
+        <key>kaaba</key>
+        <value>🕋</value>
+    </travel>
+    <!-- http://emojipedia.org/kaaba/ -->
+    <travel>
+        <key>shinto_shrine</key>
+        <value>⛩</value>
+    </travel>
+    <!-- http://emojipedia.org/shinto-shrine/ -->
+
+</travels>
