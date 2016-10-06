@@ -58,6 +58,15 @@ The purpose of pasting emojibase/emojipedia link as a comment is to verify emoji
 
 ![alt tag](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/Guide.png)
 
+Custom Emojees
+----
+Develop keyboard for your application using your own personal custom emojees
+
+**For Example:** 👤 👁 ✌ 🚶 🏃
+
+![alt tag](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/custom_emojis.jpg)
+
+
 Acknowledgement
 ----
 **[WhatsApp](https://http://www.apkmirror.com/apk/whatsapp-inc/whatsapp/whatsapp-2-16-139-release/)**
