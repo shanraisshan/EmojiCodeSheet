@@ -66,6 +66,12 @@ Develop keyboard for your application using your own personal custom emojees
 
 ![alt tag](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/custom_emojis.jpg)
 
+Sample Implementation
+----
+
+**Android:**
+
+[![Android](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/google_play.png)](https://play.google.com/store/apps/details?id=com.emojicodesheet)
 
 Acknowledgement
 ----
