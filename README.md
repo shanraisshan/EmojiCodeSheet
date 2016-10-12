@@ -73,6 +73,10 @@ Sample Implementation
 
 [![Android](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/google_play.png)](https://play.google.com/store/apps/details?id=com.emojicodesheet)
 
+Youtube Video
+----
+[![Youtube](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/youtube_small.gif)](https://www.youtube.com/watch?v=8ly2qIFcw5Q)
+
 Acknowledgement
 ----
 **[WhatsApp](https://http://www.apkmirror.com/apk/whatsapp-inc/whatsapp/whatsapp-2-16-139-release/)**
