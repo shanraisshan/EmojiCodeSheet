@@ -1,8 +1,12 @@
 # EmojiCodeSheet
 Your first stop for developing emoji keyboards for any platform, using any language.
 
+Tags
+----
+  **#EmojiCodeSheet**
 
-
+Logo
+----
 ![alt tag](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/Logo.png)
 
 **Emoji Code Sheet** is a collection of emojees in form of programming language code. Get rid of the white boxes/missing symbols characters in your app. Develop your custom emoji keyboard using Emoji Code Sheet.
