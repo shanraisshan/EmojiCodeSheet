@@ -15,6 +15,11 @@ Emojees are the new way of talking. They are everywhere in all the instant messe
 
 ![alt tag](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/Cool.png)
 
+
+Why is the need of Emoji Code Sheet?
+----
+Explained in detail in this [LinkedIn article](https://www.linkedin.com/pulse/emoji-code-sheet-shayan-rais?trk=prof-post)
+
 Platform and Language
 ----
 Whether you are on iPhone, Android, Web or any other device, gadget, anywhere and you want to implement emoji keyboard just like WhatsApp or any other app. Emoji Code Sheet is your way to go. Just copy the emoji codes of language of your choice, either the **string symbol emojees** or **codepoints**, just do some coding to display the codepoints/symbols into textbox and your done.
