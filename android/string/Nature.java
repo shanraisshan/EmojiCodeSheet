@@ -167,7 +167,7 @@ public class Nature {
     //Row#: 17
     public static final String CLOUD_WITH_RAIN = "🌧"; //https://www.emojibase.com/emoji/1f327/cloudwithrain
     public static final String THUNDER_CLOUD_RAIN = "⛈"; //https://www.emojibase.com/emoji/26c8/thundercloudandrain
-    public static final String CLOUD_LIGHTENING = "🌩";  //https://www.emojibase.com/emoji/1f329/cloudwithlightning
+    public static final String CLOUD_LIGHTENING = "🌩"; //https://www.emojibase.com/emoji/1f329/cloudwithlightning
     public static final String HIGH_VOLTAGE = "⚡"; //https://www.emojibase.com/emoji/26a1/highvoltagesign
     public static final String FIRE = "🔥"; //https://www.emojibase.com/emoji/1f525/fire
     public static final String COLLISION = "💥"; //https://www.emojibase.com/emoji/1f4a5/collisionsymbol
