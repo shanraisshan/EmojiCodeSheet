@@ -32,16 +32,23 @@ Guide
 ----
 Guide Document is available at [EmojiCodeSheet_Guide](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/!Guide/EmojiCodeSheet_Guide.pdf)
 
-Emojees are categorized in 8 different tabs just like [WhatsApp Android version 2.16.139](https://github.com/shanraisshan/EmojiCodeSheet/tree/master/!Guide/WhatsApp%20Android%20v2.16.139%20Screenshots) as follows
+|ECS Version #|Date|Emojis are arranged according to|
+|:-:|:-:|:-|
+|2|March-2017|[WhatsApp Android version 2.17.107](https://github.com/shanraisshan/EmojiCodeSheet/tree/master/!Guide/WhatsApp%20Android%202.17.107%20Screens)|
+|1|June-2016|[WhatsApp Android version 2.16.139](https://github.com/shanraisshan/EmojiCodeSheet/tree/master/!Guide/WhatsApp%20Android%20v2.16.139%20Screenshots)|
 
-1. People
-2. Nature
-3. Food
-4. Activity
-5. Travel
-6. Objects
-7. Symbols
-8. Flags
+Emojees are categorized into 8 different tabs (just like WhatsApp) as follows
+
+|1|2|3|4|5|6|7|8|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|People|Nature|Food|Activity|Travel|Objects|Symbols|Flags|
+
+Files are named according to ECS versions
+
+|Version #|File names|
+|:-:|:-|
+|1|[People](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/android/string/People.java), Nature, Food .....|
+|2|[People2](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/android/string/People2.java), Nature2, Food2 .....|
 
 Code is available in 2 different forms.
 
