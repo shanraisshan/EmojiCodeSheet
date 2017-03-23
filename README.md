@@ -47,8 +47,8 @@ Files are named according to ECS versions
 
 |Version #|File names|
 |:-:|:-|
-|1|[People](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/android/string/People.java), Nature, Food .....|
 |2|[People2](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/android/string/People2.java), Nature2, Food2 .....|
+|1|[People](https://github.com/shanraisshan/EmojiCodeSheet/blob/master/android/string/People.java), Nature, Food .....|
 
 Code is available in 2 different forms.
 
