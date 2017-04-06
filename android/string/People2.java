@@ -174,4 +174,54 @@ public class People2 {
         public static final String FISTED_HAND_SIGN_TYPE_5 = "👊🏾";
         public static final String FISTED_HAND_SIGN_TYPE_6 = "👊🏿";
 
+    //Row#: 14
+    public static final String RAISED_FIST = "✊"; //http://emojipedia.org/raised-fist/
+        public static final String RAISED_FIST_TYPE_1_2 = "✊🏻";
+        public static final String RAISED_FIST_TYPE_3 = "✊🏼";
+        public static final String RAISED_FIST_TYPE_4 = "✊🏽";
+        public static final String RAISED_FIST_TYPE_5 = "✊🏾";
+        public static final String RAISED_FIST_TYPE_6 = "✊🏿";
+    public static final String LEFT_FACING_FIST = "🤛"; //http://emojipedia.org/left-facing-fist/
+        public static final String LEFT_FACING_FIST_TYPE_1_2 = "🤛🏻";
+        public static final String LEFT_FACING_FIST_TYPE_3 = "🤛🏼";
+        public static final String LEFT_FACING_FIST_TYPE_4 = "🤛🏽";
+        public static final String LEFT_FACING_FIST_TYPE_5 = "🤛🏾";
+        public static final String LEFT_FACING_FIST_TYPE_6 = "🤛🏿";
+    public static final String RIGHT_FACING_FIST = "🤜"; //http://emojipedia.org/right-facing-fist/
+        public static final String RIGHT_FACING_FIST_TYPE_1_2 = "🤜🏼";
+        public static final String RIGHT_FACING_FIST_TYPE_3 = "🤜🏼";
+        public static final String RIGHT_FACING_FIST_TYPE_4 = "🤜🏽";
+        public static final String RIGHT_FACING_FIST_TYPE_5 = "🤜🏾";
+        public static final String RIGHT_FACING_FIST_TYPE_6 = "🤜🏿";
+    public static final String HAND_WITH_INDEX_AND_MIDDLE_FINGERS_CROSSED = "🤞"; //http://emojipedia.org/hand-with-index-and-middle-fingers-crossed/
+        public static final String HAND_WITH_INDEX_AND_MIDDLE_FINGERS_CROSSED_TYPE_1_2 = "🤞🏻";
+        public static final String HAND_WITH_INDEX_AND_MIDDLE_FINGERS_CROSSED_TYPE_3 = "🤞🏼";
+        public static final String HAND_WITH_INDEX_AND_MIDDLE_FINGERS_CROSSED_TYPE_4 = "🤞🏽";
+        public static final String HAND_WITH_INDEX_AND_MIDDLE_FINGERS_CROSSED_TYPE_5 = "🤞🏾";
+        public static final String HAND_WITH_INDEX_AND_MIDDLE_FINGERS_CROSSED_TYPE_6 = "🤞🏿";
+    public static final String VICTORY_HAND = "✌"; //http://emojipedia.org/victory-hand/
+        public static final String VICTORY_HAND_TYPE_1_2 = "✌🏻";
+        public static final String VICTORY_HAND_TYPE_3 = "✌🏼";
+        public static final String VICTORY_HAND_TYPE_4 = "✌🏽";
+        public static final String VICTORY_HAND_TYPE_5 = "✌🏾";
+        public static final String VICTORY_HAND_TYPE_6 = "✌🏿";
+    public static final String SIGN_OF_HORN = "🤘"; //http://emojipedia.org/sign-of-the-horns/
+        public static final String SIGN_OF_HORN_TYPE_1_2 = "🤘🏻";
+        public static final String SIGN_OF_HORN_TYPE_3 = "🤘🏼";
+        public static final String SIGN_OF_HORN_TYPE_4 = "🤘🏽";
+        public static final String SIGN_OF_HORN_TYPE_5 = "🤘🏾";
+        public static final String SIGN_OF_HORN_TYPE_6 = "🤘🏿";
+    public static final String OK_HAND = "👌"; //http://emojipedia.org/ok-hand-sign/
+        public static final String OK_HAND_TYPE_1_2 = "👌🏻";
+        public static final String OK_HAND_TYPE_3 = "👌🏼";
+        public static final String OK_HAND_TYPE_4 = "👌🏽";
+        public static final String OK_HAND_TYPE_5 = "👌🏾";
+        public static final String OK_HAND_TYPE_6 = "👌🏿";
+    public static final String WHITE_LEFT_POINTING_BACKHAND_INDEX = "👈"; //http://emojipedia.org/white-left-pointing-backhand-index/
+        public static final String WHITE_LEFT_POINTING_BACKHAND_INDEX_TYPE_1_2 = "👈🏻";
+        public static final String WHITE_LEFT_POINTING_BACKHAND_INDEX_TYPE_3 = "👈🏼";
+        public static final String WHITE_LEFT_POINTING_BACKHAND_INDEX_TYPE_4 = "👈🏽";
+        public static final String WHITE_LEFT_POINTING_BACKHAND_INDEX_TYPE_5 = "👈🏾";
+        public static final String WHITE_LEFT_POINTING_BACKHAND_INDEX_TYPE_6 = "👈🏿";
+
 }
